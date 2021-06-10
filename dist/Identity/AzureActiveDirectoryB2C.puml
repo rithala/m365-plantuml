@@ -1,14 +1,3 @@
-sprite $AzureActiveDirectoryB2C [70x70/16z] {
-fPUBcgiW38GDWK1Rs_T_tAFPnk4uttuiEdk__JkPKO5bf2BBVULQxsFKQgjt8SasIhDx436dj7oBKhwKfhSWGMdfUZq6okMYr8BYcClrz9Hc5-i1nLLkGAnO
-OFALUbnf9mP7BqA-pGGcpNRiYXcajVc-rRfvN3KmanqpnMNpzPXYejc-hLFarA0yKuyhfvyHSssGJaAAgcwjQCwvTPA_T0ofQfPjn8rI01dthMU8xPIwOQp7
-33k6iggQKzhkfZR8XXttePGlfHL4C-pRQ9wWL4GpAgem92WDqGnkpCoXW4BHD1b040ee74sLGSUO1nIEfWuwjdn0GE5eZ3kcK8Z2qMIgXq8X2aVJb20SIa-X
-QBZlpA4G1T5GKLIFYgIaQaH1D2c9Tbokntx8gJ0bLEJqy3Eg9-mPKIXF0_S4APGJKuuKMZDD8bgyxs9CqJ4bkN5iPGjJ4b4upDzlGpbXY7ByXknlTNslBT40
-fKSpfUhIITyVbz6_BXjPikCJKSmDb0qbsrlwX3BVZAuCEqw14QtnX7eUb3VTII7OSKeOiIDZ-K1AGP0Tfy18K3GGI0OPantrEm961XJa2JiX6C6rHnE5f92T
-K6-aUhgF0x8k9_sA2IDPtBLit3TPeOo9Gezh-uGUmmKblerdW1lPj2ANrs19AS4E9wcjw_hoppxGap5IgASK5wo-LjTJzf6WFDoK9IqnZ-mGrwFlccVYZ2kU
-bNKzf7lNq6XFvPIu0q6fCH8eB67AtWkqVQaFY008XxoyEihakQHYCMsWb6kdJzkBNaElsRC9Blwkf3nxUApOgHYywDp9poaA9rDka76DxKLP_rEQmMWrXw1d
-T3qXPy0A9Ci5jJEbNA4ypvIwGFy
-}
-
 AzureEntityColoring(AzureActiveDirectoryB2C)
-!define AzureActiveDirectoryB2C(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureActiveDirectoryB2C, AzureActiveDirectoryB2C)
-!define AzureActiveDirectoryB2C(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureActiveDirectoryB2C, AzureActiveDirectoryB2C)
+!define AzureActiveDirectoryB2C(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryB2C.svg", AzureActiveDirectoryB2C)
+!define AzureActiveDirectoryB2C(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryB2C.svg", AzureActiveDirectoryB2C)

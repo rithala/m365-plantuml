@@ -1,10 +1,3 @@
-sprite $AzureLogAnalytics [70x70/16z] {
-xTG5SiKm38JXbItJwlxtRTwmfWxAvVu3uIziN2gLrWUtHgjPyAJSQAvHRaCwx7riwPP1swa9BYRTzgFYKfbsM7jwDxuXEAlOLfHHipYJQPVgE4Xe5olOhzlL
-c1u-5D_0NhGRwS6bn2zcsAqoPcKxQCXMzsyRoILurKwltokKwbAyuat5TA8akwkqYQAtbJ5Hwcs54wMxLvWkA3PHnZTI-65ArwsmKh7rXnGkKRhudYa5lcTA
-Mg4Ch50AaakUA1GiU4SLnmh7rcoE_bBcogqK2vIE1GfbWSA4kCACWEAGeCA4kD85OOKAH1KM8Afq1K8AHrC1VBEH8U-N17yayLrUTVoEvgkAMrM-hVAl_2l_
-oXi
-}
-
 AzureEntityColoring(AzureLogAnalytics)
-!define AzureLogAnalytics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureLogAnalytics, AzureLogAnalytics)
-!define AzureLogAnalytics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureLogAnalytics, AzureLogAnalytics)
+!define AzureLogAnalytics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureLogAnalytics.svg", AzureLogAnalytics)
+!define AzureLogAnalytics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureLogAnalytics.svg", AzureLogAnalytics)

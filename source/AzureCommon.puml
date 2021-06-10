@@ -51,10 +51,10 @@ center footer <font color=red>Warning:</font> Created for discussion, needs to b
 ' Elements
 ' ##################################
 
-!definelong AzureEntity(e_alias, e_label, e_techn, e_color, e_sprite, e_stereo)
-rectangle "==e_label\n<color:e_color><$e_sprite></color>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<e_stereo>> as e_alias
+!definelong AzureEntity(e_alias, e_label, e_techn, e_color, e_img, e_stereo)
+rectangle "==e_label\n<img:e_img>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<e_stereo>> as e_alias
 !enddefinelong
 
-!definelong AzureEntity(e_alias, e_label, e_techn, e_descr, e_color, e_sprite, e_stereo)
-rectangle "==e_label\n<color:e_color><$e_sprite></color>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<e_stereo>> as e_alias
+!definelong AzureEntity(e_alias, e_label, e_techn, e_descr, e_color, e_img, e_stereo)
+rectangle "==e_label\n<img:e_img>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<e_stereo>> as e_alias
 !enddefinelong

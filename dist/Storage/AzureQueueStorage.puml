@@ -1,12 +1,3 @@
-sprite $AzureQueueStorage [70x60/16z] {
-fPO7bkmW30IRBEd-z_s1VYClPXAhsZWEPMWiMxWpx2EQy85iNz3n0R5lo7XBjQyGl2EfVKV56xfzYKQZ9JqQBSd1QCd02zHEAC5eYOPMsMaWdmhel9oA7TD3
-qRvUxMQ_GABHaXgCrWFUemq6B6OzuP2YQy2DPN46wsuiqLOqFMCmpVApW0haV86INkMKpIqg6_foioRKgvpaiYJi22EyepCJcJ9cv1OWvGK0OrhoGcB55EH7
-mBfQbdYwMzhzEJTdoamp_rmMS0FH0hUWg6zkVl4s0nPaMoqj-V6IW5ffQSb7gHbeXHPDSv1LRfQXPHxFx8VHCZTpb2CX3QkqM9-3qdwtpDFxd4rMSyiyeQer
-RgPbPbBD17gpy78rCL2tS8QvS3Cj_2TJTRTmwcdOQc7QtEmM0SPSITajfgsghPR9jTblaCBRBcyMibiSjmn0hR8OVslXGei_62vBrnLQjiq5-gZg358lomuj
-E-hHFf27fM0Zgrd3HfahMHajoRISmI9gowWhoZYZ0pAZTP8Apkdt29ffguUC_SqXWLTZyEtOOaqGqM13HWfscf5Whwh1JegKQ5T7HZ1Qaa-RiN3tBNYD1gCb
-DHejaQC22WPSyPuUZ9Oa3KPBIlz8mvs_
-}
-
 AzureEntityColoring(AzureQueueStorage)
-!define AzureQueueStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureQueueStorage, AzureQueueStorage)
-!define AzureQueueStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureQueueStorage, AzureQueueStorage)
+!define AzureQueueStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureQueueStorage.svg", AzureQueueStorage)
+!define AzureQueueStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureQueueStorage.svg", AzureQueueStorage)

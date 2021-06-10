@@ -1,12 +1,3 @@
-sprite $AzureApplicationGateway [70x70/16z] {
-fTS5OkH034JH4fNkV-AWnsfRcvNJ-SFqnWmOKYV3yBU2t-dVaMBsaMBsaKgtaSRi8k4UnMmXeVXAR8-9mr2F21V06_CG4PWYoEDvOnuXNm-2O9YA78pz3g72
-lYt1Pw9macc_GXnQus11KkHJMPWPeOWgIQbt0ixCPqpznC0GGFo4DR-ofmWT4VXCISfhIkNAp0WDT02GSt4BEd9bPeGAAZxZLr-UWoip8pJG040kIfxP4uGE
-Sb4SegB8cIdacAs06U0dB9ep4rmJSIZfW40FE7BDPeGEhHLGWmoHl6OZGifhPF2T8B8n4y9uAIx628LbomQacEyAwSoAz481Ys2u0jw9ObQaPpWIvW_PY3ZE
-D0TcH6PcHcP61-GX8peZCqCVa8VCDRiXeW0WSMCO_rLWLuJVIbuPmgzAt1JO1Sb3kJ34NR6x0bkGKXQ6Q0gQ0bsGKef1KnpQb1KffPYc4BWoAx8gnNI5WXjp
-GqefffH2Rim5QKfwANUac59W_rA8KXQaCIWccqAKiY2TGMLtXQXyGJg3bIcba58AQKoSjNd4jK8wK-LHAQr2ElDS8Mur9fio8ft9MIcafwDIoCHaLpeoCTaK
-T6HaVZeu4HOofbdCDjAPZcmm7TbWEhB1T6IBQSWUqv0zvaG2s6Mgm4xQaNsc8_jCO3zjo5OIdmQdazPt
-}
-
 AzureEntityColoring(AzureApplicationGateway)
-!define AzureApplicationGateway(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureApplicationGateway, AzureApplicationGateway)
-!define AzureApplicationGateway(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureApplicationGateway, AzureApplicationGateway)
+!define AzureApplicationGateway(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureApplicationGateway.svg", AzureApplicationGateway)
+!define AzureApplicationGateway(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureApplicationGateway.svg", AzureApplicationGateway)

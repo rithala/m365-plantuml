@@ -1,11 +1,3 @@
-sprite $AzureBatch [70x65/16z] {
-xTC7Ykn038JXajIfwlxtVT5Cqo0McStXFy0tOrlLg59qF15LRE29z5pbHtdrMhNuh6-NZSzNwB2PrWjAON9b9MokMf4gpIW9NSMOAHrmQM6eMgRGWA0zIxaO
-uBcAbZrJkPZdAPi9c5TBb8iXFAeboXKnLEqTbCaxIdTcoW0cqp9bf0iOXbBd0lnK9cBKQllcOC2bq9UaPggt6LmA0QFahchf0lmlC-2wtuJl9m8CDvMzWA7D
-t5BogwFTKfWe5sFMgiNYe-FgE0DM3KV7rOMhsZiev1s5mLHnZBf2onSG06hANi24wwW3c3SKEk1uA6F-NmZGLLFswJwK3ao9048L9Lz00x1uhPDnrdDbC-RQ
-J02Wf8MpU5BH6ljB1_usbIhrgulzPjSPRoXoH7q1pbFPDVsD9UKiMS1ylj80F5iPrGMSdGjOvGNipWKiYLPSmDcvWFyxbpZELbLH01P_gUBjdfKMK5VaZpVB
-TZOAIca1TON1voYxzrMmL8k_0G
-}
-
 AzureEntityColoring(AzureBatch)
-!define AzureBatch(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBatch, AzureBatch)
-!define AzureBatch(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBatch, AzureBatch)
+!define AzureBatch(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureBatch.svg", AzureBatch)
+!define AzureBatch(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureBatch.svg", AzureBatch)

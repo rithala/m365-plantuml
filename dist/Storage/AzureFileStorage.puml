@@ -1,10 +1,3 @@
-sprite $AzureFileStorage [70x60/16z] {
-hPS7giKm30JNNUlx7_XJFoBo9X4lGtzb21FaWYjpFq8yKVSB1Xwm_G8MtDBtAnPkuNv7Gq2crJ2PDXzuxK0-SDi9LY9jFl3OAGmd2l-_7_tCu7RqkxHia3I6
-m29jHK1e9WBclghzH0kQAjCseD_bhDI12vr_AKlGz3X0pvQWOHYWDnQlYO4jPG6FWVj-PVb_KpoE4uL5JI5FupJt3nRwjD6owWLpbhXUBM49WtQsiFYqUOiF
-J67Xka1XsSqDKAwknr3uksLtzuzS5m_d9vR23omTNLbe5wZh0lPptGgW2Gld1GhB_6u2KFYJfSUjDJ_JziagLUE-cBVCk4VdBInnKyjRHjpLyXPJvwZgb2Uc
-_t5Jn-Nkzxu8Ar3qsSxSGvOgAG26FWRL44nH6NyP0y-2Eph3WU7yjcaQXW4AWJEOl1jbg2hRJZ2_lat4m6_fq8nCMeqbqcfQAcqYS29jBl304yCUMRZo1m
-}
-
 AzureEntityColoring(AzureFileStorage)
-!define AzureFileStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureFileStorage, AzureFileStorage)
-!define AzureFileStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureFileStorage, AzureFileStorage)
+!define AzureFileStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureFileStorage.svg", AzureFileStorage)
+!define AzureFileStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureFileStorage.svg", AzureFileStorage)

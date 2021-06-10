@@ -1,14 +1,3 @@
-sprite $AzureVirtualWAN [70x70/16z] {
-jPM9biGe24LP18N__-0PgykqRpHBvvovlTPsyq0qT8TeiNyfHPbU8iLcb5x0u7ZfKTlnnxgAxH5w3XlmiYgxG5wKyxutOfSKkeP5X9di1hqSiSUyAM957uxf
-Yywe_HL-AK7afGJHYxw-RmpRAueAByF-qWJrl4UUHN7tMjrlsdnfQ963QDLF-omNYl7v6Awe9sdqqj5CcJfIBpnorfRM5ONfYtU1bSyVtzIq3nAPJMcWaHcz
-VEBkMUDiBJszqO7D3wLbnga59I5qK3CR4qZZtj8_HI1n0dJHKDb8wjXXFHKKTw9PLjf_aqXsZeUeQM0HGoA3jNXh4Vb5QQ7WIX6jJKbW58XKg8cm91yJwbPg
-3jgQXYFRR66i9zELH-g3q4rDamN3pAlAG-4zLML2vZ1uDhGCg7siaLI8iuJ1WpVIq7A4q7LkCYiSLFBRMwQvegBAur7xxsBLKLB1ixTcGEIW6PyqK1BZtQJ1
-ZkcFW4_l8Qk3vBjIaGNgLa8yuGsHjPS3i5gcq86C9c6_XOMFiBMC3q14nhOiH7QQVACv3S02NTXlvW_orEBhBcGPUoj-hbDlBHMk95OZ9wHRphBmri8McKYO
-d5H4cRAnVCjeLaHcMsrfj25Ibxxmn-4wMlv3y-mKsb2x7DUezFHb7kXEC5698pfIii64XUFzhUCnRayAYu7Z2XV5qmdtroXv9R8GDY1e0AN2ctTl6Bull9jV
-A6Y1ZtsS0zdMFGhRKxETMd0u5M8YF6O0DinkE0EZ89x1yyr8Jom6KHOYsxJG9vkM5UTsrpl_H55Hp-IjHMBrhtSh-huhJawgoA0RBBD-rqQx4HXRY-aEpnmP
-VBFKBJE4xh7VzxL5uv3aMZEs8GTUkCHJoJYRl7zS8aDdHnezHrjcXcbFazR5fPjXOfzvejDgBwB51sFw7_a7
-}
-
 AzureEntityColoring(AzureVirtualWAN)
-!define AzureVirtualWAN(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureVirtualWAN, AzureVirtualWAN)
-!define AzureVirtualWAN(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureVirtualWAN, AzureVirtualWAN)
+!define AzureVirtualWAN(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureVirtualWAN.svg", AzureVirtualWAN)
+!define AzureVirtualWAN(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureVirtualWAN.svg", AzureVirtualWAN)

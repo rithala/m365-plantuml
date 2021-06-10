@@ -1,152 +1,40 @@
-sprite $AzureAutomation [70x61/16z] {
-fLS9hgmm36lQRER-z_qBwWICogpMzaIH4yTncTS-GgHhRpz2jl-0_qQasqJgDptCuh4LyiD-XcE3x7zYEn1Vg8YTxqG2-MOMexNc9nRxKD2S0mj2-ufbKnAa
-xofHPXbJK7NM-cjLDiqi5ZaBwgs9iqzhalzmQOf7zKuk2wgdbqkAgk_DoELulJLLju1-4kHLveNXVgP8xMTYI1EyPRZWu1WrgN8vohWtu-lpGPvSrhUpb7CU
-DAbPl-FDB0cAX0N5IN1_nUANrvApt5-iYxYxcO5zbCeopUt_c-vZjRM5fATaBTzxwwcIZ_HKbuifxOfb2LbK3Ih767I7NBSdRGUzkSf1J-gJ1J4zAXAwsDhA
-20ig64l2JI9jvmaML71UAPUd5uCl1adaHYDPiV2v_aTUNT8FMBYXb0kBteSW3aKSJyXro-CkaORLvM57nFa-35bpB6z340d5dBHVDx9Vdm-Mo6juTsOys-kx
-olKOg3CmkTs67q-_8Nf-walfv0EV0iYDVKKiUqu0BDNiFBsW8fhBbdFP0wqlnLSQGqaoatCp1usiIPAwWCvFGqeJXzJ2KmuMDtpdOMFQXi0SQjp_i9NZZ6B6
-IFPnS-8Hnyqk4FRfW7bj4dLBEe2m7GTGmWa0YBh6HhE2wOnpFrI6RqjuJEeIgwXBJ7B_iomRhVNO67FWFS-Viy3Pj56DTi2EHmoTrJ4k7rHmegCsxOPbHsyt
-B9HIOkbD1CLIOE_6iTc8mVagNYCMXjUqE_Yb8kP_i-p-9pB2WiHHBtORPQvsUukAUXPpfgkq5R0neds8jPNo3OrlEMGVFrGKBFjzzCVTPhHBtmhxck0l
-}
-
-AzureEntityColoring(AzureAutomation)
-!define AzureAutomation(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureAutomation, AzureAutomation)
-!define AzureAutomation(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureAutomation, AzureAutomation)
-
-sprite $AzureBackup [70x58/16z] {
-hTS5aYjH20LGz27xt-_N6AqCbLCocbj8A_IXMaI6Bu4nzdmpWWdqhDQaaCYdUEGvGWk9BcNy6v9l0VRufjELHlxdJ5bIO3s-mqOBHKa1UUJ3DSsyIW6A_4lW
-Yfmbc0h3NnYFn7Dq7A5bd7vNZEUUCsnOPbgxb8C9l4S3fzQ-6JmR7VKRSlmy4CiI6Sum4x4itrQ26i-zM9QKI-AlgjyzH3ar6Hh8ClMraaSAHRuuDIyhDII3
-vvS8ClSyvd00PPcRASCEh-Z5Y5zV5lKeHtVNri9mNwhb7bvV3u9XHwwBiJmxWP2PwIB6o-bpX44VVRgSnjnUtYBs3TfP2cQBlgvqHUcdGGvx-b4fxtCp3bCa
-k_oWT2jRRk5oLItNq-optGUYZALfTrcLIGfkOWmcALH7wUN0RPDohx1wW-epV1t18UKSRIeFGE82mv3ZcoNbX4FbEQB3KghOFI2Cq5b3yvOYXnPyoAdr_Ley
-X-JxEveVBqLC5rtmj9JASe1XowVzL3ODgJH_8XYEuOfiShbxrxobWd3aDm
-}
-
-AzureEntityColoring(AzureBackup)
-!define AzureBackup(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBackup, AzureBackup)
-!define AzureBackup(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBackup, AzureBackup)
-
-sprite $AzureBlueprints [70x67/16z] {
-hT87WiCW34HHMn8gC_S_xrPIs1B7a9_UNX3szf560HMsBIJ5Niay0bw3pYh5kx3F8Or3FgSaXp2dW6Dp2ZbMpvOPRd9JLYhVkx8MsX-AojEfjGJ9M51w3jAN
-5J4G-x8YJlgXqWvTi8uK9-IW98wK_6DvYLAv5UI1eaMstnl165uVA040h1zlaimJIi95n0gwe3JsOQh6CLNbUINhogcCdL3WqcDxkH80ydcbKaJiyqQJMtbs
-TqsYogHAvXL9W4KKR4MH8a5sP5f9ia3gcW92WlGbfP4fHjQIacGJ0Qah2WYHFjAqOcH-FzI24cJhIz9v1OHspISKhwz8Z4_ob6BnMP4LNu6ChoOc0gdZ1ib9
-PJmqZSmfPTnJ47AjkNixLcu33IVnsB4o3jH7cb36WSQHxCH4TVTy7Cb8FgjWcC7kLrR4dnELkoS6XL2vA-yKP_oXbFMNk2bAbo7SVgdGtmhkFhuf9MFjfaZ8
-RwN97_zY9Z_onqTQxZALqpa9GXPpibwY96dhIYDZNTb1-hAoDP88RnEPNfNDEHz2kx9fBJbVocUxjfdmxMHN9YlsNgFW9KgyGgbjNM7kwqhgjbQ4s_SwtW4
-}
-
 AzureEntityColoring(AzureBlueprints)
-!define AzureBlueprints(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBlueprints, AzureBlueprints)
-!define AzureBlueprints(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBlueprints, AzureBlueprints)
-
-sprite $AzureLogAnalytics [70x70/16z] {
-xTG5SiKm38JXbItJwlxtRTwmfWxAvVu3uIziN2gLrWUtHgjPyAJSQAvHRaCwx7riwPP1swa9BYRTzgFYKfbsM7jwDxuXEAlOLfHHipYJQPVgE4Xe5olOhzlL
-c1u-5D_0NhGRwS6bn2zcsAqoPcKxQCXMzsyRoILurKwltokKwbAyuat5TA8akwkqYQAtbJ5Hwcs54wMxLvWkA3PHnZTI-65ArwsmKh7rXnGkKRhudYa5lcTA
-Mg4Ch50AaakUA1GiU4SLnmh7rcoE_bBcogqK2vIE1GfbWSA4kCACWEAGeCA4kD85OOKAH1KM8Afq1K8AHrC1VBEH8U-N17yayLrUTVoEvgkAMrM-hVAl_2l_
-oXi
-}
+!define AzureBlueprints(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureBlueprints.svg", AzureBlueprints)
+!define AzureBlueprints(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureBlueprints.svg", AzureBlueprints)
 
 AzureEntityColoring(AzureLogAnalytics)
-!define AzureLogAnalytics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureLogAnalytics, AzureLogAnalytics)
-!define AzureLogAnalytics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureLogAnalytics, AzureLogAnalytics)
-
-sprite $AzureManagedApplications [65x70/16z] {
-fPGBcYCX28HLG46v_tat9iHrM6AwPslUazJ_bLHBkg12aFv31OdezuYCP2g_jvlmFWBefp3Vj_y70YWItXh0hmE0rLOSeXWNlXI_lRjiTjXYbGl1BI_izWH1
-fw7T8t1bEy_3x3usv6WY19UAAq6s616_XI0EPyf-_d7nTe88xWLnyLW2Flhv6y8V7u9E_sQZ1IYrWf72uWdjnHrEmZjWHs2sqD6ZQ7PayO1gOotXsCnOB1kB
-UC0KvbEhwzNIH2B0b9jcr5mcaH1WAYw2Bnv5pW1qf_3vwmL0iV-YNyePhW78AbrD6f6aNWNKQXxO3izo1r0f6sAhxWx04APiDWzO8WSmmMOF0FN7DWW0Xa2H
-2D3SQeKGK1ziYG2CmKAv0I2tKAhTrek0cb-zxYtO1gFl03iyiAlHMYlb2m1XFHOEiExH4R1w3G2hU8m1QtPqUX9jXuS01hiJ9u2500zOpTUh2mKSW6ui5B1A
-Du0rJnS0C5iWGnXWDLyF09fw0N1j-58V65xDVmHaejga3vqIGjg6iJVl0KtUUbh7w5D3HwMj46i-0aoFgNVXjsIe4Mf9rdm4OD3EiSPu4sPvBLuec9810kcW
-mtMsNay0KQ4Je4tx2S1T6pqr-slCl06uGSgbd04ybBazX5HdNuqNe27oipNs04_OrHiRe53NMPfqvG0GI_g3C8DGRaE7l8_v0J0adCdp76hs8w1hZm1DXexz
-bH4V8IPqzNOP8xyVvUupTnt-kR3i-rjAeZR5NIVR6qOtZQ7_s6Kev_HNmEedrwt6rqKJNt67z5D5hdLgwIdzgshdFidIjvmYeOvBTYdfWq37XVIOFgiCbM_f
-qr5PjDzFxqSfiVsGtlMvjlDB-lnIrPek2cmLZ2xSQgLQMsiLKw0_
-}
+!define AzureLogAnalytics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureLogAnalytics.svg", AzureLogAnalytics)
+!define AzureLogAnalytics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureLogAnalytics.svg", AzureLogAnalytics)
 
 AzureEntityColoring(AzureManagedApplications)
-!define AzureManagedApplications(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureManagedApplications, AzureManagedApplications)
-!define AzureManagedApplications(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureManagedApplications, AzureManagedApplications)
-
-sprite $AzureManagementGroups [70x56/16z] {
-dPU7cWCX28GjoA1v__UzsnOodoQwErS9-ZDYYWPNL2jXKGcGOQBKV-L5YjLQaRg7nUeNIen3oYRbL4BTfHr2QslDEdW-C2OVGyl1w0TBEuK1dkS8SQbYQuGP
--uyRr8DEjRd89vNVx6mGwZUjnsNZVTsLX1R3GliKUULb0TklC9OH9OMX3XkReJc5lVHFdHyK9Khu8amewHE2XnHkRtnC4Thefoi2wWL1UKY9078gC9MeGBb1
-OOWGyGc5ooS0wJwb04glRm3nBaMwIKBO6ILRQwONXDq1hTMoGC5hLnjqGUkHgt56AQzJbGcScr1YUrtgDzPpvJT5NczrhKoUiz-KGYDPsNDrsGiUUk6-o8--
-w6IFiB97BKueePu3wK4kqNAOKNBzD-vFK5BQSmrXIb4WHGNY-1MQjroQKH9GzXUm3Dznz1WnevIZ4g33rta-t8wxo-KSnW8G0Xab2fTpcejcKuueLAwppG-n
-KQQmMRPDziXeJn4rUpk0cKfqliAGtwuC9Oufi4rEsPIkUOCeZoZ5TY4C8h53fo-Ac6Ad8aNfRSpBAqL4YJplYZ97n9If5moZDFDohLt38ChKfKGHpdETUEUt
-QTvUttVv7cq4_JYe9f73rXLbZwAKBlAZQg93yxBuDg11w02_AZx2VrnIoYs0JwpA5njP9_3LXYyfM5yMLsPtjefHx-O0lhgehpiRzOuNlX_-0G
-}
+!define AzureManagedApplications(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureManagedApplications.svg", AzureManagedApplications)
+!define AzureManagedApplications(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureManagedApplications.svg", AzureManagedApplications)
 
 AzureEntityColoring(AzureManagementGroups)
-!define AzureManagementGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureManagementGroups, AzureManagementGroups)
-!define AzureManagementGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureManagementGroups, AzureManagementGroups)
-
-sprite $AzureMonitor [70x70/16z] {
-bLTPek0W21CK1Ez_trdfCzfgRRvcCoGXsdbf3SgYvjwQkrKfdBuZgxS9NWkb3s2W657BCKTj6xWSSLXxWR_hqVkXkplZlH0VqfGSSHANCQgTBG4AlSsZ0cPj
-kQwUgkNLyleOVY7nlAcYxcaCF9yjyO6chaPmoPcVu-CLIHrkWV5rnXHivciYFMz7fo1BIgMtbkP6sAWQ8y5R834ue3JHQ0B0duqDrZu1rWTpmQUEcP2rrcEY
-Xk0f6v_z-A2s6s-0Wb6E-Wt6p0x2BeJFHfjZqcS0ubztPUJNPcZ8eKu6SmDGIc8EzR0usESHICaFxuCBNymrj5VKxJqPnVuKvv0tlsca9SRtC4ftuI7bifg3
-kbAw8MD2U3PZAlgZi6YwW_gwCYHJBqCwfhu2hWiolKGnKCDTtOXXe6L2GmvbUqOPt-zm8XayC7HqWNbG71SW5kZQ2ha6OeNnmO34Azpa0u0sWzcED_T2CRUI
-NhRciQfGX_c3Fdk4HBp0WiyHbdK1h5l0bopQjg0aTnQtgfAPqD0Md0GTRLgsWK-vBE4x4hvOR6mPSIwYd0BnFH1-0dNB5LQh_dG1YDzR9r0p0R-dYF_fmN26
-pyuxu8ZnjvTXXeG8XtWLdeOprBZC5Inm--efAXozCg0-zzGF4rvZXcwVm7xUk8f1wAaX74hzgX2kIRzaQ_U3VFvYZb_uWhz9vRmjXej9FlnE6dzfNCkmBmY3
-Flana0Qif_2v4dnUadcotYtwEKrzgdZzI5CVrPEtBzaOLFoHHWwsi_wt_F8J8OOOqDs4lHms8DdIk6n_xj_F8ckTvsbRnOuUGsqTfdbG8I7Ze1BP6y9DLKIr
-UXkWHpTr3mCXcm2ti9oEGEexZdFa-aWXb3w2fVgGSrvJ_0O
-}
+!define AzureManagementGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureManagementGroups.svg", AzureManagementGroups)
+!define AzureManagementGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureManagementGroups.svg", AzureManagementGroups)
 
 AzureEntityColoring(AzureMonitor)
-!define AzureMonitor(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureMonitor, AzureMonitor)
-!define AzureMonitor(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureMonitor, AzureMonitor)
-
-sprite $AzurePolicy [62x70/16z] {
-jPTNWkmW30HHjEz_uHTNJgqPw0tzDw5i2X1Xl8jaoFXiOlyJ_nph-_zinhEwxKSsvLZ9_POKWeqTueHm9RUp-KO8bwzjXBuclCmltIUhmjv-Asl2qWz1z2GO
-zhsHFIiWt3RCreNn-K48GoR2gSkKIFK7NqsMcI43X9UY-JSn3ZOOuVmV1M66DgRyaQQCpLshq_vc54rqrT_uFss2bimBBgPZ4BJdHsfm9hIecOvA56qhj5LB
-XQSbp_YzvJgb9Qy9wBNtTDvZvuYbJ6dFQmeHZx0nfdG-uysqanUq9cHKBWDWFUr8I_S7QUb0MjiQ-m7QMneVhorjIFV5sj82S0p4_TLuHzzmqPi0qltBupB8
-CnhDvT8WGnfnW8rPM_GvnsEnlelto0mJQcN2yE_6w7tY24VN_DLp1oReGc0dol79NH1E3TIc14SqXlRzI0X_Te2J6haPIvxyihv4XdL7SZvB-XelVvlebs2B
-p_LzSZu7_UuecslwAUrZZRsOI2xF2FmlEHljgc_WGen-XQl2OA-XgCy8u-Y3C1K3OIu-4_uD
-}
+!define AzureMonitor(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureMonitor.svg", AzureMonitor)
+!define AzureMonitor(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureMonitor.svg", AzureMonitor)
 
 AzureEntityColoring(AzurePolicy)
-!define AzurePolicy(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzurePolicy, AzurePolicy)
-!define AzurePolicy(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzurePolicy, AzurePolicy)
-
-sprite $AzureResourceGroups [70x56/16z] {
-xPSBSiCW30Kb14A-_uNhCcJaFB-nTO1i_mtPWSrNagZ7a1lgiyaDYsd26CU92T3Zn5M0EDSIUu-3M2msusuv0NkRnyBXlv5qqA_rLxlwiGYJxqnVx0FWTJxs
-aNz34C2LxN_PDGvoHfl16ApbqKLc2Y48Wddo6DP9a170MvuvyPR186zvR6tZ_DA78EzvTkG3WXIu9l2R9SeOiHJ25lQIj6eNRgdtTHLg0Nhj_i8jtWjvSeqf
-jxWRoSE3c5dZbd-QREmfIBDdYm_DF1Wa7MyMl-Hn7iGg5io3GKeMo8D1YXRCCsQ3mvGic0SSDGlaWI1L2-I185KBv057qO8Qa1Gj24rYFylFyhCejOWLB20X
-5j5UjhIdrsaTtC8TQ4ciO141Iv0t_oyMlOy4Zk-wCGzQcjmdY6Wu0IpQ00iuO1eOqk4D_CQeHUauDFFNKmWUjA33uZeEAHzAH4TQo64-8ucH8GNpR0iw9CSZ
-iZjSR7tPy30oim8frQK6kKNoLWkL6hw3RFu
-}
+!define AzurePolicy(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzurePolicy.svg", AzurePolicy)
+!define AzurePolicy(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzurePolicy.svg", AzurePolicy)
 
 AzureEntityColoring(AzureResourceGroups)
-!define AzureResourceGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureResourceGroups, AzureResourceGroups)
-!define AzureResourceGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureResourceGroups, AzureResourceGroups)
-
-sprite $AzureScheduler [55x70/16z] {
-dPK73kmW34G16nVkVzzV26Y4bG3QKLkSFDmtwKE5HSszkQjKIbSYyRRAQZumUJAkbQdy4t5LRqfRQ5vVmWCs-mGVo6KmWVp0o3jqoEFTbG9AEPUIzr2sxehJ
-45NpaQTotbEMnwc65YXVK38XeyuZZg1EAIhpo5DA5HvpfBHVZSfqFHR2qMcbk1lpk07oqizGNHBhKH4eSEeD2fp18EqW3Y7YvrvbOWWnUrlbmjM2QL0LLTH0
-MNwnIdHM0kKPRyGmQUFieQ9TrpBc5gHOZKLvlfj7adTONQflHmp16uhZHmnHelMbNMDKK5A-nsfTA-Bg1ypqVrAFPJwqCLy18zYaDreLXPIdVR9WaIkzT6OB
-9ciRP69OSUgO-eArIX9o2vmpQHjOmoQieeM3vC7onuhw1rSTVSjjpp7CP9WI3DVHtoYteAlV7BAtySjmspU7D7W6d17bXYl3aESlHX0RJZ05ZYWnZv4hOyJm
-nwHeB6eSvGogrVacviZQXx1HjbI7Tc76W16bZMATE0gzPnolFZWskn5MydBK55__KJxsrxo6B2wp-2Xq1eVdc9duXStQjsdXhAGW0JTLn4i2vm88ylSu2ltd
-J2j587RByc8kQIjUnWz9dpXfBxaNT7F30UGyiMON7AIrZCvOsYlkjgjYUbwrcyOpb_MTa_IRmvfEggyWfwCuWEZ2GIMuT507PHRpG5spOQTliKZTOqxf5onG
-bnYd7x1FwYy
-}
+!define AzureResourceGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureResourceGroups.svg", AzureResourceGroups)
+!define AzureResourceGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureResourceGroups.svg", AzureResourceGroups)
 
 AzureEntityColoring(AzureScheduler)
-!define AzureScheduler(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureScheduler, AzureScheduler)
-!define AzureScheduler(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureScheduler, AzureScheduler)
-
-sprite $AzureSiteRecovery [70x58/16z] {
-hPU7ZaGX24KLfLp-_t-txvkO1KBCdlGPWXUblT67M067oHhNRFCNCiSDP7x2DqBy3zezVpFlhpjW3x26YoduFPIsXsWtX1ePDUejQ5I8zz0wd2vLsi2xy9sK
-_ckRznafNj2_c4MqrcP5rqiDCRePKyDU8xFR4chsQ67k3Y2NapK4OLulgJH_hycQgKVo76g1Lb8FMAKH8Zz1Q2XJ7pG2j1OZHJBCMTYv57_kywuWbAb15ivJ
-hrFzGMTIhu_a9BdFsyJw_Z7p8d4tdF2J5LgdKbRSzZ03SsHLX-VdKAE6RsInCR9CtM6-nAMwikexGqBzGkAUvJkYn8fReUPTad0aLkAbc0Pqve3Di35k8lgn
-92BEQezmEY4BKk87GjgMrb68AywiA7VF80GoKoVk5ip9L6v-cYOz81tGMZHsxWwGMLXjpq5l-Ar1_TbgkMRq5w3AjBzW-Ytw_rhCB-6RrROUpiilAPRRFb9i
-j_VBfTtURLxKzvyHX0id0NeHJi0oB-Ylk7EB6b1ZcdoHlmC
-}
+!define AzureScheduler(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureScheduler.svg", AzureScheduler)
+!define AzureScheduler(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureScheduler.svg", AzureScheduler)
 
 AzureEntityColoring(AzureSiteRecovery)
-!define AzureSiteRecovery(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSiteRecovery, AzureSiteRecovery)
-!define AzureSiteRecovery(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSiteRecovery, AzureSiteRecovery)
-
-sprite $AzureSubscription [43x70/16z] {
-jTO7SWD130D10j3_l-niE2thncagIwr0hiBDb-GarboNbtm5bJGW6v0DIDTUo4wtszvxiYUfmskSPTORMbQQJUQmk4NsG9sqiqoqdbjbioGd9niIant1eLQX
-zKczrisaOo-vuYTqBQKu2rCDVWCpWcDfPdn5AsSCg6TgrofhWQm5iXR8MY1hWQo5SWR81cG3iW5v7cqkwErswvDY6d4QSHfnclzuLlt71eRJ45hxByiofXvA
-_I_BCgSnf_5VxJNaj4hvbHvOLcqbjHfWAvdLa5G9x5dU0m
-}
+!define AzureSiteRecovery(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureSiteRecovery.svg", AzureSiteRecovery)
+!define AzureSiteRecovery(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureSiteRecovery.svg", AzureSiteRecovery)
 
 AzureEntityColoring(AzureSubscription)
-!define AzureSubscription(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSubscription, AzureSubscription)
-!define AzureSubscription(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSubscription, AzureSubscription)
+!define AzureSubscription(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureSubscription.svg", AzureSubscription)
+!define AzureSubscription(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureSubscription.svg", AzureSubscription)
 

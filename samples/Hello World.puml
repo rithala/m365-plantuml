@@ -1,14 +1,15 @@
 @startuml Hello World
 !pragma revision 1
 
-!define AzurePuml https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist
+!define AzurePuml C:\projects\m365-plantuml\dist
 !includeurl AzurePuml/AzureCommon.puml
 !includeurl AzurePuml/Databases/all.puml
 !includeurl AzurePuml/Compute/AzureFunction.puml
 
 actor "Person" as personAlias
 AzureFunction(functionAlias, "Label", "Technology", "Optional Description")
-AzureCosmosDb(cosmosDbAlias, "Label", "Technology", "Optional Description")
+AzureFunction(cosmosDbAlias, "Label", "Technology", "Optional Description")
+' AzureCosmosDb(cosmosDbAlias, "Label", "Technology", "Optional Description")
 
 personAlias --> functionAlias
 functionAlias --> cosmosDbAlias

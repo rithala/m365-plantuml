@@ -1,9 +1,0 @@
-sprite $AzureStorSimple [70x61/16z] {
-xTK7OiCW38LXCGnwx_xtxLvAOv1bkliTu4yibipbhQi2qBvbYIaTV0Cj4AhAT_h1JbPUrUI0ZNiqYrVZFdWpdJoVwHn32ix4KfagdDjaHZc7TE9x_Di6T4ao
-KkcpNJ-wZmUtA7rKBbNmk3GuTtvrF8Z8O1g3Uk2V3CTRkAAYAogLAogW4PjkvWbjU7nnWJlgQBRmtkFPZ2LQqTvAj6AXHYjMsvbBjp0zb8td8LLUeHOuqP9Z
-Bie9Y2weKFAIYlGbbOJWTEtFPj08dkq26cYMyzrFEdppu7sMAkALAgzgHwZIirYvr0TbN45zLP9uORITVcIbN90lbB8b8OrM_gyyIfPyeHpSTVyhVGi
-}
-
-AzureEntityColoring(AzureStorSimple)
-!define AzureStorSimple(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStorSimple, AzureStorSimple)
-!define AzureStorSimple(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStorSimple, AzureStorSimple)

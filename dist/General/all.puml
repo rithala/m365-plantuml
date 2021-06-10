@@ -1,11 +1,4 @@
-sprite $Azure [70x54/16z] {
-fPK9hiCm24IDLvZx7_ZB_LsiJafmyhHqHOoV4KaXShgFgAJR5ElfDXMu7wK3CuhqMqe0JBSDrmrd0p3cEuDUzWeyesG09LsYOJAUTc3f2WFlACa0e5tpEj7d
-RKzaVzJmJrbYZVrHMw88dfJTKLlh6fxOhfArp80dRM_KdjJ75_WWcqecjfnlIt31GbqEj2NOA4h1YgO0ZQCCWBxq4ImOVHKGJ7qRfvlqBRL83nJVvEIZ72M3
-q0sr41gMa60nyF4DZ4bKBOHCXGJdepzs799ZQY5qof3WYfL1iaA2nNv4pZZ2_FN62w361MV7NWiBLazUZmZcrCNfuUmhEscZ4S7zh8iOcEQgLSU-iw-KeZ05
-p73KMcHjS3-BRO_k2cvUb9NX29Ru8bCGSjp10ikG1HVAw93jXs1peaJkMqajHM7guRxANoGNoTKs7WXCBcrOU5ynybLFvDFwhZX5VzTNfvu5iy1OlJyUSeK_
-}
-
 AzureEntityColoring(Azure)
-!define Azure(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, Azure, Azure)
-!define Azure(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, Azure, Azure)
+!define Azure(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/General/Azure.svg", Azure)
+!define Azure(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/General/Azure.svg", Azure)
 

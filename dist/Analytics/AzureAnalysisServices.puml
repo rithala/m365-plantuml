@@ -1,11 +1,3 @@
-sprite $AzureAnalysisServices [70x56/16z] {
-xTHPhkCu44JHo979sF-26m9bFa4jUgovwduR1qWZHDuhy6HSz4_fULrxIIbSf_-KM-RwiI95ikH3fN6hBHI_rq7Xw5eHtgzElqlzH47dNay38EqjHRbbbXlN
-N01vGu4cgG2WiK4L-eu2D0f6uhNVDfMcryLPIIg-yiRRRP3En7L-LfoEM-82MCxRrEuenqoPEBzI6kCsnPEA2nlgg8nathPGwbYWTqJD75yT1W1aLHoLarl4
-8htTLg6T6xXMaehBXDtd04QsL9o-KfWOMHzAB1LZF5HGZnHXUwHu7qYNfGBsjN8x9sD336kbk5G2i29J0B5Xh9H6kLPAeOriYhspaZL3qAIE9VOsenHOASMP
-6WDN3uSaMGRn_vTdPNoF_QGCepiaUTbP2R3GpaeiZ9NIq8dah0SGVQpVVDckr5wYKQnk1U1zenur5Co2Xj4ScU0bvVmzQWtZTKMP6CsHlQ60TJGqtrA4387i
-GssiTnJf9FiOAW2-fnItna3ULpXIV0j5FbCQjsgYd_ox-g42U0RmcJBw4vHQz9Aox8Sg_m4
-}
-
 AzureEntityColoring(AzureAnalysisServices)
-!define AzureAnalysisServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureAnalysisServices, AzureAnalysisServices)
-!define AzureAnalysisServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureAnalysisServices, AzureAnalysisServices)
+!define AzureAnalysisServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureAnalysisServices.svg", AzureAnalysisServices)
+!define AzureAnalysisServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureAnalysisServices.svg", AzureAnalysisServices)

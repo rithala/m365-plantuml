@@ -1,9 +1,0 @@
-sprite $AzureServiceBus [70x70/16z] {
-xTZLWGCn34LHiotrt-_IMme9mg3x4vmpZ9FF4F4nHT6exjgkKfExh2YX43CgoT-laXkgwOXAGoKzUvDioKeXjbIJc_4Z6Oo6P5cP1Oo2B5bP14P1M54OZ8Ae
-2XW5qHKm8g8h4WF4eaXCnH-C2XW1KPM3312N0cONSIcx312d0YR_CeIrurN0f86tCmCvGi4HeFRUCeuOVWNDWg_pOEHM4CtH1p6Vfg2xLq899HjBTrn1fo7h
-b2lLJcYTSjMSo7Xz54hB_eYZw6OFfju1
-}
-
-AzureEntityColoring(AzureServiceBus)
-!define AzureServiceBus(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureServiceBus, AzureServiceBus)
-!define AzureServiceBus(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureServiceBus, AzureServiceBus)

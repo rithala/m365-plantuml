@@ -1,69 +1,12 @@
-sprite $AzureAppService [70x70/16z] {
-xTO5WiCm34JHaUG8xd_WCjkkx7PvyygG7mQr10FGI5Wa_dC5RUMkWZRvmPMribQ8fUWR5Iz8v1KNuEqAdL-PQQfI4_NOyuLVheZ7bV5h5Ojx-aA5F1xPVCMZ
-PhCLYnQTgvHeuwcAHvkDLeW0YHxfL5INFS5UiTXnZnu5m7fcfygPOuSzCWw0k-T6FazVXW3gLPRpA58Ce5UXytf9IVLFbXE-sqJI2jsfjzOSuwaOWwSeXhXK
-4wCdrHfAGjWfUdQxTr2CAysnEdPY0W5eVskJ4sFDZK1Yd5PNZRn3gE9fXPXvgJS0ygavsfEw0XxDE9vKG5DxGLqvuyKZeuIaCk7tLMZd_4f9PUxgyETNrifQ
-MIlIfdULqljJxbn9_BtA5W
-}
-
-AzureEntityColoring(AzureAppService)
-!define AzureAppService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureAppService, AzureAppService)
-!define AzureAppService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureAppService, AzureAppService)
-
-sprite $AzureBatch [70x65/16z] {
-xTC7Ykn038JXajIfwlxtVT5Cqo0McStXFy0tOrlLg59qF15LRE29z5pbHtdrMhNuh6-NZSzNwB2PrWjAON9b9MokMf4gpIW9NSMOAHrmQM6eMgRGWA0zIxaO
-uBcAbZrJkPZdAPi9c5TBb8iXFAeboXKnLEqTbCaxIdTcoW0cqp9bf0iOXbBd0lnK9cBKQllcOC2bq9UaPggt6LmA0QFahchf0lmlC-2wtuJl9m8CDvMzWA7D
-t5BogwFTKfWe5sFMgiNYe-FgE0DM3KV7rOMhsZiev1s5mLHnZBf2onSG06hANi24wwW3c3SKEk1uA6F-NmZGLLFswJwK3ao9048L9Lz00x1uhPDnrdDbC-RQ
-J02Wf8MpU5BH6ljB1_usbIhrgulzPjSPRoXoH7q1pbFPDVsD9UKiMS1ylj80F5iPrGMSdGjOvGNipWKiYLPSmDcvWFyxbpZELbLH01P_gUBjdfKMK5VaZpVB
-TZOAIca1TON1voYxzrMmL8k_0G
-}
-
 AzureEntityColoring(AzureBatch)
-!define AzureBatch(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBatch, AzureBatch)
-!define AzureBatch(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBatch, AzureBatch)
-
-sprite $AzureFunction [70x64/16z] {
-hTK7Ra8n48JXTVVc_lSDTKNxtMIFUe0F9cFhIJV-3w9Erf992R8O1QJ8OiA9Fb90YR8QFT17uea-KaxqSIVwI3hHH-fM7nyQfx_OgtFB52oaxd4Gw-IyYeSb
-cZrcahq_y3vERuoRG99TPzh7LMBubuWez36cltb-lJrG7sRQY1JgOxapVemunJvZfho_EmxkJp664JxzARx76nCOuUiCcpDJ3Q7h39iJyzWklAFj55W34T_l
-WunJG-1XHiyqO00HRIC9hXqZeOrKlBs0z0gf4sIg_QQfGh5nMlNtnTWTcMyVj7MF-7lAMnz0lDu_d-wCctbMXoOYae71lH8YrhC00tlLBcBCe92w3WA_XWl5
-0TBxtnGScP4seyq-uVPI5fbW8eoCY2KHKs1aHYpnbt4qCYDjnWgfe-KCmMzuPogF71bXnWeLGfAquurvAwIJ23DMo2yZnhmLIe146SMfVN-YaUiOiMUSFZv0
-8oT0EDw9FI0ZlRYIP8TYAseZxyI_Hjv8jf4t2rNPJh2HDmj5sOzcsKzGEP3ivK2I7CZgF1S
-}
+!define AzureBatch(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureBatch.svg", AzureBatch)
+!define AzureBatch(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureBatch.svg", AzureBatch)
 
 AzureEntityColoring(AzureFunction)
-!define AzureFunction(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureFunction, AzureFunction)
-!define AzureFunction(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureFunction, AzureFunction)
-
-sprite $AzureServiceFabric [70x70/16z] {
-jPVd0XmX28I55MLu__TDJxPaFCLild_NE1Zgbi-eTG1kMlQH7h_nRJi7ueALBMhSQLkUn9DQyY2UGFRY-UUOd5X1Eid1EDBQCYmloml2sBQLzttHODHzTVUj
-L0IbPRNbzB9CZp4kPGdn-0HqAJk_9S7TfVxd_LgAr8u8z7hrJ6ft0Dtqr1Lw7NQmYu_DyEVz9d-Fry0z_lhJ0xUnNj1xLdakHEMMEswcPfht03CZj4XnpBI_
-q-XCEx8DTj1uiitUWe1iNNimvWlc3e8XhrZHCYGO_eel_HLrUUAocIx8oL84p8fbfoB_WISF3Fu30Mt5CGesOCI9aOaPDeSDPuXI5cYNV9u_4EiWtJpDjvkm
-QcgfZTK6rf4w7O_H2QQPMs1O1bRMrUt3cko9WEhGIoHE99qhDiyp9jbBvPd_0mBUj73K77HhyNFRbJzrdM1bfC8cIzgdBKPBfwuCipfPrug5yIopfofVcSzi
-OTjazllIjW9tvKIMBlP3_x3ql6InGoEovEclMF7_4j4HEzZITOCBIzTIPmwdgqvZqW7WT_5KtpfHhg_SMeqqVMx0ZDVd_2we-7o0g0z6uLS
-}
-
-AzureEntityColoring(AzureServiceFabric)
-!define AzureServiceFabric(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureServiceFabric, AzureServiceFabric)
-!define AzureServiceFabric(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureServiceFabric, AzureServiceFabric)
-
-sprite $AzureVirtualMachine [70x55/16z] {
-xTPLUiKm34JXaM9Pcjd_ViiC5woKUxuy_o4JWkh5SeJwqQWT2ktH_A7Aly9v89weq70WusbA0VPkG9sgcDxDlbRX3afj66mg701WanqbSPUpewJXkgsoeS1p
-0fvftb1k7wCSQ2f00Rz7cNQdU3KKCO22pUuCuAZW5y_fldAeKnKw3kGyJP5uN-4suqCh-n5ksrgx6dTGM1lkcbnIQ8ONcP-l-Eksttdo-5TObB9Ob5Irg1HI
-iWYuD06kAVAX1CEivBwi13XSuMCKvh92f4s55uRbidBx7k5oH4C9kAwLG1rKg4EHbCYxwzqYjKERK-qIm3QQEN09
-}
-
-AzureEntityColoring(AzureVirtualMachine)
-!define AzureVirtualMachine(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureVirtualMachine, AzureVirtualMachine)
-!define AzureVirtualMachine(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureVirtualMachine, AzureVirtualMachine)
-
-sprite $AzureVirtualMachineScaleSet [70x70/16z] {
-rTPL0kGW383X18ZU_y2xxJ2MAc7rVnlfLmU0pCSoXatauod4p1CL27cckgSW3CH72lppIcESLegw6yqfABvcRLIfxHMRUqzRIDsTsrBPKSI7aurIFL6B2daY
-YGelN_995E8ZfS50zQye1UOL5DSogVG1LN16QUQFZCQK8kP3cPIDWkR3MObAyqGS5V94kgSOdWRVwP420_qTXMXUgUfkRKufucjQymf-3EU2IQMPVsIKKOfw
-oEgUWZyxLf0z96Mhz88IZYOSILJiIj7bssfVLwLeKEXIUTnTUZYCZqayA41gQuTAlxl8xbgwjr5wVAYypwFrkvvJbgoz7-6KqjFrJxEA0-Z_fWWpwvH2_Ywl
-r2EbsLOnEb10WlAEeo88HmgKjYHR1L3UIXWqWz8x67UhTgMVJ4PPQhOgZ32Z03805O2C4llp2evqe8mMbVHQ2aAvTHt4YYRMc7Ug_fb1BWmN8TcNqlwgKhuK
-WapnvXiE0rYRUCYubRjIzSledrH-
-}
+!define AzureFunction(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureFunction.svg", AzureFunction)
+!define AzureFunction(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureFunction.svg", AzureFunction)
 
 AzureEntityColoring(AzureVirtualMachineScaleSet)
-!define AzureVirtualMachineScaleSet(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureVirtualMachineScaleSet, AzureVirtualMachineScaleSet)
-!define AzureVirtualMachineScaleSet(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureVirtualMachineScaleSet, AzureVirtualMachineScaleSet)
+!define AzureVirtualMachineScaleSet(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualMachineScaleSet.svg", AzureVirtualMachineScaleSet)
+!define AzureVirtualMachineScaleSet(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualMachineScaleSet.svg", AzureVirtualMachineScaleSet)
 

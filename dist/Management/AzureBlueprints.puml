@@ -1,11 +1,3 @@
-sprite $AzureBlueprints [70x67/16z] {
-hT87WiCW34HHMn8gC_S_xrPIs1B7a9_UNX3szf560HMsBIJ5Niay0bw3pYh5kx3F8Or3FgSaXp2dW6Dp2ZbMpvOPRd9JLYhVkx8MsX-AojEfjGJ9M51w3jAN
-5J4G-x8YJlgXqWvTi8uK9-IW98wK_6DvYLAv5UI1eaMstnl165uVA040h1zlaimJIi95n0gwe3JsOQh6CLNbUINhogcCdL3WqcDxkH80ydcbKaJiyqQJMtbs
-TqsYogHAvXL9W4KKR4MH8a5sP5f9ia3gcW92WlGbfP4fHjQIacGJ0Qah2WYHFjAqOcH-FzI24cJhIz9v1OHspISKhwz8Z4_ob6BnMP4LNu6ChoOc0gdZ1ib9
-PJmqZSmfPTnJ47AjkNixLcu33IVnsB4o3jH7cb36WSQHxCH4TVTy7Cb8FgjWcC7kLrR4dnELkoS6XL2vA-yKP_oXbFMNk2bAbo7SVgdGtmhkFhuf9MFjfaZ8
-RwN97_zY9Z_onqTQxZALqpa9GXPpibwY96dhIYDZNTb1-hAoDP88RnEPNfNDEHz2kx9fBJbVocUxjfdmxMHN9YlsNgFW9KgyGgbjNM7kwqhgjbQ4s_SwtW4
-}
-
 AzureEntityColoring(AzureBlueprints)
-!define AzureBlueprints(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBlueprints, AzureBlueprints)
-!define AzureBlueprints(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBlueprints, AzureBlueprints)
+!define AzureBlueprints(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureBlueprints.svg", AzureBlueprints)
+!define AzureBlueprints(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureBlueprints.svg", AzureBlueprints)

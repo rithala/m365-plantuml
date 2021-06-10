@@ -1,13 +1,3 @@
-sprite $AzureIoTEdge [67x70/16z] {
-fTHfUeCm38JXqJg2-z-t2xIOO4me_NudxoE43Mwbvl6Lc-1Huh5B7mWMh_bV4Oa-mr_IECkVpN1_3ZLpDyLQZD8RgtC1uF5IRaN8dR4DqW4jlxKwznveoVtL
-zS9uZDYN7T1rUGYJJ3BV478nHDA_oORaQNgn2GQ-qsBcM4WRFmTBi9JChoBl4hvR1DQySety4v79mbeKCvFrtOcY0sBvZsrZ5Aj2HIoBRmbhkoTr6K8WMLGi
-MMSCJdSkLOKxgnne7qiz674nnC_paomQMb5N-vJpCyGYMj8zIaX_HVCG4xjg_5OqXaHW5va3GoAUJT4kcryGtIwwebsEmJe5Mr4SNDYXG5PWbt0mXfm9v3A2
-Gl9t3ikH0Ji1Qia1hw_289PL2PmQwYU2YtWAbBLEWooItqOMCm-CURU6ycrzNCXSJyIlSRpwVa9WYSMDB6xdFMdgB7P4ziJsgp8f7bvoLcxP2Q4lTvkbMjkQ
-4ako8rIFGf822BdzJRpQYU_lYw0Ziegizgz2iDsxdW2y8v9VxQzQDeBTbJD0Sa_qLO2DA3z-mV2Lvv1exxGPeP0eldumBWMMIUNXz3V1WRS6IwsEcphvZFiL
-0MSEShHqJ10n84BnaWucgKIU4gxe4z4-DxXs2VwG2XJ_IcuGoijg4YjUbLBJTJDYkYxV2HCuNSTt157_9HAZ-R-g6yGykSppT5QuUq_qW05Gpi-9IR2KyrDY
-DlpqV1VuBUU7RwJmcpybsXJnb9WLFzNKLz-z9OWrcv-VYro51qUh6Ty_vBFJsP3-UFV4uwggUoCFO_sVY7yJzWa
-}
-
 AzureEntityColoring(AzureIoTEdge)
-!define AzureIoTEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureIoTEdge, AzureIoTEdge)
-!define AzureIoTEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureIoTEdge, AzureIoTEdge)
+!define AzureIoTEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTEdge.svg", AzureIoTEdge)
+!define AzureIoTEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTEdge.svg", AzureIoTEdge)

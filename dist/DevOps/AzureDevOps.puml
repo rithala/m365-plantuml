@@ -1,10 +1,3 @@
-sprite $AzureDevOps [70x70/16z] {
-xTT7Ukim34NXouAw__s-ai1TWk68NqOwCxUV9DoHHnqB4fzB59SbYbjVeRZJ4iMr7LIYSG0PvfSOFwjH60TEDTMVc_YiphwL7Dn6P1srkdWMLGUQ9mqFzSdg
-k6k85x9nMNAGnABRsyYZDYQht_Kwq3mJ6b2F7XNnGigpuwjjPPQ1H6avC1gYLB7T4GHGKJGxGLMP2L1Msjq9NaPGLlohpH7KbRWY8IgA_wfoAgToAgToAkYJ
-zRZoLHyq-c4bRb2XsTi1fPb7EPOhwFwS2GTMLp0yUiLezAe2yYZ1CYLYBwHCmp85wiLI1RP4QKiKT4-hlWkdVvpYDVOFa-HlQxcPlqjClL37JirYfss-WwnX
-jtuxRmufiiP5oI567eMIGXFlub0IgEDz6ieUP2XbeMn3YbgD4Mr0XCV-0W
-}
-
 AzureEntityColoring(AzureDevOps)
-!define AzureDevOps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDevOps, AzureDevOps)
-!define AzureDevOps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDevOps, AzureDevOps)
+!define AzureDevOps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureDevOps.svg", AzureDevOps)
+!define AzureDevOps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureDevOps.svg", AzureDevOps)

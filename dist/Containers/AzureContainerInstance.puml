@@ -1,10 +1,3 @@
-sprite $AzureContainerInstance [70x70/16z] {
-xTDNejmW38LXbIDFWVslDqEQKcHP7aXk_PzSFnU0Ah4eHYhqT0Bpb6SC3qyuRZWZbLymukzxi2WzCE1NSemuanlkmFQI32a7taFiJ9Xv4u-J8Pry6R6zeFMN
-GVBgg0uJfsEAufpHzFCbF5DNa9ok_nP9paEvfkZ1VrCkA3YS2P1ZXSchB6zDVagPKLWG7Z6DCBATv7WXVbSi2OvCAAQEJ2ZcLymeGcBp2WWB56DReSWIHIrF
-Q6HdbTizg_L7RJjIjdjQxwFRdD9Y1N9AwR6YeI99rq0HZXHA2XGGOLuH8WaLle-CQEn_Fz1QiqZ1mBMeZF7P0WLC8zIK7YYE4AEYj41nP8I2qaD5YJp1USLV
-n6C5JYc0CEqb5MKZxtyhROdILoXzXTAMA7s5qbOehQzG-WhbyhVogMolHsbBb3wha8sKI6tquu2SKfB-jt9vTDtfNbL6hIULbJwbSE5Lkj4VVG4
-}
-
 AzureEntityColoring(AzureContainerInstance)
-!define AzureContainerInstance(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureContainerInstance, AzureContainerInstance)
-!define AzureContainerInstance(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureContainerInstance, AzureContainerInstance)
+!define AzureContainerInstance(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureContainerInstance.svg", AzureContainerInstance)
+!define AzureContainerInstance(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureContainerInstance.svg", AzureContainerInstance)

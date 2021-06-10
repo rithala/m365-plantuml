@@ -1,125 +1,20 @@
-sprite $AzureApplicationGateway [70x70/16z] {
-fTS5OkH034JH4fNkV-AWnsfRcvNJ-SFqnWmOKYV3yBU2t-dVaMBsaMBsaKgtaSRi8k4UnMmXeVXAR8-9mr2F21V06_CG4PWYoEDvOnuXNm-2O9YA78pz3g72
-lYt1Pw9macc_GXnQus11KkHJMPWPeOWgIQbt0ixCPqpznC0GGFo4DR-ofmWT4VXCISfhIkNAp0WDT02GSt4BEd9bPeGAAZxZLr-UWoip8pJG040kIfxP4uGE
-Sb4SegB8cIdacAs06U0dB9ep4rmJSIZfW40FE7BDPeGEhHLGWmoHl6OZGifhPF2T8B8n4y9uAIx628LbomQacEyAwSoAz481Ys2u0jw9ObQaPpWIvW_PY3ZE
-D0TcH6PcHcP61-GX8peZCqCVa8VCDRiXeW0WSMCO_rLWLuJVIbuPmgzAt1JO1Sb3kJ34NR6x0bkGKXQ6Q0gQ0bsGKef1KnpQb1KffPYc4BWoAx8gnNI5WXjp
-GqefffH2Rim5QKfwANUac59W_rA8KXQaCIWccqAKiY2TGMLtXQXyGJg3bIcba58AQKoSjNd4jK8wK-LHAQr2ElDS8Mur9fio8ft9MIcafwDIoCHaLpeoCTaK
-T6HaVZeu4HOofbdCDjAPZcmm7TbWEhB1T6IBQSWUqv0zvaG2s6Mgm4xQaNsc8_jCO3zjo5OIdmQdazPt
-}
-
 AzureEntityColoring(AzureApplicationGateway)
-!define AzureApplicationGateway(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureApplicationGateway, AzureApplicationGateway)
-!define AzureApplicationGateway(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureApplicationGateway, AzureApplicationGateway)
-
-sprite $AzureAzureDDoSProtection [51x70/16z] {
-lT454jim48NXvGqellzn6z1KYcjuM_g74jkVaFOogcQXPH4X9U7nod0WqNC1WNS08hPOvSgq6wl5PcuoCsOHKJNtECxTL4IOEU2o5_-IP9bacUJ_8BbFydhx
-fMj67f3RVQDR7f7xPdNIJadxwld_bBIhUPi3I9ZTsiyU3Peb9j49i9SX03Bgl4OQIAPbBSkZmTllucdWG-xYMIjSvKUWXpmcmGzvo09f9VAvzXv6uj8tKZda
--p92I9gDIS13lhLbX6z_1CtoFqWharOcxPyG_oOD8FPb4Y6giu08yoGW4aHU94h4Gq24djaGs-I-ckJP47dT8jSSERsJGVAoKKunVTAdm1AYde52QUIGC9ep
-J1IDqZg5TpwI8n1CMt7i2gUz5DW6D94p7MRm52FsrMKWISm71QOT21Mo9r3QxWS
-}
+!define AzureApplicationGateway(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureApplicationGateway.svg", AzureApplicationGateway)
+!define AzureApplicationGateway(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureApplicationGateway.svg", AzureApplicationGateway)
 
 AzureEntityColoring(AzureAzureDDoSProtection)
-!define AzureAzureDDoSProtection(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureAzureDDoSProtection, AzureAzureDDoSProtection)
-!define AzureAzureDDoSProtection(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureAzureDDoSProtection, AzureAzureDDoSProtection)
-
-sprite $AzureDNS [70x70/16z] {
-fLY9Skim23G2SUZ_F_XDZBec-DMzTeuq2hEiO7Nr-1p4ekOHAznjoZX-3bPV3M52Fw4O6kl_CFusXwq7X7o7Wwmb9s9xv_bQpunLu6FBooB51_LJVH2zNERv
-SKMVSfGrlfwMH7BmGV7wF0fEVZvey-Yd98ffdwcZwjwyA1nqTjYLX5z_5TKOcv1SQJf9CEJR_m8YTVcgMZk9qvKsszFdDClaxsgqMjDHlXO3CMa8xpQ1GuIE
-iQLqq6wJ63nvgnpWZZGDbhyMp3xZc5wfT0eJ8OA6J7qZyBFQenM5ZuCjrWqHwuwOupZUDOzYnlJuCqB7hMd96Sth3s14Id4Dvq_0AyCWbcaENRbfyWY4Takq
-benK1X0roymI2p7T7L99EwIPn98rwRq6kZlITOo8WD0gFB1yVmFV7acstqAolfeVlmMbYAjt4YVSvi0sxAwKVrl4p47ro0CEzHtdEgNz7J2wLaQW08hLZmRd
-zycxGs1134PcPP5YONJ9vbKMoxmasFyDZ60vtJg85HPxHHGpsjksAZdY-JjO5e9ghosrWGKgFKViDKfW8R00jZBNg2pWtrfUZ7ffYPinT1-z4M5WmIyZMSvS
-11RRXsT2tJsk0nmiL_iuMR89O24SmYZ_4mkqfA-IfTnCx96bpoWhQc31BSaQYun1drRtWpDP4iEtumSpxnxTEqrNfttNmi22D7HrsbvQEeiMrtsKAGfBZXJ2
--meuIBSKi1ou-R0WJvGL86-hCLJL0cSUMEO7YouNogKcnUTbnxT-ZTmi4AD9XwuYWMANAYoUQIeBxxLDlXBwll4Q5ZNn2sCS035J_tDCCnL2IFPS_hvx-oOR
-lsRnFHLhQztS_LDMSdThfzeY5AuTciyJU0ysY6gsjAFYyRJ7ELJ5rCDoiCWy8I8y27q53D9kT-JJ3kgnEi8LfrUx-RGlwUv7ACJ4Mtgy7MZw-WR26FiszVT6
-VvEvgUghBAfg7ls6AFt98Ql31XqTG-zXlOD8mlFryQbHHvcrtmEIuk5wnLVv8iF7pTfblT_5T7jIzCSinZ5FwcBwgucZLRQfyN7huTqTStMIJeDpj2ycC7Cy
-lyqDZ-Mv-igMFJAi5VRfGUrDCwytOzgt7lU1ArsrfKNxZyMp7C0Pv_i5fUCPi1GGPj7Mnl4zWEU6KFhDVuFwXl1Ja6XzgwaypEGV
-}
-
-AzureEntityColoring(AzureDNS)
-!define AzureDNS(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDNS, AzureDNS)
-!define AzureDNS(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDNS, AzureDNS)
-
-sprite $AzureExpressRoute [70x42/16z] {
-fPO74hCX24H34_3-z_sBc_6RTCMNtjxWMiZjEsIH6Orl9rXsq0uahK-YB548pggXx03mIIaXukE9rLD17dwGZCyAfFyZwnQ4gWUrsAY04JDy1RWFt35NSZ2Y
-YpYLWA1Z2JH5ISI8E6eQdraGCrslgIHvtjv9snB7goTDKVAigKg0tJLSaDGqCIKBceBaILEI05tHn3ofVsbaHLBHO9dJ9LdJaAZGKmUCIxAc2KI8Y3ZxPlUI
-Xr-abYJFcYv85Cp6iLqDAHuTifH5O773psosFUtRw6oWEHjvR3fmXj5uEYo4lLot13950zo4PmDjY8Sb-ZPfYfyxTx1vgiPJpEtnvIBy752K_hlfym3QjI70
-tl9rkfVN8ZDijmkhPqORvynV
-}
+!define AzureAzureDDoSProtection(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureAzureDDoSProtection.svg", AzureAzureDDoSProtection)
+!define AzureAzureDDoSProtection(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureAzureDDoSProtection.svg", AzureAzureDDoSProtection)
 
 AzureEntityColoring(AzureExpressRoute)
-!define AzureExpressRoute(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureExpressRoute, AzureExpressRoute)
-!define AzureExpressRoute(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureExpressRoute, AzureExpressRoute)
-
-sprite $AzureFrontDoorService [70x61/16z] {
-lTTNYiD048JXwgXq__kkSowZzZJxFuiFJOJ1nqGzyb2u2NvC8nyA7JBkrHtF3pbgHNvE2eOGuyg87fBwdzoJ-uI5bH0UTpGh2L6o45r_omucoyd-MPcdfEtS
-j1cvhNDXfO8fsxPEktycgN9e8OwLb8EJdmfoX9X2fgUeaEdHoeZei8ni5wAGOHark78ekE9ymFvTkS-Bn9SpOjyL8VDQKt0j1XI_NoiDYkI8aY5aUIhATPLo
-L4a1T5n9m1iKGpGeYUnGh4M95YLxb6XHh4MH5WNHe3YqGL4WnXK0qd2E3kcW4W1Zk4A_b155S4tyLoNmc4H9uQyUzTYZn5M8FIymeWX8_w-iQ50c6LSM0qQL
-DO1HPPq4mygimAYoECOoCY6rTC-4_04
-}
+!define AzureExpressRoute(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureExpressRoute.svg", AzureExpressRoute)
+!define AzureExpressRoute(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureExpressRoute.svg", AzureExpressRoute)
 
 AzureEntityColoring(AzureFrontDoorService)
-!define AzureFrontDoorService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureFrontDoorService, AzureFrontDoorService)
-!define AzureFrontDoorService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureFrontDoorService, AzureFrontDoorService)
-
-sprite $AzureLoadBalancer [70x70/16z] {
-fTI7TW8X58JXeNDv__TDvxZ_IQ8EZjrTFZfwa38YPajwAMDz9Ufho4vx7I7Z8s3E4JBdI0mmXqXH1tE82Cmf0kOO8NECa3b6o1mZP6p4PuYibZ-Jz9cKFpF0
--Cj-6fk121M30KB5O81GkSyGCHGmG0m531130GF4KCW0yHGoH68XqP8-K-TYWWoHMN5lJzefz0iP8YhhaYf9gPJyzOdcA8CX0gL9AbzbeoTnS0I629GXgUqV
-aNUvhO010YLf8vjfKC3q6m9bI6bTCl5RO4e1efHtajGvBLAfEm8J0mWJKBeGCa2OXGmXO09ts4hwQGLkEUrHNs3EHdUb08EPpi_Ez5Iz5OEoCXeJ_0aahWjq
-K1cwb8loQmUKk5G0vjTkh3zpcCLDBI9aFXKoohNL915Pln0mbKiaQQTosYiGChzFp8uJ4m42nZYzWO0n521W30K864CXGiPGY91n52BtcSXtBZpBHDgBpa1-
-CGKNY3p9y0GC0o6JyJyGWz4b1OZ1K05YCEmH48VfkcK2SPX8sgb0F6PkfWGGauagIQal7-4GpuaprcOG82v3v9GXSiuGEMVE4QwJcNGtxm
-}
-
-AzureEntityColoring(AzureLoadBalancer)
-!define AzureLoadBalancer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureLoadBalancer, AzureLoadBalancer)
-!define AzureLoadBalancer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureLoadBalancer, AzureLoadBalancer)
-
-sprite $AzureTrafficManager [68x70/16z] {
-pTS5rk0m20HWOeJC_U-xBkcoPKX_dIVrhyuZugEupsgIoK2KLK-8vqW72KSumH531YblZvGKOWHPdmMfEKJU7cclWNHaCcMFMeYi13ByXOsTwA38029arOgx
-w7NlULEALfKAWdGWGbQJo83kX4Sc03I93UXt8aIQC0FzN_CQwy8DHOn8ok08DpXoRc2S6npX1a6U6kY71a4-r1ZY35yT1dkctEY839M4CH0PKnB6W3CSGGn5
-P9WaZBf2OwhwpCtmY28V4u-S6nuvDnpopD3c-fHJGx7gXWJ66d-Y5sFyRkXsHDcTsxvs05V4CiRSr_RVCnl23Vr_5sAo8SGel7af5XWnejiJyuR_krYfwoCm
-GgIxQkADxlfCWdX3eR-HpD1ElV4TvaYD46l0XlGxf0J8MjU7F-uGrxsvK6J82QBaGyiXX7Y6gFWO-PQc--sU89pWY7522aKeaKUCZ6r3f1WXKiWAXiSKQR-t
-4y8NBbykAYSuulCL
-}
-
-AzureEntityColoring(AzureTrafficManager)
-!define AzureTrafficManager(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureTrafficManager, AzureTrafficManager)
-!define AzureTrafficManager(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureTrafficManager, AzureTrafficManager)
-
-sprite $AzureVirtualNetwork [70x36/16z] {
-fTK7hiGW30HG6nDCVF_x_e96o5glc2sZalv2Hqg6oJ5kmkDn6ttEaOZxyBn7W668oY4NOpZ26I0JoBbIqRz02iCGpX24n-x454HIE7CTa2-O6H4kxwI1uGXd
-HaM-OdG-eDtzKfphSE-2cFjebG5IInPtso_kSevu62SA9fz9VXSTjX2qeiNAhPMfJOqFe-73JNeaChU6oyZwIY2sXZh-NvKymzjYPcOcNbOHQJZtLDNeKXUj
-mk3_GzB_6ne1jQi82fMOAxUtx_VGXbDBTLOAesQQBsIdMPEA83rTibJaAsRW6yfmXEyp756HhnWl26CumXc-qFCDWYCrzX8p2y9MzXej2648GfXvUXvupfZp
-d-mPyWi
-}
-
-AzureEntityColoring(AzureVirtualNetwork)
-!define AzureVirtualNetwork(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureVirtualNetwork, AzureVirtualNetwork)
-!define AzureVirtualNetwork(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureVirtualNetwork, AzureVirtualNetwork)
-
-sprite $AzureVirtualWAN [70x70/16z] {
-jPM9biGe24LP18N__-0PgykqRpHBvvovlTPsyq0qT8TeiNyfHPbU8iLcb5x0u7ZfKTlnnxgAxH5w3XlmiYgxG5wKyxutOfSKkeP5X9di1hqSiSUyAM957uxf
-Yywe_HL-AK7afGJHYxw-RmpRAueAByF-qWJrl4UUHN7tMjrlsdnfQ963QDLF-omNYl7v6Awe9sdqqj5CcJfIBpnorfRM5ONfYtU1bSyVtzIq3nAPJMcWaHcz
-VEBkMUDiBJszqO7D3wLbnga59I5qK3CR4qZZtj8_HI1n0dJHKDb8wjXXFHKKTw9PLjf_aqXsZeUeQM0HGoA3jNXh4Vb5QQ7WIX6jJKbW58XKg8cm91yJwbPg
-3jgQXYFRR66i9zELH-g3q4rDamN3pAlAG-4zLML2vZ1uDhGCg7siaLI8iuJ1WpVIq7A4q7LkCYiSLFBRMwQvegBAur7xxsBLKLB1ixTcGEIW6PyqK1BZtQJ1
-ZkcFW4_l8Qk3vBjIaGNgLa8yuGsHjPS3i5gcq86C9c6_XOMFiBMC3q14nhOiH7QQVACv3S02NTXlvW_orEBhBcGPUoj-hbDlBHMk95OZ9wHRphBmri8McKYO
-d5H4cRAnVCjeLaHcMsrfj25Ibxxmn-4wMlv3y-mKsb2x7DUezFHb7kXEC5698pfIii64XUFzhUCnRayAYu7Z2XV5qmdtroXv9R8GDY1e0AN2ctTl6Bull9jV
-A6Y1ZtsS0zdMFGhRKxETMd0u5M8YF6O0DinkE0EZ89x1yyr8Jom6KHOYsxJG9vkM5UTsrpl_H55Hp-IjHMBrhtSh-huhJawgoA0RBBD-rqQx4HXRY-aEpnmP
-VBFKBJE4xh7VzxL5uv3aMZEs8GTUkCHJoJYRl7zS8aDdHnezHrjcXcbFazR5fPjXOfzvejDgBwB51sFw7_a7
-}
+!define AzureFrontDoorService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureFrontDoorService.svg", AzureFrontDoorService)
+!define AzureFrontDoorService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureFrontDoorService.svg", AzureFrontDoorService)
 
 AzureEntityColoring(AzureVirtualWAN)
-!define AzureVirtualWAN(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureVirtualWAN, AzureVirtualWAN)
-!define AzureVirtualWAN(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureVirtualWAN, AzureVirtualWAN)
-
-sprite $AzureVPNGateway [63x70/16z] {
-lTTdpkCm38HXKPN3-z_tIo8O4AmDX_Aszw_ps6ffoQkqhe11Hw-I7YLrs2tqSeppj7jeSeYTq6BTZOJCiQZn6jKm7lTgFEw7dLGStUmeoD74CLh9aalJpO-3
-eMjTLwJVxvo_w7nxyiGhkTrRdVD2fjU2nsExpERMqrxThjAL1Rsvf6zLDZpGZPd1FtfoSAow_uJ2nxw_Hls98Jc9_vf6r_tALZvlBeSxmVxNUFs_NDfGsBEW
-lQHP8vIccNr4nK6Is1yqWeVN5ZnUgOxcLi2_4G9VkOvyephqZUdODwPZtuYcddFzLAVKJoudLUVN2k4TFaSFUIdmE4g9UIguywNJ2Pz-vrCVyUKnMzhd65Sv
-NVxUr2cFgrzuMYs_wHNZqrCTSz3VOWy7hnBmMcjxr_DDRrxgrT76xVxXiUdrtLZ-Y6VdqAgSyAbtVldoHszOhN_sSO4_uolEKUHTcicxWfZxnrHWX1E_DE74
-BqquyKnR0_TSMrMZdckhtKWgN5lEHZtN6l_pZ8wbFZJxJ_UESx7_LNm1
-}
-
-AzureEntityColoring(AzureVPNGateway)
-!define AzureVPNGateway(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureVPNGateway, AzureVPNGateway)
-!define AzureVPNGateway(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureVPNGateway, AzureVPNGateway)
+!define AzureVirtualWAN(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureVirtualWAN.svg", AzureVirtualWAN)
+!define AzureVirtualWAN(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureVirtualWAN.svg", AzureVirtualWAN)
 

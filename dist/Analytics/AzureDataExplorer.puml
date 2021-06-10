@@ -1,11 +1,3 @@
-sprite $AzureDataExplorer [70x70/16z] {
-dTHDRiCm44DXsjAaGkz_t_wNW5u4KSZR9RQ_5J7rVjZROvCoav5IPZ9Ioan6Ifd9I2ap6Ibb9YCbC04fgH6nOYOZ4rDMm0J4Z14hO8Wu_TMDG04314e3KW83
-PAxhfuj82GmGCa2iW252nWWKC41OjGc10eP8BHRReO1PxUGcqgMR2XaYtmmHCrR0F2DcZ9Yn0cP27jTYiTxVf809YmsAcRJOzlTVGGcC4JD6h6J6Y1aZLX9J
-tOZhhQ0aXejbEcEuM2gPuTYkhFH-WLaj5Zr4PCbmiK06aJN3nG8PGDOC5qjah91-QsAmM2ApqfqqCLWi42j4vh3O1J8YGeQ85IAH8J8YGeQ8bJKoWNjaR10m
-6sHi430RP6mHCaGSaDsAdn47PBzY8ku4SKHSsoBC25BR8im85BKjmen0KGl8DO4rrehkX4nCNojAI6PEaCoS8ltQCQT8apRCER9ZNaF8l8QGEKG2SuOavWY9
-p0cIcHCaCnavOI9on2mG4SbCUqO4936ukmv8Od1t7P34-EuY88dv1
-}
-
 AzureEntityColoring(AzureDataExplorer)
-!define AzureDataExplorer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDataExplorer, AzureDataExplorer)
-!define AzureDataExplorer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDataExplorer, AzureDataExplorer)
+!define AzureDataExplorer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDataExplorer.svg", AzureDataExplorer)
+!define AzureDataExplorer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDataExplorer.svg", AzureDataExplorer)

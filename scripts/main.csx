@@ -1,6 +1,6 @@
-#! "netcoreapp2.0"
+#! "netcoreapp3.1"
 
-#r "nuget: System.Drawing.Common, 4.5.0"
+#r "nuget: System.Drawing.Common, 5.0.2"
 
 #load "lib/Config.csx"
 #load "lib/HSLColor.csx"
@@ -28,9 +28,10 @@ var azureColor = System.Drawing.ColorTranslator.FromHtml("#0072C6");
 
 var plantUmlPath = @"C:\ProgramData\chocolatey\lib\plantuml\tools\plantuml.jar";
 
-var inkScapePath = @"C:\Program Files\Inkscape\inkscape.exe";
+var inkScapePath = @"C:\Program Files\Inkscape\bin\inkscape.exe";
 
 static string rsvgConvertPath = @"C:\ProgramData\chocolatey\bin\rsvg-convert.exe";
+static string imageBaseUrl = "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist";
 
 
 Main();
@@ -82,6 +83,9 @@ public void Main()
             RsvgConvert(coloredSourceFilePath, Path.Combine(categoryDirectoryPath, service.ServiceTarget + ".svg"), targetImageHeight);
             // Resize and export PNG
             RsvgConvert(coloredSourceFilePath, Path.Combine(categoryDirectoryPath, service.ServiceTarget + ".png"), targetImageHeight, exportAsPng: true);
+
+
+            ConvertToPuml($"{imageBaseUrl}/{service.Category}/{service.ServiceTarget}.svg", categoryDirectoryPath, service.ServiceTarget + ".puml");
         }
         else
         {
@@ -95,7 +99,7 @@ public void Main()
             //FitCanvasToDrawing(monochromSourceFilePath);
 
             // Resize and copy SVG
-            RsvgConvert(monochromSourceFilePath, monochromSvgFilePath, targetImageHeight);    
+            RsvgConvert(monochromSourceFilePath, monochromSvgFilePath, targetImageHeight);
         }
         else
         {
@@ -109,7 +113,11 @@ public void Main()
         var monochromPngFilePath = Path.Combine(categoryDirectoryPath, service.ServiceTarget + "(m).png");
         // First generation with background needed for PUML sprite generation
         RsvgConvert(monochromSvgFilePath, monochromPngFilePath, targetImageHeight, exportAsPng: true, withWhiteBackground: true);
-        ConvertToPuml(monochromPngFilePath, service.ServiceTarget + ".puml");
+
+        if (!coloredExists)
+        {
+            ConvertToPuml($"{imageBaseUrl}/{service.Category}/{service.ServiceTarget}(m).svg", categoryDirectoryPath, service.ServiceTarget + ".puml");
+        }
 
         // Second generation without background needed other usages
         RsvgConvert(monochromSvgFilePath, monochromPngFilePath, targetImageHeight, exportAsPng: true, withWhiteBackground: false);
@@ -223,7 +231,7 @@ private static void ManipulateSvgFills(string inputPath, string outputPath, Func
 
             rValue = (int)Math.Round(rPercValue / 100 * 255);
             gValue = (int)Math.Round(gPercValue / 100 * 255);
-            bValue = (int)Math.Round(bPercValue / 100 * 255);    
+            bValue = (int)Math.Round(bPercValue / 100 * 255);
         }
         else
         {
@@ -302,32 +310,16 @@ public void WriteErrorLine(string message)
     Console.ForegroundColor = tmp;
 }
 
-public string ConvertToPuml(string pngPath, string pumlFileName)
+public string ConvertToPuml(string imgPath, string directory, string pumlFileName)
 {
-    var format = "16z";
-
     var entityName = Path.GetFileNameWithoutExtension(pumlFileName);
-    var pumlPath = Path.Combine(Directory.GetParent(pngPath).FullName, pumlFileName);
-
-    var processInfo = new ProcessStartInfo
-    {
-        FileName = "java",
-        Arguments = $"-jar {plantUmlPath} -encodesprite {format} \"{pngPath}\"",
-        RedirectStandardOutput = true,
-        UseShellExecute = false,
-        CreateNoWindow = true
-    };
+    var pumlPath = Path.Combine(directory, pumlFileName);
 
     var pumlContent = new StringBuilder();
-    using (var process = Process.Start(processInfo))
-    {
-        process.WaitForExit();
-        pumlContent.Append(process.StandardOutput.ReadToEnd());
-    }
 
     pumlContent.AppendLine($"AzureEntityColoring({entityName})");
-    pumlContent.AppendLine($"!define {entityName}(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, {entityName}, {entityName})");
-    pumlContent.AppendLine($"!define {entityName}(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, {entityName}, {entityName})");
+    pumlContent.AppendLine($"!define {entityName}(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, \"{imgPath}\", {entityName})");
+    pumlContent.AppendLine($"!define {entityName}(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, \"{imgPath}\", {entityName})");
 
     File.WriteAllText(pumlPath, pumlContent.ToString());
     return pumlPath;

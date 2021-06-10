@@ -1,26 +1,8 @@
-sprite $AzureKeyVault [63x70/16z] {
-hPVd0kiW28NBKC3tVz-xRuu9sj1n_dJnoOpMnrxIpIFSb1wlgyKuPFmYh35Ewg-v7bSvrUa-ieBglbVo8Yqhk9w_8s3htLyB7yv3_tncVyczeTQNIaO5HwXf
-HQd7tXuG8_fgrsXHJNjAgY3HMAtfpsUDWVi5nvgTTkqkUVVWDJsaahiFy6U3jgyylekHUJjMfvk-4tvSbiQVJvsY2jVW1j_FlEK9Wi7z4nTfW1ii44jMG-np
--1G7pRUxJSTgQMSJV9FfQw91S8xCrppwm07tfr2ZiCzd-yDGTwTCu9H905-IosxiF68elirfwis-azt7vNqHR-WKeJXb70mcNEeudYe4GY_WU0GDgPTnr9uS
-JIZZQBOuAbV7wS03DdNySSpAPtZxalV-7lvXwMprlF4VjIsEKSK0vTYsE4PLiSNNSOmgmwYE1pB6sp8kqo-6w8iu49bthYAEjiNyOL0HxvSZCxcdFz8rpkEK
-hk2CgamTJYbFfrO1n_cbCCDwDpYC8uKpx0xdoAboB7dIl-9fnQLbArvvDDPt0mSVKheXwMcGOa1z7O34uhn7-b0qoh2FINPpVJAPL-0MOvPlOuEyDnLHxHQL
-6oNulH1v5dk9xeNE91NwYlfkPLI-zMSvPw2yWCcZ9EcH7MEK2k9c7lXNBpls9m
-}
-
 AzureEntityColoring(AzureKeyVault)
-!define AzureKeyVault(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureKeyVault, AzureKeyVault)
-!define AzureKeyVault(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureKeyVault, AzureKeyVault)
-
-sprite $AzureSentinel [61x70/16z] {
-lPLfUYCX34H1e1Ogxd_Uh4rmopMsFDlxDvEyhxGrAR-WgJam0Hz7AwzG5HERYQEcNGNWjm0uSghuX4S0pnH_0Cx0j6UrTzzkb2VquPn2nK7-r7cwwC1I6VDa
-gDp4IUjgNrL5DGOluAQzIItp4o28J6R0Kym_aF7_PDCczNkUQkupBuyUrjb7LZPsnJ8oykY5q_of_EZwxOcivH4TZ-HLSjO6pLrNtwGIcyd7zIFpBy83g5ns
-kr7jSbr-emykxmBrxZHjDmCYxuQhaG_AvQTj8e-zJlfDuCVsUxa7DyhJwtqqGiVgWRdugGrHNckgsrAffOfYBjRCDSej5ht_F1tpnDSYeno3jMnwZCPLjj3n
-sKN8jl1v0PTV7jVnXUqWDEsuB2eK7Gi_TztM_74xBpbbMLQuoNwP6EnR7lO5htgF2ECBFwjMEA54V19Cvk_BlG145bfsH8enkGUtCTS__v_88yY3oP_x18r-
-7epFbV1vIzXoPDqggDrsBdFNjV5eDpaVKkxQMYAtWM43auFzA54xU77KYq7bHwxVZXEl1KCkYyHBieQ7vfMgxmuG-M2lGQwEh0mf4G5oLQCj9TY9OFJ2Q412
-rc0nE-To6pcNsyZrowUMd3FTDnBxfTY4WzzL0WLpBQFoHmjQieYJKUKvBkwevIKQICbfwZXTb_8RT93ODDNcU1Zx3W
-}
+!define AzureKeyVault(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureKeyVault.svg", AzureKeyVault)
+!define AzureKeyVault(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureKeyVault.svg", AzureKeyVault)
 
 AzureEntityColoring(AzureSentinel)
-!define AzureSentinel(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSentinel, AzureSentinel)
-!define AzureSentinel(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSentinel, AzureSentinel)
+!define AzureSentinel(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureSentinel.svg", AzureSentinel)
+!define AzureSentinel(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureSentinel.svg", AzureSentinel)
 

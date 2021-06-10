@@ -1,10 +1,3 @@
-sprite $AzureSignalRService [70x70/16z] {
-nPO5agv120C9TlyRFrrV9aLchSj_wSeGFZ62HrRrNoh3OJgU_OuCKq3sWVAreveHekFU4xsWm8FqaX224CfEP2l0Hgerm2IwXajqJVODMBJZObFe0Ios9-q5
-esIrWyw7WkKcq_F0bfOa9MEmyvvm_kOL7ad2r2YPSPgRIxWdnu9Wd9ngsaZuehkP4yaoJPcb9XaBCICI0hdYY8IF9hnVu22GC1Mz9uvXiWNg6AOlDKKj7AVt
-93rCz0VuP8l_-8bYdcwrnA7fR0K_R1qv7dqHS-rPd8y4ZdUOmkuC_0KmhJchcvsRzeeyBujPNBm2ulqgwk-Z60ANEbkV0hiusvm3IxEDK-3OHe4dcTsk8V3P
-MUmqpckq-e0692pHa2UTe25hMPSQylIc6hhRkD64sRM6I1GDaSYQi1aeJRaToQscO0Hd6e7u70rIqkWUc8ONkPSe8EgL8Kctlm4
-}
-
 AzureEntityColoring(AzureSignalRService)
-!define AzureSignalRService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSignalRService, AzureSignalRService)
-!define AzureSignalRService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSignalRService, AzureSignalRService)
+!define AzureSignalRService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureSignalRService.svg", AzureSignalRService)
+!define AzureSignalRService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureSignalRService.svg", AzureSignalRService)

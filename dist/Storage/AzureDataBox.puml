@@ -1,10 +1,3 @@
-sprite $AzureDataBox [70x67/16z] {
-xTO7sXiX38JX4I24TFy3PzTnDp1RqlE_1_YUaUjY9gkvHtWppJWcMJppcWuqMdneUmTPT5NiqMB04tQGRD6NiOkeayn66Ztig5oghQgcyJiLZecazkmQibtl
-bAYzKy6YngTcjKZl5kl9rqnNAtXJh4-lH_NvQqVDPXcFaIPioIEJOYntNfF1QrDZx7gLs9m04dIDaegICI5qoYgHCUqwXOzfv2RZ0EXyJ38k0obcKZ5AiOYP
-gjiYy9ZmkYs25ZCR8oYamYCyGoERCjKc2h0jesJ9jamcIxPbn8Qs__CsrF6MYuIBh8iQVOfiX61bv1V6Y4GhTTrwkY9Or9CLnKhELHg-IsSgBY0PMhb6hgGU
-h3IXVzMyelG1XbTCy4dAdeghO41IAVf67XMxgfe5HnXvBFnJAr-LhqgB1GvJMtcit2u4ktbyE5197vaCWcH8X6LuX1DdaUqP7k4P6jcUuH6UuH5EQiBGDm
-}
-
 AzureEntityColoring(AzureDataBox)
-!define AzureDataBox(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDataBox, AzureDataBox)
-!define AzureDataBox(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDataBox, AzureDataBox)
+!define AzureDataBox(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureDataBox.svg", AzureDataBox)
+!define AzureDataBox(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureDataBox.svg", AzureDataBox)

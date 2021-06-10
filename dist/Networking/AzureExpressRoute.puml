@@ -1,10 +1,3 @@
-sprite $AzureExpressRoute [70x42/16z] {
-fPO74hCX24H34_3-z_sBc_6RTCMNtjxWMiZjEsIH6Orl9rXsq0uahK-YB548pggXx03mIIaXukE9rLD17dwGZCyAfFyZwnQ4gWUrsAY04JDy1RWFt35NSZ2Y
-YpYLWA1Z2JH5ISI8E6eQdraGCrslgIHvtjv9snB7goTDKVAigKg0tJLSaDGqCIKBceBaILEI05tHn3ofVsbaHLBHO9dJ9LdJaAZGKmUCIxAc2KI8Y3ZxPlUI
-Xr-abYJFcYv85Cp6iLqDAHuTifH5O773psosFUtRw6oWEHjvR3fmXj5uEYo4lLot13950zo4PmDjY8Sb-ZPfYfyxTx1vgiPJpEtnvIBy752K_hlfym3QjI70
-tl9rkfVN8ZDijmkhPqORvynV
-}
-
 AzureEntityColoring(AzureExpressRoute)
-!define AzureExpressRoute(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureExpressRoute, AzureExpressRoute)
-!define AzureExpressRoute(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureExpressRoute, AzureExpressRoute)
+!define AzureExpressRoute(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureExpressRoute.svg", AzureExpressRoute)
+!define AzureExpressRoute(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureExpressRoute.svg", AzureExpressRoute)
