@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-public static void GenerateMarkdownTable(string distFolder, string imageBaseUrl)
+public static void GenerateMarkdownTable(string markdownOutputDirectory, string distFolder, string imageBaseUrl)
 {
     Console.WriteLine("Generating Markdown table...");
 
@@ -25,5 +25,5 @@ public static void GenerateMarkdownTable(string distFolder, string imageBaseUrl)
 
         sbTable.AppendLine($"{entityName}.puml");
     }
-    File.WriteAllText(Path.Combine(distFolder, "Elements Table.md"), sbTable.ToString());
+    File.WriteAllText(Path.Combine(markdownOutputDirectory, "Elements Table.md"), sbTable.ToString());
 }

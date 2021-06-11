@@ -61,7 +61,7 @@ public void Main()
     var catAllFilePath = Path.Combine(targetFolder, "all.puml");
     CombineMultipleFilesIntoSingleFile(targetFolder, "*.puml", catAllFilePath, commonDefinitions);
 
-    GenerateMarkdownTable(targetFolder, imageBaseUrl);
+    GenerateMarkdownTable("../", targetFolder, imageBaseUrl);
     GenerateVSCodeSnippets(targetFolder);
 
     Console.WriteLine("Finished");
