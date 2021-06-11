@@ -1,11 +1,11 @@
 @startuml Basic usage - Stream processing with Azure Stream Analytics
 !pragma revision 2
 
-!define AzurePuml https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
-!includeurl AzurePuml/AzureCommon.puml
-!includeurl AzurePuml/Analytics/AzureEventHub.puml
-!includeurl AzurePuml/Analytics/AzureStreamAnalytics.puml
-!includeurl AzurePuml/Databases/AzureCosmosDb.puml
+!define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
+!includeurl MS/Common.puml
+!includeurl MS/AzureEventHub.puml
+!includeurl MS/AzureStreamAnalytics.puml
+!includeurl MS/AzureCosmosDD.puml
 
 left to right direction
 

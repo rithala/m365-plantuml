@@ -1,6 +1,7 @@
 #! "netcoreapp3.1"
 
 #r "nuget: System.Drawing.Common, 5.0.2"
+#r "nuget: Pluralize.NET.Core, 1.0.0"
 
 #load "lib/Config.csx"
 #load "lib/HSLColor.csx"
@@ -13,6 +14,7 @@ using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using System.Globalization;
 using System.IO;
+using Pluralize.NET.Core;
 
 var sourceFolder = @"../source";
 
@@ -28,6 +30,7 @@ static string imageBaseUrl = "https://raw.githubusercontent.com/rithala/m365-pla
 
 static string[] commonDefinitions = new[] { "Raw.puml", "Common.puml", "C4Integration.puml", "Simplified.puml" };
 
+static Pluralizer pluralizer = new Pluralizer();
 
 Main();
 
@@ -69,7 +72,7 @@ public void Main()
 
 
 public string CreateTargetName(string serviceName)
-    => serviceName.Replace(" ", "").Replace("(classic)", "Classic").Replace("(", "").Replace(")", "");
+    => pluralizer.Singularize(serviceName.Replace(" ", "").Replace("(classic)", "Classic").Replace("(", "").Replace(")", ""));
 
 public bool FitCanvasToDrawing(string inputPath)
 {
