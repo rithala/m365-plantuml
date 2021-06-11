@@ -3,7 +3,7 @@
 
 !includeurl https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
-!define AzurePuml https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist
+!define AzurePuml https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
 !includeurl AzurePuml/AzureCommon.puml
 !includeurl AzurePuml/AzureC4Integration.puml
 !includeurl AzurePuml/Compute/AzureFunction.puml

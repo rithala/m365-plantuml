@@ -1,3 +1,3 @@
 AzureEntityColoring(AzureEventGrid)
-!define AzureEventGrid(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureEventGrid.svg", AzureEventGrid)
-!define AzureEventGrid(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureEventGrid.svg", AzureEventGrid)
+!define AzureEventGrid(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Integration/AzureEventGrid.svg", AzureEventGrid)
+!define AzureEventGrid(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Integration/AzureEventGrid.svg", AzureEventGrid)

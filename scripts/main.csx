@@ -31,7 +31,7 @@ var plantUmlPath = @"C:\ProgramData\chocolatey\lib\plantuml\tools\plantuml.jar";
 var inkScapePath = @"C:\Program Files\Inkscape\bin\inkscape.exe";
 
 static string rsvgConvertPath = @"C:\ProgramData\chocolatey\bin\rsvg-convert.exe";
-static string imageBaseUrl = "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist";
+static string imageBaseUrl = "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist";
 
 
 Main();

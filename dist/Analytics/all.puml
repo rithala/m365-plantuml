@@ -1,20 +1,20 @@
 AzureEntityColoring(AzureAnalysisServices)
-!define AzureAnalysisServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureAnalysisServices.svg", AzureAnalysisServices)
-!define AzureAnalysisServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureAnalysisServices.svg", AzureAnalysisServices)
+!define AzureAnalysisServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureAnalysisServices.svg", AzureAnalysisServices)
+!define AzureAnalysisServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureAnalysisServices.svg", AzureAnalysisServices)
 
 AzureEntityColoring(AzureDatabricks)
-!define AzureDatabricks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDatabricks.svg", AzureDatabricks)
-!define AzureDatabricks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDatabricks.svg", AzureDatabricks)
+!define AzureDatabricks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureDatabricks.svg", AzureDatabricks)
+!define AzureDatabricks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureDatabricks.svg", AzureDatabricks)
 
 AzureEntityColoring(AzureDataExplorer)
-!define AzureDataExplorer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDataExplorer.svg", AzureDataExplorer)
-!define AzureDataExplorer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDataExplorer.svg", AzureDataExplorer)
+!define AzureDataExplorer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureDataExplorer.svg", AzureDataExplorer)
+!define AzureDataExplorer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureDataExplorer.svg", AzureDataExplorer)
 
 AzureEntityColoring(AzureHDInsight)
-!define AzureHDInsight(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureHDInsight.svg", AzureHDInsight)
-!define AzureHDInsight(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureHDInsight.svg", AzureHDInsight)
+!define AzureHDInsight(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureHDInsight.svg", AzureHDInsight)
+!define AzureHDInsight(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureHDInsight.svg", AzureHDInsight)
 
 AzureEntityColoring(AzureStreamAnalytics)
-!define AzureStreamAnalytics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureStreamAnalytics.svg", AzureStreamAnalytics)
-!define AzureStreamAnalytics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureStreamAnalytics.svg", AzureStreamAnalytics)
+!define AzureStreamAnalytics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureStreamAnalytics.svg", AzureStreamAnalytics)
+!define AzureStreamAnalytics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Analytics/AzureStreamAnalytics.svg", AzureStreamAnalytics)
 

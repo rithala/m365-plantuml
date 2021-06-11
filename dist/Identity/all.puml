@@ -1,8 +1,8 @@
 AzureEntityColoring(AzureActiveDirectoryB2C)
-!define AzureActiveDirectoryB2C(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryB2C.svg", AzureActiveDirectoryB2C)
-!define AzureActiveDirectoryB2C(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryB2C.svg", AzureActiveDirectoryB2C)
+!define AzureActiveDirectoryB2C(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Identity/AzureActiveDirectoryB2C.svg", AzureActiveDirectoryB2C)
+!define AzureActiveDirectoryB2C(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Identity/AzureActiveDirectoryB2C.svg", AzureActiveDirectoryB2C)
 
 AzureEntityColoring(AzureActiveDirectoryDomainServices)
-!define AzureActiveDirectoryDomainServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryDomainServices.svg", AzureActiveDirectoryDomainServices)
-!define AzureActiveDirectoryDomainServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryDomainServices.svg", AzureActiveDirectoryDomainServices)
+!define AzureActiveDirectoryDomainServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Identity/AzureActiveDirectoryDomainServices.svg", AzureActiveDirectoryDomainServices)
+!define AzureActiveDirectoryDomainServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Identity/AzureActiveDirectoryDomainServices.svg", AzureActiveDirectoryDomainServices)
 

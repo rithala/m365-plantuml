@@ -1,24 +1,24 @@
 AzureEntityColoring(AzureDigitalTwins)
-!define AzureDigitalTwins(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureDigitalTwins.svg", AzureDigitalTwins)
-!define AzureDigitalTwins(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureDigitalTwins.svg", AzureDigitalTwins)
+!define AzureDigitalTwins(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureDigitalTwins.svg", AzureDigitalTwins)
+!define AzureDigitalTwins(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureDigitalTwins.svg", AzureDigitalTwins)
 
 AzureEntityColoring(AzureIoTCentral)
-!define AzureIoTCentral(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTCentral.svg", AzureIoTCentral)
-!define AzureIoTCentral(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTCentral.svg", AzureIoTCentral)
+!define AzureIoTCentral(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureIoTCentral.svg", AzureIoTCentral)
+!define AzureIoTCentral(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureIoTCentral.svg", AzureIoTCentral)
 
 AzureEntityColoring(AzureIoTEdge)
-!define AzureIoTEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTEdge.svg", AzureIoTEdge)
-!define AzureIoTEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTEdge.svg", AzureIoTEdge)
+!define AzureIoTEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureIoTEdge.svg", AzureIoTEdge)
+!define AzureIoTEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureIoTEdge.svg", AzureIoTEdge)
 
 AzureEntityColoring(AzureIoTHub)
-!define AzureIoTHub(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTHub.svg", AzureIoTHub)
-!define AzureIoTHub(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTHub.svg", AzureIoTHub)
+!define AzureIoTHub(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureIoTHub.svg", AzureIoTHub)
+!define AzureIoTHub(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureIoTHub.svg", AzureIoTHub)
 
 AzureEntityColoring(AzureMaps)
-!define AzureMaps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureMaps.svg", AzureMaps)
-!define AzureMaps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureMaps.svg", AzureMaps)
+!define AzureMaps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureMaps.svg", AzureMaps)
+!define AzureMaps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureMaps.svg", AzureMaps)
 
 AzureEntityColoring(AzureTimeSeriesInsights)
-!define AzureTimeSeriesInsights(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureTimeSeriesInsights.svg", AzureTimeSeriesInsights)
-!define AzureTimeSeriesInsights(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureTimeSeriesInsights.svg", AzureTimeSeriesInsights)
+!define AzureTimeSeriesInsights(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureTimeSeriesInsights.svg", AzureTimeSeriesInsights)
+!define AzureTimeSeriesInsights(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetOfThings/AzureTimeSeriesInsights.svg", AzureTimeSeriesInsights)
 
