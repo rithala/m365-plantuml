@@ -88,8 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - for the base structure
-* [plantuml-office](https://github.com/Roemer/plantuml-office) - for the scripts idea
-* [C4 Model](https://c4model.com/) - for the hope that it's possible to improve architecture documentations
 * [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML) - for creating a great framework making possible to create this fork
 
