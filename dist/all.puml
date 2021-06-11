@@ -1,0 +1,1456 @@
+AzureEntityColoring(ABSMember)
+!define ABSMember(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ABSMember.svg", ABSMember)
+!define ABSMember(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ABSMember.svg", ABSMember)
+
+AzureEntityColoring(ActiveDirectoryConnectHealth)
+!define ActiveDirectoryConnectHealth(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ActiveDirectoryConnectHealth.svg", ActiveDirectoryConnectHealth)
+!define ActiveDirectoryConnectHealth(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ActiveDirectoryConnectHealth.svg", ActiveDirectoryConnectHealth)
+
+AzureEntityColoring(ActivityLog)
+!define ActivityLog(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ActivityLog.svg", ActivityLog)
+!define ActivityLog(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ActivityLog.svg", ActivityLog)
+
+AzureEntityColoring(Advisor)
+!define Advisor(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Advisor.svg", Advisor)
+!define Advisor(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Advisor.svg", Advisor)
+
+AzureEntityColoring(Alerts)
+!define Alerts(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Alerts.svg", Alerts)
+!define Alerts(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Alerts.svg", Alerts)
+
+AzureEntityColoring(AllResources)
+!define AllResources(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AllResources.svg", AllResources)
+!define AllResources(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AllResources.svg", AllResources)
+
+AzureEntityColoring(AnalysisServices)
+!define AnalysisServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AnalysisServices.svg", AnalysisServices)
+!define AnalysisServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AnalysisServices.svg", AnalysisServices)
+
+AzureEntityColoring(APIManagementServices)
+!define APIManagementServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/APIManagementServices.svg", APIManagementServices)
+!define APIManagementServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/APIManagementServices.svg", APIManagementServices)
+
+AzureEntityColoring(ApplicationGateways)
+!define ApplicationGateways(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ApplicationGateways.svg", ApplicationGateways)
+!define ApplicationGateways(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ApplicationGateways.svg", ApplicationGateways)
+
+AzureEntityColoring(ApplicationInsights)
+!define ApplicationInsights(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ApplicationInsights.svg", ApplicationInsights)
+!define ApplicationInsights(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ApplicationInsights.svg", ApplicationInsights)
+
+AzureEntityColoring(ApplicationSecurityGroups)
+!define ApplicationSecurityGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ApplicationSecurityGroups.svg", ApplicationSecurityGroups)
+!define ApplicationSecurityGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ApplicationSecurityGroups.svg", ApplicationSecurityGroups)
+
+AzureEntityColoring(AppRegistrations)
+!define AppRegistrations(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppRegistrations.svg", AppRegistrations)
+!define AppRegistrations(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppRegistrations.svg", AppRegistrations)
+
+AzureEntityColoring(AppServiceCertificates)
+!define AppServiceCertificates(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServiceCertificates.svg", AppServiceCertificates)
+!define AppServiceCertificates(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServiceCertificates.svg", AppServiceCertificates)
+
+AzureEntityColoring(AppServiceDomains)
+!define AppServiceDomains(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServiceDomains.svg", AppServiceDomains)
+!define AppServiceDomains(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServiceDomains.svg", AppServiceDomains)
+
+AzureEntityColoring(AppServiceEnvironments)
+!define AppServiceEnvironments(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServiceEnvironments.svg", AppServiceEnvironments)
+!define AppServiceEnvironments(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServiceEnvironments.svg", AppServiceEnvironments)
+
+AzureEntityColoring(AppServicePlans)
+!define AppServicePlans(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServicePlans.svg", AppServicePlans)
+!define AppServicePlans(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServicePlans.svg", AppServicePlans)
+
+AzureEntityColoring(AppServices)
+!define AppServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServices.svg", AppServices)
+!define AppServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AppServices.svg", AppServices)
+
+AzureEntityColoring(AutomanagedVM)
+!define AutomanagedVM(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AutomanagedVM.svg", AutomanagedVM)
+!define AutomanagedVM(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AutomanagedVM.svg", AutomanagedVM)
+
+AzureEntityColoring(AutomationAccounts)
+!define AutomationAccounts(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AutomationAccounts.svg", AutomationAccounts)
+!define AutomationAccounts(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AutomationAccounts.svg", AutomationAccounts)
+
+AzureEntityColoring(AvailabilitySets)
+!define AvailabilitySets(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AvailabilitySets.svg", AvailabilitySets)
+!define AvailabilitySets(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AvailabilitySets.svg", AvailabilitySets)
+
+AzureEntityColoring(AVS)
+!define AVS(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AVS.svg", AVS)
+!define AVS(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AVS.svg", AVS)
+
+AzureEntityColoring(AzureActiveDirectory)
+!define AzureActiveDirectory(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureActiveDirectory.svg", AzureActiveDirectory)
+!define AzureActiveDirectory(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureActiveDirectory.svg", AzureActiveDirectory)
+
+AzureEntityColoring(AzureADB2C)
+!define AzureADB2C(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureADB2C.svg", AzureADB2C)
+!define AzureADB2C(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureADB2C.svg", AzureADB2C)
+
+AzureEntityColoring(AzureADDomainServices)
+!define AzureADDomainServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureADDomainServices.svg", AzureADDomainServices)
+!define AzureADDomainServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureADDomainServices.svg", AzureADDomainServices)
+
+AzureEntityColoring(AzureADIdentityProtection)
+!define AzureADIdentityProtection(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureADIdentityProtection.svg", AzureADIdentityProtection)
+!define AzureADIdentityProtection(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureADIdentityProtection.svg", AzureADIdentityProtection)
+
+AzureEntityColoring(AzureADRolesandAdministrators)
+!define AzureADRolesandAdministrators(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureADRolesandAdministrators.svg", AzureADRolesandAdministrators)
+!define AzureADRolesandAdministrators(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureADRolesandAdministrators.svg", AzureADRolesandAdministrators)
+
+AzureEntityColoring(AzureAPIforFHIR)
+!define AzureAPIforFHIR(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureAPIforFHIR.svg", AzureAPIforFHIR)
+!define AzureAPIforFHIR(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureAPIforFHIR.svg", AzureAPIforFHIR)
+
+AzureEntityColoring(AzureArc)
+!define AzureArc(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureArc.svg", AzureArc)
+!define AzureArc(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureArc.svg", AzureArc)
+
+AzureEntityColoring(AzureBackupCenter)
+!define AzureBackupCenter(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureBackupCenter.svg", AzureBackupCenter)
+!define AzureBackupCenter(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureBackupCenter.svg", AzureBackupCenter)
+
+AzureEntityColoring(AzureBlockchainService)
+!define AzureBlockchainService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureBlockchainService.svg", AzureBlockchainService)
+!define AzureBlockchainService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureBlockchainService.svg", AzureBlockchainService)
+
+' Legends
+' ##################################
+
+!ifdef COMPONENT_BG_COLOR
+    !define COMPONENT_LEGEND
+!else
+    !ifdef CONTAINER_BG_COLOR 
+        !define CONTAINER_LEGEND
+    !else
+        !define CONTEXT_LEGEND
+    !endif
+!endif
+
+!ifdef CONTEXT_LEGEND
+    !definelong LAYOUT_WITH_LEGEND
+        hide <<person>> stereotype
+        hide <<external_system>> stereotype
+        hide <<system>> stereotype
+        hide <<external_system>> stereotype
+        legend right
+        |=              |= Type |
+        |<PERSON_BG_COLOR>      | person |
+        |<EXTERNAL_PERSON_BG_COLOR>      | external person |
+        |<SYSTEM_BG_COLOR>   | system |
+        |<EXTERNAL_SYSTEM_BG_COLOR>      | external system |
+        |<AZURE_BG_COLOR>       | Azure service container |
+        endlegend
+    !enddefinelong
+!endif
+
+!ifdef CONTAINER_LEGEND
+    !definelong LAYOUT_WITH_LEGEND
+        hide <<person>> stereotype
+        hide <<external_system>> stereotype
+        hide <<system>> stereotype
+        hide <<external_system>> stereotype
+        hide <<container>> stereotype
+        legend right
+        |=              |= Type |
+        |<PERSON_BG_COLOR>      | person |
+        |<EXTERNAL_PERSON_BG_COLOR>      | external person |
+        |<SYSTEM_BG_COLOR>   | system |
+        |<EXTERNAL_SYSTEM_BG_COLOR>      | external system |
+        |<CONTAINER_BG_COLOR>   | container |
+        |<AZURE_BG_COLOR>       | Azure service container |
+        endlegend
+    !enddefinelong
+!endif
+
+!ifdef COMPONENT_LEGEND
+    !definelong LAYOUT_WITH_LEGEND
+        hide <<person>> stereotype
+        hide <<external_system>> stereotype
+        hide <<system>> stereotype
+        hide <<external_system>> stereotype
+        hide <<container>> stereotype
+        hide <<component>> stereotype
+        legend right
+        |=              |= Type |
+        |<PERSON_BG_COLOR>      | person |
+        |<EXTERNAL_PERSON_BG_COLOR>      | external person |
+        |<SYSTEM_BG_COLOR>   | system |
+        |<EXTERNAL_SYSTEM_BG_COLOR>      | external system |
+        |<CONTAINER_BG_COLOR>   | container |
+        |<AZURE_BG_COLOR>       | Azure service container |
+        |<COMPONENT_BG_COLOR>   | component |
+        endlegend
+    !enddefinelong
+!endif
+
+AzureEntityColoring(AzureCloudShell)
+!define AzureCloudShell(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureCloudShell.svg", AzureCloudShell)
+!define AzureCloudShell(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureCloudShell.svg", AzureCloudShell)
+
+' Azure-PlantUML, version 2.1.0
+' https://github.com/plantuml-stdlib/Azure-PlantUML
+
+' Colors
+' ##################################
+!define AZURE_COLOR #0072C6
+!define AZURE_BG_COLOR #FFFFFF
+!define AZURE_BORDER_COLOR #3C7FC0
+!define AZURE_SYMBOL_COLOR AZURE_COLOR
+
+' Styling
+' ##################################
+
+!define TECHN_FONT_SIZE 12
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+!definelong AzureEntityColoring(e_stereo)
+skinparam rectangle<<e_stereo>> {
+    BackgroundColor AZURE_BG_COLOR
+    BorderColor AZURE_BORDER_COLOR
+}
+!enddefinelong
+
+' Layout
+' ##################################
+
+!definelong LAYOUT_AS_SKETCH
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+skinparam defaultFontName "Comic Sans MS"
+center footer <font color=red>Warning:</font> Created for discussion, needs to be validated
+!enddefinelong
+
+!define LAYOUT_TOP_DOWN top to bottom direction
+!define LAYOUT_LEFT_RIGHT left to right direction
+
+' Elements
+' ##################################
+
+!definelong AzureEntity(e_alias, e_label, e_techn, e_color, e_img, e_stereo)
+rectangle "==e_label\n<img:e_img>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<e_stereo>> as e_alias
+!enddefinelong
+
+!definelong AzureEntity(e_alias, e_label, e_techn, e_descr, e_color, e_img, e_stereo)
+rectangle "==e_label\n<img:e_img>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<e_stereo>> as e_alias
+!enddefinelong
+
+AzureEntityColoring(AzureCosmosDB)
+!define AzureCosmosDB(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureCosmosDB.svg", AzureCosmosDB)
+!define AzureCosmosDB(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureCosmosDB.svg", AzureCosmosDB)
+
+AzureEntityColoring(AzureDatabaseMariaDBServer)
+!define AzureDatabaseMariaDBServer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabaseMariaDBServer.svg", AzureDatabaseMariaDBServer)
+!define AzureDatabaseMariaDBServer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabaseMariaDBServer.svg", AzureDatabaseMariaDBServer)
+
+AzureEntityColoring(AzureDatabaseMigrationServices)
+!define AzureDatabaseMigrationServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabaseMigrationServices.svg", AzureDatabaseMigrationServices)
+!define AzureDatabaseMigrationServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabaseMigrationServices.svg", AzureDatabaseMigrationServices)
+
+AzureEntityColoring(AzureDatabaseMySQLServer)
+!define AzureDatabaseMySQLServer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabaseMySQLServer.svg", AzureDatabaseMySQLServer)
+!define AzureDatabaseMySQLServer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabaseMySQLServer.svg", AzureDatabaseMySQLServer)
+
+AzureEntityColoring(AzureDatabasePostgreSQLServer)
+!define AzureDatabasePostgreSQLServer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabasePostgreSQLServer.svg", AzureDatabasePostgreSQLServer)
+!define AzureDatabasePostgreSQLServer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabasePostgreSQLServer.svg", AzureDatabasePostgreSQLServer)
+
+AzureEntityColoring(AzureDatabricks)
+!define AzureDatabricks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabricks.svg", AzureDatabricks)
+!define AzureDatabricks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDatabricks.svg", AzureDatabricks)
+
+AzureEntityColoring(AzureDataCatalog)
+!define AzureDataCatalog(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDataCatalog.svg", AzureDataCatalog)
+!define AzureDataCatalog(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDataCatalog.svg", AzureDataCatalog)
+
+AzureEntityColoring(AzureDataExplorerClusters)
+!define AzureDataExplorerClusters(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDataExplorerClusters.svg", AzureDataExplorerClusters)
+!define AzureDataExplorerClusters(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDataExplorerClusters.svg", AzureDataExplorerClusters)
+
+AzureEntityColoring(AzureDefender)
+!define AzureDefender(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDefender.svg", AzureDefender)
+!define AzureDefender(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDefender.svg", AzureDefender)
+
+AzureEntityColoring(AzureDevOps)
+!define AzureDevOps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDevOps.svg", AzureDevOps)
+!define AzureDevOps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureDevOps.svg", AzureDevOps)
+
+AzureEntityColoring(AzureFirewallManager)
+!define AzureFirewallManager(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureFirewallManager.svg", AzureFirewallManager)
+!define AzureFirewallManager(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureFirewallManager.svg", AzureFirewallManager)
+
+AzureEntityColoring(AzureHCPCache)
+!define AzureHCPCache(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureHCPCache.svg", AzureHCPCache)
+!define AzureHCPCache(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureHCPCache.svg", AzureHCPCache)
+
+AzureEntityColoring(AzureLighthouse)
+!define AzureLighthouse(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureLighthouse.svg", AzureLighthouse)
+!define AzureLighthouse(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureLighthouse.svg", AzureLighthouse)
+
+AzureEntityColoring(AzureMapsAccounts)
+!define AzureMapsAccounts(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureMapsAccounts.svg", AzureMapsAccounts)
+!define AzureMapsAccounts(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureMapsAccounts.svg", AzureMapsAccounts)
+
+AzureEntityColoring(AzureMediaService)
+!define AzureMediaService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureMediaService.svg", AzureMediaService)
+!define AzureMediaService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureMediaService.svg", AzureMediaService)
+
+AzureEntityColoring(AzureMigrate)
+!define AzureMigrate(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureMigrate.svg", AzureMigrate)
+!define AzureMigrate(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureMigrate.svg", AzureMigrate)
+
+AzureEntityColoring(AzureNetAppFiles)
+!define AzureNetAppFiles(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureNetAppFiles.svg", AzureNetAppFiles)
+!define AzureNetAppFiles(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureNetAppFiles.svg", AzureNetAppFiles)
+
+' Azure-PlantUML, version 2.1.0
+' https://github.com/plantuml-stdlib/Azure-PlantUML
+
+' Colors
+' ##################################
+!define AZURE_COLOR #0072C6
+!define AZURE_BG_COLOR #FFFFFF
+!define AZURE_BORDER_COLOR #3C7FC0
+!define AZURE_SYMBOL_COLOR AZURE_COLOR
+
+' Styling
+' ##################################
+
+!define TECHN_FONT_SIZE 12
+
+!definelong AzureEntityColoring(e_stereo)
+skinparam rectangle<<e_stereo>> {
+    BackgroundColor AZURE_BG_COLOR
+    BorderColor AZURE_BORDER_COLOR
+    
+}
+!enddefinelong
+
+' Elements
+' ##################################
+
+!definelong AzureEntity(e_alias, e_label, e_techn, e_color, e_img, e_stereo)
+rectangle "==e_label\n<img:e_img>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<e_stereo>> as e_alias
+!enddefinelong
+
+!definelong AzureEntity(e_alias, e_label, e_techn, e_descr, e_color, e_img, e_stereo)
+rectangle "==e_label\n<img:e_img>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<e_stereo>> as e_alias
+!enddefinelong
+
+AzureEntityColoring(AzureSentinel)
+!define AzureSentinel(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSentinel.svg", AzureSentinel)
+!define AzureSentinel(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSentinel.svg", AzureSentinel)
+
+' Styling
+' ##################################
+
+hide stereotype
+
+!definelong AzureEntityColoring(e_stereo)
+skinparam rectangle<<e_stereo>> {
+    BackgroundColor AZURE_BG_COLOR
+    BorderColor transparent
+    Shadowing false
+}
+!enddefinelong
+
+' Overwriting Elements
+' ##################################
+
+!definelong AzureEntity(e_alias, e_label, e_techn, e_color, e_img, e_stereo)
+rectangle "<img:e_img>\n\n==e_label" <<e_stereo>> as e_alias
+!enddefinelong
+
+!definelong AzureEntity(e_alias, e_label, e_techn, e_descr, e_color, e_img, e_stereo)
+rectangle "<img:e_img>\n\n==e_label" <<e_stereo>> as e_alias
+!enddefinelong
+AzureEntityColoring(AzureSphere)
+!define AzureSphere(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSphere.svg", AzureSphere)
+!define AzureSphere(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSphere.svg", AzureSphere)
+
+AzureEntityColoring(AzureSpringCloud)
+!define AzureSpringCloud(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSpringCloud.svg", AzureSpringCloud)
+!define AzureSpringCloud(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSpringCloud.svg", AzureSpringCloud)
+
+AzureEntityColoring(AzureSQL)
+!define AzureSQL(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSQL.svg", AzureSQL)
+!define AzureSQL(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSQL.svg", AzureSQL)
+
+AzureEntityColoring(AzureSQLServerStretchDatabases)
+!define AzureSQLServerStretchDatabases(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSQLServerStretchDatabases.svg", AzureSQLServerStretchDatabases)
+!define AzureSQLServerStretchDatabases(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSQLServerStretchDatabases.svg", AzureSQLServerStretchDatabases)
+
+AzureEntityColoring(AzureSQLVM)
+!define AzureSQLVM(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSQLVM.svg", AzureSQLVM)
+!define AzureSQLVM(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSQLVM.svg", AzureSQLVM)
+
+AzureEntityColoring(AzureStack)
+!define AzureStack(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureStack.svg", AzureStack)
+!define AzureStack(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureStack.svg", AzureStack)
+
+AzureEntityColoring(AzureStackEdge)
+!define AzureStackEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureStackEdge.svg", AzureStackEdge)
+!define AzureStackEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureStackEdge.svg", AzureStackEdge)
+
+AzureEntityColoring(AzureSynapseAnalytics)
+!define AzureSynapseAnalytics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSynapseAnalytics.svg", AzureSynapseAnalytics)
+!define AzureSynapseAnalytics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSynapseAnalytics.svg", AzureSynapseAnalytics)
+
+AzureEntityColoring(AzureTokenService)
+!define AzureTokenService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureTokenService.svg", AzureTokenService)
+!define AzureTokenService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureTokenService.svg", AzureTokenService)
+
+AzureEntityColoring(AzureWorkbooks)
+!define AzureWorkbooks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureWorkbooks.svg", AzureWorkbooks)
+!define AzureWorkbooks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureWorkbooks.svg", AzureWorkbooks)
+
+AzureEntityColoring(Backlog)
+!define Backlog(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Backlog.svg", Backlog)
+!define Backlog(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Backlog.svg", Backlog)
+
+AzureEntityColoring(BatchAccounts)
+!define BatchAccounts(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BatchAccounts.svg", BatchAccounts)
+!define BatchAccounts(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BatchAccounts.svg", BatchAccounts)
+
+AzureEntityColoring(BizTalk)
+!define BizTalk(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BizTalk.svg", BizTalk)
+!define BizTalk(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BizTalk.svg", BizTalk)
+
+AzureEntityColoring(BlobBlock)
+!define BlobBlock(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BlobBlock.svg", BlobBlock)
+!define BlobBlock(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BlobBlock.svg", BlobBlock)
+
+AzureEntityColoring(BlobPage)
+!define BlobPage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BlobPage.svg", BlobPage)
+!define BlobPage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BlobPage.svg", BlobPage)
+
+AzureEntityColoring(Blueprints)
+!define Blueprints(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Blueprints.svg", Blueprints)
+!define Blueprints(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Blueprints.svg", Blueprints)
+
+AzureEntityColoring(BotServices)
+!define BotServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BotServices.svg", BotServices)
+!define BotServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/BotServices.svg", BotServices)
+
+AzureEntityColoring(Branch)
+!define Branch(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Branch.svg", Branch)
+!define Branch(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Branch.svg", Branch)
+
+AzureEntityColoring(Browser)
+!define Browser(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Browser.svg", Browser)
+!define Browser(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Browser.svg", Browser)
+
+AzureEntityColoring(Bug)
+!define Bug(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Bug.svg", Bug)
+!define Bug(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Bug.svg", Bug)
+
+AzureEntityColoring(Builds)
+!define Builds(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Builds.svg", Builds)
+!define Builds(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Builds.svg", Builds)
+
+AzureEntityColoring(Cache)
+!define Cache(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Cache.svg", Cache)
+!define Cache(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Cache.svg", Cache)
+
+AzureEntityColoring(CacheRedis)
+!define CacheRedis(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CacheRedis.svg", CacheRedis)
+!define CacheRedis(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CacheRedis.svg", CacheRedis)
+
+AzureEntityColoring(Capacity)
+!define Capacity(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Capacity.svg", Capacity)
+!define Capacity(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Capacity.svg", Capacity)
+
+AzureEntityColoring(CDNProfiles)
+!define CDNProfiles(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CDNProfiles.svg", CDNProfiles)
+!define CDNProfiles(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CDNProfiles.svg", CDNProfiles)
+
+AzureEntityColoring(CloudServicesClassic)
+!define CloudServicesClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CloudServicesClassic.svg", CloudServicesClassic)
+!define CloudServicesClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CloudServicesClassic.svg", CloudServicesClassic)
+
+AzureEntityColoring(Code)
+!define Code(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Code.svg", Code)
+!define Code(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Code.svg", Code)
+
+AzureEntityColoring(CognitiveServices)
+!define CognitiveServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CognitiveServices.svg", CognitiveServices)
+!define CognitiveServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CognitiveServices.svg", CognitiveServices)
+
+AzureEntityColoring(Commit)
+!define Commit(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Commit.svg", Commit)
+!define Commit(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Commit.svg", Commit)
+
+AzureEntityColoring(Compliance)
+!define Compliance(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Compliance.svg", Compliance)
+!define Compliance(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Compliance.svg", Compliance)
+
+AzureEntityColoring(ConditionalAccess)
+!define ConditionalAccess(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ConditionalAccess.svg", ConditionalAccess)
+!define ConditionalAccess(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ConditionalAccess.svg", ConditionalAccess)
+
+AzureEntityColoring(Connections)
+!define Connections(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Connections.svg", Connections)
+!define Connections(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Connections.svg", Connections)
+
+AzureEntityColoring(Consortium)
+!define Consortium(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Consortium.svg", Consortium)
+!define Consortium(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Consortium.svg", Consortium)
+
+AzureEntityColoring(ContainerInstances)
+!define ContainerInstances(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ContainerInstances.svg", ContainerInstances)
+!define ContainerInstances(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ContainerInstances.svg", ContainerInstances)
+
+AzureEntityColoring(ContainerRegistries)
+!define ContainerRegistries(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ContainerRegistries.svg", ContainerRegistries)
+!define ContainerRegistries(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ContainerRegistries.svg", ContainerRegistries)
+
+AzureEntityColoring(ContainerServicesDeprecated)
+!define ContainerServicesDeprecated(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ContainerServicesDeprecated.svg", ContainerServicesDeprecated)
+!define ContainerServicesDeprecated(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ContainerServicesDeprecated.svg", ContainerServicesDeprecated)
+
+AzureEntityColoring(Controls)
+!define Controls(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Controls.svg", Controls)
+!define Controls(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Controls.svg", Controls)
+
+AzureEntityColoring(ControlsHorizontal)
+!define ControlsHorizontal(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ControlsHorizontal.svg", ControlsHorizontal)
+!define ControlsHorizontal(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ControlsHorizontal.svg", ControlsHorizontal)
+
+AzureEntityColoring(CostAlerts)
+!define CostAlerts(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostAlerts.svg", CostAlerts)
+!define CostAlerts(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostAlerts.svg", CostAlerts)
+
+AzureEntityColoring(CostAnalysis)
+!define CostAnalysis(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostAnalysis.svg", CostAnalysis)
+!define CostAnalysis(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostAnalysis.svg", CostAnalysis)
+
+AzureEntityColoring(CostBudgets)
+!define CostBudgets(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostBudgets.svg", CostBudgets)
+!define CostBudgets(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostBudgets.svg", CostBudgets)
+
+AzureEntityColoring(CostManagement)
+!define CostManagement(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostManagement.svg", CostManagement)
+!define CostManagement(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostManagement.svg", CostManagement)
+
+AzureEntityColoring(CostManagementandBilling)
+!define CostManagementandBilling(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostManagementandBilling.svg", CostManagementandBilling)
+!define CostManagementandBilling(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/CostManagementandBilling.svg", CostManagementandBilling)
+
+AzureEntityColoring(Counter)
+!define Counter(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Counter.svg", Counter)
+!define Counter(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Counter.svg", Counter)
+
+AzureEntityColoring(Cubes)
+!define Cubes(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Cubes.svg", Cubes)
+!define Cubes(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Cubes.svg", Cubes)
+
+AzureEntityColoring(Dashboard)
+!define Dashboard(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Dashboard.svg", Dashboard)
+!define Dashboard(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Dashboard.svg", Dashboard)
+
+AzureEntityColoring(DataBox)
+!define DataBox(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataBox.svg", DataBox)
+!define DataBox(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataBox.svg", DataBox)
+
+AzureEntityColoring(DataBoxEdge)
+!define DataBoxEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataBoxEdge.svg", DataBoxEdge)
+!define DataBoxEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataBoxEdge.svg", DataBoxEdge)
+
+AzureEntityColoring(DataFactory)
+!define DataFactory(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataFactory.svg", DataFactory)
+!define DataFactory(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataFactory.svg", DataFactory)
+
+AzureEntityColoring(DataLakeStorageGen1)
+!define DataLakeStorageGen1(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataLakeStorageGen1.svg", DataLakeStorageGen1)
+!define DataLakeStorageGen1(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataLakeStorageGen1.svg", DataLakeStorageGen1)
+
+AzureEntityColoring(DataLakeStoreGen1)
+!define DataLakeStoreGen1(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataLakeStoreGen1.svg", DataLakeStoreGen1)
+!define DataLakeStoreGen1(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataLakeStoreGen1.svg", DataLakeStoreGen1)
+
+AzureEntityColoring(DataShareInvitations)
+!define DataShareInvitations(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataShareInvitations.svg", DataShareInvitations)
+!define DataShareInvitations(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataShareInvitations.svg", DataShareInvitations)
+
+AzureEntityColoring(DataShares)
+!define DataShares(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataShares.svg", DataShares)
+!define DataShares(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DataShares.svg", DataShares)
+
+AzureEntityColoring(DDoSProtectionPlans)
+!define DDoSProtectionPlans(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DDoSProtectionPlans.svg", DDoSProtectionPlans)
+!define DDoSProtectionPlans(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DDoSProtectionPlans.svg", DDoSProtectionPlans)
+
+AzureEntityColoring(Detonation)
+!define Detonation(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Detonation.svg", Detonation)
+!define Detonation(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Detonation.svg", Detonation)
+
+AzureEntityColoring(DevConsole)
+!define DevConsole(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DevConsole.svg", DevConsole)
+!define DevConsole(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DevConsole.svg", DevConsole)
+
+AzureEntityColoring(DeviceProvisioningServices)
+!define DeviceProvisioningServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DeviceProvisioningServices.svg", DeviceProvisioningServices)
+!define DeviceProvisioningServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DeviceProvisioningServices.svg", DeviceProvisioningServices)
+
+AzureEntityColoring(DeviceSecurityApple)
+!define DeviceSecurityApple(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DeviceSecurityApple.svg", DeviceSecurityApple)
+!define DeviceSecurityApple(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DeviceSecurityApple.svg", DeviceSecurityApple)
+
+AzureEntityColoring(DeviceSecurityGoogle)
+!define DeviceSecurityGoogle(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DeviceSecurityGoogle.svg", DeviceSecurityGoogle)
+!define DeviceSecurityGoogle(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DeviceSecurityGoogle.svg", DeviceSecurityGoogle)
+
+AzureEntityColoring(DeviceSecurityWindows)
+!define DeviceSecurityWindows(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DeviceSecurityWindows.svg", DeviceSecurityWindows)
+!define DeviceSecurityWindows(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DeviceSecurityWindows.svg", DeviceSecurityWindows)
+
+AzureEntityColoring(DevTestLabs)
+!define DevTestLabs(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DevTestLabs.svg", DevTestLabs)
+!define DevTestLabs(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DevTestLabs.svg", DevTestLabs)
+
+AzureEntityColoring(DiagnosticsSettings)
+!define DiagnosticsSettings(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DiagnosticsSettings.svg", DiagnosticsSettings)
+!define DiagnosticsSettings(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DiagnosticsSettings.svg", DiagnosticsSettings)
+
+AzureEntityColoring(DigitalTwins)
+!define DigitalTwins(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DigitalTwins.svg", DigitalTwins)
+!define DigitalTwins(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DigitalTwins.svg", DigitalTwins)
+
+AzureEntityColoring(DiskEncryptionSets)
+!define DiskEncryptionSets(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DiskEncryptionSets.svg", DiskEncryptionSets)
+!define DiskEncryptionSets(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DiskEncryptionSets.svg", DiskEncryptionSets)
+
+AzureEntityColoring(Disks)
+!define Disks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Disks.svg", Disks)
+!define Disks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Disks.svg", Disks)
+
+AzureEntityColoring(DisksClassic)
+!define DisksClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DisksClassic.svg", DisksClassic)
+!define DisksClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DisksClassic.svg", DisksClassic)
+
+AzureEntityColoring(DisksSnapshots)
+!define DisksSnapshots(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DisksSnapshots.svg", DisksSnapshots)
+!define DisksSnapshots(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DisksSnapshots.svg", DisksSnapshots)
+
+AzureEntityColoring(DNSZones)
+!define DNSZones(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DNSZones.svg", DNSZones)
+!define DNSZones(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/DNSZones.svg", DNSZones)
+
+AzureEntityColoring(Download)
+!define Download(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Download.svg", Download)
+!define Download(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Download.svg", Download)
+
+AzureEntityColoring(Education)
+!define Education(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Education.svg", Education)
+!define Education(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Education.svg", Education)
+
+AzureEntityColoring(ElasticJobAgents)
+!define ElasticJobAgents(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ElasticJobAgents.svg", ElasticJobAgents)
+!define ElasticJobAgents(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ElasticJobAgents.svg", ElasticJobAgents)
+
+AzureEntityColoring(EnterpriseApplications)
+!define EnterpriseApplications(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EnterpriseApplications.svg", EnterpriseApplications)
+!define EnterpriseApplications(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EnterpriseApplications.svg", EnterpriseApplications)
+
+AzureEntityColoring(Error)
+!define Error(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Error.svg", Error)
+!define Error(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Error.svg", Error)
+
+AzureEntityColoring(EventGridDomains)
+!define EventGridDomains(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventGridDomains.svg", EventGridDomains)
+!define EventGridDomains(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventGridDomains.svg", EventGridDomains)
+
+AzureEntityColoring(EventGridSubscriptions)
+!define EventGridSubscriptions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventGridSubscriptions.svg", EventGridSubscriptions)
+!define EventGridSubscriptions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventGridSubscriptions.svg", EventGridSubscriptions)
+
+AzureEntityColoring(EventGridTopics)
+!define EventGridTopics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventGridTopics.svg", EventGridTopics)
+!define EventGridTopics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventGridTopics.svg", EventGridTopics)
+
+AzureEntityColoring(EventHubClusters)
+!define EventHubClusters(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventHubClusters.svg", EventHubClusters)
+!define EventHubClusters(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventHubClusters.svg", EventHubClusters)
+
+AzureEntityColoring(EventHubs)
+!define EventHubs(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventHubs.svg", EventHubs)
+!define EventHubs(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/EventHubs.svg", EventHubs)
+
+AzureEntityColoring(ExpressRouteCircuits)
+!define ExpressRouteCircuits(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ExpressRouteCircuits.svg", ExpressRouteCircuits)
+!define ExpressRouteCircuits(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ExpressRouteCircuits.svg", ExpressRouteCircuits)
+
+AzureEntityColoring(ExpressRouteDirect)
+!define ExpressRouteDirect(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ExpressRouteDirect.svg", ExpressRouteDirect)
+!define ExpressRouteDirect(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ExpressRouteDirect.svg", ExpressRouteDirect)
+
+AzureEntityColoring(ExtendedSecurityUpdates)
+!define ExtendedSecurityUpdates(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ExtendedSecurityUpdates.svg", ExtendedSecurityUpdates)
+!define ExtendedSecurityUpdates(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ExtendedSecurityUpdates.svg", ExtendedSecurityUpdates)
+
+AzureEntityColoring(Extensions)
+!define Extensions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Extensions.svg", Extensions)
+!define Extensions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Extensions.svg", Extensions)
+
+AzureEntityColoring(File)
+!define File(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/File.svg", File)
+!define File(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/File.svg", File)
+
+AzureEntityColoring(Files)
+!define Files(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Files.svg", Files)
+!define Files(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Files.svg", Files)
+
+AzureEntityColoring(Firewalls)
+!define Firewalls(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Firewalls.svg", Firewalls)
+!define Firewalls(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Firewalls.svg", Firewalls)
+
+AzureEntityColoring(FolderBlank)
+!define FolderBlank(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FolderBlank.svg", FolderBlank)
+!define FolderBlank(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FolderBlank.svg", FolderBlank)
+
+AzureEntityColoring(FolderWebsite)
+!define FolderWebsite(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FolderWebsite.svg", FolderWebsite)
+!define FolderWebsite(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FolderWebsite.svg", FolderWebsite)
+
+AzureEntityColoring(FreeServices)
+!define FreeServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FreeServices.svg", FreeServices)
+!define FreeServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FreeServices.svg", FreeServices)
+
+AzureEntityColoring(FrontDoors)
+!define FrontDoors(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FrontDoors.svg", FrontDoors)
+!define FrontDoors(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FrontDoors.svg", FrontDoors)
+
+AzureEntityColoring(FTP)
+!define FTP(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FTP.svg", FTP)
+!define FTP(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FTP.svg", FTP)
+
+AzureEntityColoring(FunctionApps)
+!define FunctionApps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FunctionApps.svg", FunctionApps)
+!define FunctionApps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/FunctionApps.svg", FunctionApps)
+
+AzureEntityColoring(Gear)
+!define Gear(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Gear.svg", Gear)
+!define Gear(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Gear.svg", Gear)
+
+AzureEntityColoring(Globe)
+!define Globe(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Globe.svg", Globe)
+!define Globe(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Globe.svg", Globe)
+
+AzureEntityColoring(GlobeError)
+!define GlobeError(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/GlobeError.svg", GlobeError)
+!define GlobeError(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/GlobeError.svg", GlobeError)
+
+AzureEntityColoring(GlobeSuccess)
+!define GlobeSuccess(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/GlobeSuccess.svg", GlobeSuccess)
+!define GlobeSuccess(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/GlobeSuccess.svg", GlobeSuccess)
+
+AzureEntityColoring(GlobeWarning)
+!define GlobeWarning(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/GlobeWarning.svg", GlobeWarning)
+!define GlobeWarning(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/GlobeWarning.svg", GlobeWarning)
+
+AzureEntityColoring(Groups)
+!define Groups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Groups.svg", Groups)
+!define Groups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Groups.svg", Groups)
+
+AzureEntityColoring(Guide)
+!define Guide(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Guide.svg", Guide)
+!define Guide(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Guide.svg", Guide)
+
+AzureEntityColoring(HDInsightClusters)
+!define HDInsightClusters(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/HDInsightClusters.svg", HDInsightClusters)
+!define HDInsightClusters(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/HDInsightClusters.svg", HDInsightClusters)
+
+AzureEntityColoring(Heart)
+!define Heart(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Heart.svg", Heart)
+!define Heart(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Heart.svg", Heart)
+
+AzureEntityColoring(HelpandSupport)
+!define HelpandSupport(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/HelpandSupport.svg", HelpandSupport)
+!define HelpandSupport(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/HelpandSupport.svg", HelpandSupport)
+
+AzureEntityColoring(IdentityGovernance)
+!define IdentityGovernance(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IdentityGovernance.svg", IdentityGovernance)
+!define IdentityGovernance(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IdentityGovernance.svg", IdentityGovernance)
+
+AzureEntityColoring(Image)
+!define Image(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Image.svg", Image)
+!define Image(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Image.svg", Image)
+
+AzureEntityColoring(ImageDefinitions)
+!define ImageDefinitions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ImageDefinitions.svg", ImageDefinitions)
+!define ImageDefinitions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ImageDefinitions.svg", ImageDefinitions)
+
+AzureEntityColoring(Images)
+!define Images(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Images.svg", Images)
+!define Images(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Images.svg", Images)
+
+AzureEntityColoring(ImageVersions)
+!define ImageVersions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ImageVersions.svg", ImageVersions)
+!define ImageVersions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ImageVersions.svg", ImageVersions)
+
+AzureEntityColoring(ImportExportJobs)
+!define ImportExportJobs(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ImportExportJobs.svg", ImportExportJobs)
+!define ImportExportJobs(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ImportExportJobs.svg", ImportExportJobs)
+
+AzureEntityColoring(Information)
+!define Information(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Information.svg", Information)
+!define Information(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Information.svg", Information)
+
+AzureEntityColoring(InfrastructureBackup)
+!define InfrastructureBackup(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InfrastructureBackup.svg", InfrastructureBackup)
+!define InfrastructureBackup(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InfrastructureBackup.svg", InfrastructureBackup)
+
+AzureEntityColoring(InputOutput)
+!define InputOutput(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InputOutput.svg", InputOutput)
+!define InputOutput(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InputOutput.svg", InputOutput)
+
+AzureEntityColoring(InstancePools)
+!define InstancePools(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InstancePools.svg", InstancePools)
+!define InstancePools(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InstancePools.svg", InstancePools)
+
+AzureEntityColoring(IntegrationAccounts)
+!define IntegrationAccounts(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IntegrationAccounts.svg", IntegrationAccounts)
+!define IntegrationAccounts(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IntegrationAccounts.svg", IntegrationAccounts)
+
+AzureEntityColoring(InternetAnalyzerProfiles)
+!define InternetAnalyzerProfiles(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetAnalyzerProfiles.svg", InternetAnalyzerProfiles)
+!define InternetAnalyzerProfiles(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/InternetAnalyzerProfiles.svg", InternetAnalyzerProfiles)
+
+AzureEntityColoring(Intune)
+!define Intune(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Intune.svg", Intune)
+!define Intune(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Intune.svg", Intune)
+
+AzureEntityColoring(IntuneForEducation)
+!define IntuneForEducation(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IntuneForEducation.svg", IntuneForEducation)
+!define IntuneForEducation(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IntuneForEducation.svg", IntuneForEducation)
+
+AzureEntityColoring(IoTCentralApplications)
+!define IoTCentralApplications(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IoTCentralApplications.svg", IoTCentralApplications)
+!define IoTCentralApplications(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IoTCentralApplications.svg", IoTCentralApplications)
+
+AzureEntityColoring(IoTEdge)
+!define IoTEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IoTEdge.svg", IoTEdge)
+!define IoTEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IoTEdge.svg", IoTEdge)
+
+AzureEntityColoring(IoTHub)
+!define IoTHub(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IoTHub.svg", IoTHub)
+!define IoTHub(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IoTHub.svg", IoTHub)
+
+AzureEntityColoring(IPGroups)
+!define IPGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IPGroups.svg", IPGroups)
+!define IPGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/IPGroups.svg", IPGroups)
+
+AzureEntityColoring(JourneyHub)
+!define JourneyHub(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/JourneyHub.svg", JourneyHub)
+!define JourneyHub(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/JourneyHub.svg", JourneyHub)
+
+AzureEntityColoring(KeyVaults)
+!define KeyVaults(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/KeyVaults.svg", KeyVaults)
+!define KeyVaults(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/KeyVaults.svg", KeyVaults)
+
+AzureEntityColoring(KubernetesServices)
+!define KubernetesServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/KubernetesServices.svg", KubernetesServices)
+!define KubernetesServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/KubernetesServices.svg", KubernetesServices)
+
+AzureEntityColoring(LabServices)
+!define LabServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LabServices.svg", LabServices)
+!define LabServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LabServices.svg", LabServices)
+
+AzureEntityColoring(LaunchPortal)
+!define LaunchPortal(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LaunchPortal.svg", LaunchPortal)
+!define LaunchPortal(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LaunchPortal.svg", LaunchPortal)
+
+AzureEntityColoring(Learn)
+!define Learn(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Learn.svg", Learn)
+!define Learn(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Learn.svg", Learn)
+
+AzureEntityColoring(LoadBalancers)
+!define LoadBalancers(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LoadBalancers.svg", LoadBalancers)
+!define LoadBalancers(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LoadBalancers.svg", LoadBalancers)
+
+AzureEntityColoring(LoadTest)
+!define LoadTest(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LoadTest.svg", LoadTest)
+!define LoadTest(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LoadTest.svg", LoadTest)
+
+AzureEntityColoring(LocalNetworkGateways)
+!define LocalNetworkGateways(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LocalNetworkGateways.svg", LocalNetworkGateways)
+!define LocalNetworkGateways(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LocalNetworkGateways.svg", LocalNetworkGateways)
+
+AzureEntityColoring(Location)
+!define Location(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Location.svg", Location)
+!define Location(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Location.svg", Location)
+
+AzureEntityColoring(LogAnalyticsWorkspaces)
+!define LogAnalyticsWorkspaces(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LogAnalyticsWorkspaces.svg", LogAnalyticsWorkspaces)
+!define LogAnalyticsWorkspaces(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LogAnalyticsWorkspaces.svg", LogAnalyticsWorkspaces)
+
+AzureEntityColoring(LogicApps)
+!define LogicApps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LogicApps.svg", LogicApps)
+!define LogicApps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LogicApps.svg", LogicApps)
+
+AzureEntityColoring(LogStreaming)
+!define LogStreaming(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LogStreaming.svg", LogStreaming)
+!define LogStreaming(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/LogStreaming.svg", LogStreaming)
+
+AzureEntityColoring(MachineLearningStudioClassicWebServices)
+!define MachineLearningStudioClassicWebServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MachineLearningStudioClassicWebServices.svg", MachineLearningStudioClassicWebServices)
+!define MachineLearningStudioClassicWebServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MachineLearningStudioClassicWebServices.svg", MachineLearningStudioClassicWebServices)
+
+AzureEntityColoring(MachineLearningStudioWebServicePlans)
+!define MachineLearningStudioWebServicePlans(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MachineLearningStudioWebServicePlans.svg", MachineLearningStudioWebServicePlans)
+!define MachineLearningStudioWebServicePlans(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MachineLearningStudioWebServicePlans.svg", MachineLearningStudioWebServicePlans)
+
+AzureEntityColoring(MachineLearningStudioWorkspaces)
+!define MachineLearningStudioWorkspaces(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MachineLearningStudioWorkspaces.svg", MachineLearningStudioWorkspaces)
+!define MachineLearningStudioWorkspaces(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MachineLearningStudioWorkspaces.svg", MachineLearningStudioWorkspaces)
+
+AzureEntityColoring(MachinesAzureArc)
+!define MachinesAzureArc(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MachinesAzureArc.svg", MachinesAzureArc)
+!define MachinesAzureArc(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MachinesAzureArc.svg", MachinesAzureArc)
+
+AzureEntityColoring(ManagedApplicationsCenter)
+!define ManagedApplicationsCenter(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagedApplicationsCenter.svg", ManagedApplicationsCenter)
+!define ManagedApplicationsCenter(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagedApplicationsCenter.svg", ManagedApplicationsCenter)
+
+AzureEntityColoring(ManagedDatabase)
+!define ManagedDatabase(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagedDatabase.svg", ManagedDatabase)
+!define ManagedDatabase(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagedDatabase.svg", ManagedDatabase)
+
+AzureEntityColoring(ManagedIdentities)
+!define ManagedIdentities(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagedIdentities.svg", ManagedIdentities)
+!define ManagedIdentities(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagedIdentities.svg", ManagedIdentities)
+
+AzureEntityColoring(ManagementGroups)
+!define ManagementGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagementGroups.svg", ManagementGroups)
+!define ManagementGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagementGroups.svg", ManagementGroups)
+
+AzureEntityColoring(ManagementPortal)
+!define ManagementPortal(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagementPortal.svg", ManagementPortal)
+!define ManagementPortal(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ManagementPortal.svg", ManagementPortal)
+
+AzureEntityColoring(Marketplace)
+!define Marketplace(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Marketplace.svg", Marketplace)
+!define Marketplace(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Marketplace.svg", Marketplace)
+
+AzureEntityColoring(Media)
+!define Media(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Media.svg", Media)
+!define Media(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Media.svg", Media)
+
+AzureEntityColoring(MediaFile)
+!define MediaFile(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MediaFile.svg", MediaFile)
+!define MediaFile(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MediaFile.svg", MediaFile)
+
+AzureEntityColoring(MeshApplications)
+!define MeshApplications(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MeshApplications.svg", MeshApplications)
+!define MeshApplications(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MeshApplications.svg", MeshApplications)
+
+AzureEntityColoring(Metrics)
+!define Metrics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Metrics.svg", Metrics)
+!define Metrics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Metrics.svg", Metrics)
+
+AzureEntityColoring(Mobile)
+!define Mobile(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Mobile.svg", Mobile)
+!define Mobile(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Mobile.svg", Mobile)
+
+AzureEntityColoring(MobileEngagement)
+!define MobileEngagement(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MobileEngagement.svg", MobileEngagement)
+!define MobileEngagement(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MobileEngagement.svg", MobileEngagement)
+
+AzureEntityColoring(Module)
+!define Module(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Module.svg", Module)
+!define Module(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Module.svg", Module)
+
+AzureEntityColoring(Monitor)
+!define Monitor(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Monitor.svg", Monitor)
+!define Monitor(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Monitor.svg", Monitor)
+
+AzureEntityColoring(MultiTenancy)
+!define MultiTenancy(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MultiTenancy.svg", MultiTenancy)
+!define MultiTenancy(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MultiTenancy.svg", MultiTenancy)
+
+AzureEntityColoring(MyCustomers)
+!define MyCustomers(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MyCustomers.svg", MyCustomers)
+!define MyCustomers(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/MyCustomers.svg", MyCustomers)
+
+AzureEntityColoring(NAT)
+!define NAT(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NAT.svg", NAT)
+!define NAT(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NAT.svg", NAT)
+
+AzureEntityColoring(NetworkInterfaces)
+!define NetworkInterfaces(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NetworkInterfaces.svg", NetworkInterfaces)
+!define NetworkInterfaces(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NetworkInterfaces.svg", NetworkInterfaces)
+
+AzureEntityColoring(NetworkSecurityGroups)
+!define NetworkSecurityGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NetworkSecurityGroups.svg", NetworkSecurityGroups)
+!define NetworkSecurityGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NetworkSecurityGroups.svg", NetworkSecurityGroups)
+
+AzureEntityColoring(NetworkWatcher)
+!define NetworkWatcher(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NetworkWatcher.svg", NetworkWatcher)
+!define NetworkWatcher(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NetworkWatcher.svg", NetworkWatcher)
+
+AzureEntityColoring(NotificationHubNamespaces)
+!define NotificationHubNamespaces(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NotificationHubNamespaces.svg", NotificationHubNamespaces)
+!define NotificationHubNamespaces(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NotificationHubNamespaces.svg", NotificationHubNamespaces)
+
+AzureEntityColoring(NotificationHubs)
+!define NotificationHubs(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NotificationHubs.svg", NotificationHubs)
+!define NotificationHubs(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/NotificationHubs.svg", NotificationHubs)
+
+AzureEntityColoring(Offers)
+!define Offers(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Offers.svg", Offers)
+!define Offers(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Offers.svg", Offers)
+
+AzureEntityColoring(OperationLogClassic)
+!define OperationLogClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/OperationLogClassic.svg", OperationLogClassic)
+!define OperationLogClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/OperationLogClassic.svg", OperationLogClassic)
+
+AzureEntityColoring(OSImagesClassic)
+!define OSImagesClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/OSImagesClassic.svg", OSImagesClassic)
+!define OSImagesClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/OSImagesClassic.svg", OSImagesClassic)
+
+AzureEntityColoring(OutboundConnection)
+!define OutboundConnection(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/OutboundConnection.svg", OutboundConnection)
+!define OutboundConnection(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/OutboundConnection.svg", OutboundConnection)
+
+AzureEntityColoring(PartnerTopic)
+!define PartnerTopic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PartnerTopic.svg", PartnerTopic)
+!define PartnerTopic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PartnerTopic.svg", PartnerTopic)
+
+AzureEntityColoring(PeeringService)
+!define PeeringService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PeeringService.svg", PeeringService)
+!define PeeringService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PeeringService.svg", PeeringService)
+
+AzureEntityColoring(Plans)
+!define Plans(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Plans.svg", Plans)
+!define Plans(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Plans.svg", Plans)
+
+AzureEntityColoring(Policy)
+!define Policy(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Policy.svg", Policy)
+!define Policy(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Policy.svg", Policy)
+
+AzureEntityColoring(Power)
+!define Power(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Power.svg", Power)
+!define Power(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Power.svg", Power)
+
+AzureEntityColoring(Powershell)
+!define Powershell(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Powershell.svg", Powershell)
+!define Powershell(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Powershell.svg", Powershell)
+
+AzureEntityColoring(PowerUp)
+!define PowerUp(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PowerUp.svg", PowerUp)
+!define PowerUp(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PowerUp.svg", PowerUp)
+
+AzureEntityColoring(Preview)
+!define Preview(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Preview.svg", Preview)
+!define Preview(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Preview.svg", Preview)
+
+AzureEntityColoring(PrivateLink)
+!define PrivateLink(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PrivateLink.svg", PrivateLink)
+!define PrivateLink(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PrivateLink.svg", PrivateLink)
+
+AzureEntityColoring(PrivateLinkHub)
+!define PrivateLinkHub(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PrivateLinkHub.svg", PrivateLinkHub)
+!define PrivateLinkHub(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PrivateLinkHub.svg", PrivateLinkHub)
+
+AzureEntityColoring(PrivateLinkService)
+!define PrivateLinkService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PrivateLinkService.svg", PrivateLinkService)
+!define PrivateLinkService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PrivateLinkService.svg", PrivateLinkService)
+
+AzureEntityColoring(ProcessExplorer)
+!define ProcessExplorer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ProcessExplorer.svg", ProcessExplorer)
+!define ProcessExplorer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ProcessExplorer.svg", ProcessExplorer)
+
+AzureEntityColoring(ProductionReadyDatabase)
+!define ProductionReadyDatabase(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ProductionReadyDatabase.svg", ProductionReadyDatabase)
+!define ProductionReadyDatabase(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ProductionReadyDatabase.svg", ProductionReadyDatabase)
+
+AzureEntityColoring(ProximityPlacementGroups)
+!define ProximityPlacementGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ProximityPlacementGroups.svg", ProximityPlacementGroups)
+!define ProximityPlacementGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ProximityPlacementGroups.svg", ProximityPlacementGroups)
+
+AzureEntityColoring(PublicIPAddresses)
+!define PublicIPAddresses(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PublicIPAddresses.svg", PublicIPAddresses)
+!define PublicIPAddresses(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PublicIPAddresses.svg", PublicIPAddresses)
+
+AzureEntityColoring(PublicIPAddressesClassic)
+!define PublicIPAddressesClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PublicIPAddressesClassic.svg", PublicIPAddressesClassic)
+!define PublicIPAddressesClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PublicIPAddressesClassic.svg", PublicIPAddressesClassic)
+
+AzureEntityColoring(PublicIPPrefixes)
+!define PublicIPPrefixes(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PublicIPPrefixes.svg", PublicIPPrefixes)
+!define PublicIPPrefixes(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PublicIPPrefixes.svg", PublicIPPrefixes)
+
+AzureEntityColoring(QuickstartCenter)
+!define QuickstartCenter(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/QuickstartCenter.svg", QuickstartCenter)
+!define QuickstartCenter(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/QuickstartCenter.svg", QuickstartCenter)
+
+AzureEntityColoring(Recent)
+!define Recent(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Recent.svg", Recent)
+!define Recent(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Recent.svg", Recent)
+
+AzureEntityColoring(RecoveryServicesVaults)
+!define RecoveryServicesVaults(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RecoveryServicesVaults.svg", RecoveryServicesVaults)
+!define RecoveryServicesVaults(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RecoveryServicesVaults.svg", RecoveryServicesVaults)
+
+AzureEntityColoring(Relays)
+!define Relays(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Relays.svg", Relays)
+!define Relays(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Relays.svg", Relays)
+
+AzureEntityColoring(RemoteRendering)
+!define RemoteRendering(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RemoteRendering.svg", RemoteRendering)
+!define RemoteRendering(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RemoteRendering.svg", RemoteRendering)
+
+AzureEntityColoring(Reservations)
+!define Reservations(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Reservations.svg", Reservations)
+!define Reservations(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Reservations.svg", Reservations)
+
+AzureEntityColoring(ReservedIPAddressesClassic)
+!define ReservedIPAddressesClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ReservedIPAddressesClassic.svg", ReservedIPAddressesClassic)
+!define ReservedIPAddressesClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ReservedIPAddressesClassic.svg", ReservedIPAddressesClassic)
+
+AzureEntityColoring(ResourceExplorer)
+!define ResourceExplorer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceExplorer.svg", ResourceExplorer)
+!define ResourceExplorer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceExplorer.svg", ResourceExplorer)
+
+AzureEntityColoring(ResourceGraphExplorer)
+!define ResourceGraphExplorer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceGraphExplorer.svg", ResourceGraphExplorer)
+!define ResourceGraphExplorer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceGraphExplorer.svg", ResourceGraphExplorer)
+
+AzureEntityColoring(ResourceGroupList)
+!define ResourceGroupList(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceGroupList.svg", ResourceGroupList)
+!define ResourceGroupList(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceGroupList.svg", ResourceGroupList)
+
+AzureEntityColoring(ResourceGroups)
+!define ResourceGroups(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceGroups.svg", ResourceGroups)
+!define ResourceGroups(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceGroups.svg", ResourceGroups)
+
+AzureEntityColoring(ResourceLinked)
+!define ResourceLinked(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceLinked.svg", ResourceLinked)
+!define ResourceLinked(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceLinked.svg", ResourceLinked)
+
+AzureEntityColoring(ResourceMover)
+!define ResourceMover(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceMover.svg", ResourceMover)
+!define ResourceMover(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ResourceMover.svg", ResourceMover)
+
+AzureEntityColoring(RouteFilters)
+!define RouteFilters(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RouteFilters.svg", RouteFilters)
+!define RouteFilters(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RouteFilters.svg", RouteFilters)
+
+AzureEntityColoring(RouteTables)
+!define RouteTables(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RouteTables.svg", RouteTables)
+!define RouteTables(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RouteTables.svg", RouteTables)
+
+AzureEntityColoring(RTOS)
+!define RTOS(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RTOS.svg", RTOS)
+!define RTOS(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/RTOS.svg", RTOS)
+
+AzureEntityColoring(SAPAzureMonitor)
+!define SAPAzureMonitor(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SAPAzureMonitor.svg", SAPAzureMonitor)
+!define SAPAzureMonitor(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SAPAzureMonitor.svg", SAPAzureMonitor)
+
+AzureEntityColoring(Scale)
+!define Scale(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Scale.svg", Scale)
+!define Scale(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Scale.svg", Scale)
+
+AzureEntityColoring(Scheduler)
+!define Scheduler(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Scheduler.svg", Scheduler)
+!define Scheduler(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Scheduler.svg", Scheduler)
+
+AzureEntityColoring(Search)
+!define Search(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Search.svg", Search)
+!define Search(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Search.svg", Search)
+
+AzureEntityColoring(SearchGrid)
+!define SearchGrid(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SearchGrid.svg", SearchGrid)
+!define SearchGrid(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SearchGrid.svg", SearchGrid)
+
+AzureEntityColoring(SearchServices)
+!define SearchServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SearchServices.svg", SearchServices)
+!define SearchServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SearchServices.svg", SearchServices)
+
+AzureEntityColoring(SecurityCenter)
+!define SecurityCenter(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SecurityCenter.svg", SecurityCenter)
+!define SecurityCenter(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SecurityCenter.svg", SecurityCenter)
+
+AzureEntityColoring(ServerFarm)
+!define ServerFarm(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServerFarm.svg", ServerFarm)
+!define ServerFarm(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServerFarm.svg", ServerFarm)
+
+AzureEntityColoring(ServiceBus)
+!define ServiceBus(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceBus.svg", ServiceBus)
+!define ServiceBus(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceBus.svg", ServiceBus)
+
+AzureEntityColoring(ServiceEndpointPolicies)
+!define ServiceEndpointPolicies(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceEndpointPolicies.svg", ServiceEndpointPolicies)
+!define ServiceEndpointPolicies(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceEndpointPolicies.svg", ServiceEndpointPolicies)
+
+AzureEntityColoring(ServiceFabricClusters)
+!define ServiceFabricClusters(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceFabricClusters.svg", ServiceFabricClusters)
+!define ServiceFabricClusters(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceFabricClusters.svg", ServiceFabricClusters)
+
+AzureEntityColoring(ServiceHealth)
+!define ServiceHealth(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceHealth.svg", ServiceHealth)
+!define ServiceHealth(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceHealth.svg", ServiceHealth)
+
+AzureEntityColoring(ServiceProviders)
+!define ServiceProviders(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceProviders.svg", ServiceProviders)
+!define ServiceProviders(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/ServiceProviders.svg", ServiceProviders)
+
+AzureEntityColoring(SharedImageGalleries)
+!define SharedImageGalleries(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SharedImageGalleries.svg", SharedImageGalleries)
+!define SharedImageGalleries(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SharedImageGalleries.svg", SharedImageGalleries)
+
+AzureEntityColoring(SoftwareasaService)
+!define SoftwareasaService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SoftwareasaService.svg", SoftwareasaService)
+!define SoftwareasaService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SoftwareasaService.svg", SoftwareasaService)
+
+AzureEntityColoring(Solutions)
+!define Solutions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Solutions.svg", Solutions)
+!define Solutions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Solutions.svg", Solutions)
+
+AzureEntityColoring(SQLDatabase)
+!define SQLDatabase(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLDatabase.svg", SQLDatabase)
+!define SQLDatabase(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLDatabase.svg", SQLDatabase)
+
+AzureEntityColoring(SQLDataWarehouses)
+!define SQLDataWarehouses(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLDataWarehouses.svg", SQLDataWarehouses)
+!define SQLDataWarehouses(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLDataWarehouses.svg", SQLDataWarehouses)
+
+AzureEntityColoring(SQLElasticPools)
+!define SQLElasticPools(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLElasticPools.svg", SQLElasticPools)
+!define SQLElasticPools(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLElasticPools.svg", SQLElasticPools)
+
+AzureEntityColoring(SQLManagedInstance)
+!define SQLManagedInstance(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLManagedInstance.svg", SQLManagedInstance)
+!define SQLManagedInstance(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLManagedInstance.svg", SQLManagedInstance)
+
+AzureEntityColoring(SQLServer)
+!define SQLServer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLServer.svg", SQLServer)
+!define SQLServer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SQLServer.svg", SQLServer)
+
+AzureEntityColoring(SSD)
+!define SSD(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SSD.svg", SSD)
+!define SSD(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SSD.svg", SSD)
+
+AzureEntityColoring(SSHKeys)
+!define SSHKeys(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SSHKeys.svg", SSHKeys)
+!define SSHKeys(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SSHKeys.svg", SSHKeys)
+
+AzureEntityColoring(SSISLiftAndShiftIR)
+!define SSISLiftAndShiftIR(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SSISLiftAndShiftIR.svg", SSISLiftAndShiftIR)
+!define SSISLiftAndShiftIR(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SSISLiftAndShiftIR.svg", SSISLiftAndShiftIR)
+
+AzureEntityColoring(StaticApps)
+!define StaticApps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StaticApps.svg", StaticApps)
+!define StaticApps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StaticApps.svg", StaticApps)
+
+AzureEntityColoring(StorageAccounts)
+!define StorageAccounts(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageAccounts.svg", StorageAccounts)
+!define StorageAccounts(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageAccounts.svg", StorageAccounts)
+
+AzureEntityColoring(StorageAccountsClassic)
+!define StorageAccountsClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageAccountsClassic.svg", StorageAccountsClassic)
+!define StorageAccountsClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageAccountsClassic.svg", StorageAccountsClassic)
+
+AzureEntityColoring(StorageAzureFiles)
+!define StorageAzureFiles(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageAzureFiles.svg", StorageAzureFiles)
+!define StorageAzureFiles(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageAzureFiles.svg", StorageAzureFiles)
+
+AzureEntityColoring(StorageContainer)
+!define StorageContainer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageContainer.svg", StorageContainer)
+!define StorageContainer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageContainer.svg", StorageContainer)
+
+AzureEntityColoring(StorageQueue)
+!define StorageQueue(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageQueue.svg", StorageQueue)
+!define StorageQueue(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageQueue.svg", StorageQueue)
+
+AzureEntityColoring(StorageSyncServices)
+!define StorageSyncServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageSyncServices.svg", StorageSyncServices)
+!define StorageSyncServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorageSyncServices.svg", StorageSyncServices)
+
+AzureEntityColoring(StorSimpleDataManagers)
+!define StorSimpleDataManagers(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorSimpleDataManagers.svg", StorSimpleDataManagers)
+!define StorSimpleDataManagers(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorSimpleDataManagers.svg", StorSimpleDataManagers)
+
+AzureEntityColoring(StorSimpleDeviceManagers)
+!define StorSimpleDeviceManagers(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorSimpleDeviceManagers.svg", StorSimpleDeviceManagers)
+!define StorSimpleDeviceManagers(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StorSimpleDeviceManagers.svg", StorSimpleDeviceManagers)
+
+AzureEntityColoring(StreamAnalyticsJobs)
+!define StreamAnalyticsJobs(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StreamAnalyticsJobs.svg", StreamAnalyticsJobs)
+!define StreamAnalyticsJobs(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/StreamAnalyticsJobs.svg", StreamAnalyticsJobs)
+
+AzureEntityColoring(Subscriptions)
+!define Subscriptions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Subscriptions.svg", Subscriptions)
+!define Subscriptions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Subscriptions.svg", Subscriptions)
+
+AzureEntityColoring(SystemTopic)
+!define SystemTopic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SystemTopic.svg", SystemTopic)
+!define SystemTopic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/SystemTopic.svg", SystemTopic)
+
+AzureEntityColoring(Table)
+!define Table(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Table.svg", Table)
+!define Table(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Table.svg", Table)
+
+AzureEntityColoring(Tag)
+!define Tag(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Tag.svg", Tag)
+!define Tag(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Tag.svg", Tag)
+
+AzureEntityColoring(Tags)
+!define Tags(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Tags.svg", Tags)
+!define Tags(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Tags.svg", Tags)
+
+AzureEntityColoring(TemplateSpecs)
+!define TemplateSpecs(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TemplateSpecs.svg", TemplateSpecs)
+!define TemplateSpecs(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TemplateSpecs.svg", TemplateSpecs)
+
+AzureEntityColoring(TFSVCRepository)
+!define TFSVCRepository(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TFSVCRepository.svg", TFSVCRepository)
+!define TFSVCRepository(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TFSVCRepository.svg", TFSVCRepository)
+
+AzureEntityColoring(TimeSeriesDataSets)
+!define TimeSeriesDataSets(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TimeSeriesDataSets.svg", TimeSeriesDataSets)
+!define TimeSeriesDataSets(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TimeSeriesDataSets.svg", TimeSeriesDataSets)
+
+AzureEntityColoring(TimeSeriesInsightsAccessPolicies)
+!define TimeSeriesInsightsAccessPolicies(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TimeSeriesInsightsAccessPolicies.svg", TimeSeriesInsightsAccessPolicies)
+!define TimeSeriesInsightsAccessPolicies(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TimeSeriesInsightsAccessPolicies.svg", TimeSeriesInsightsAccessPolicies)
+
+AzureEntityColoring(TimeSeriesInsightsEnvironments)
+!define TimeSeriesInsightsEnvironments(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TimeSeriesInsightsEnvironments.svg", TimeSeriesInsightsEnvironments)
+!define TimeSeriesInsightsEnvironments(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TimeSeriesInsightsEnvironments.svg", TimeSeriesInsightsEnvironments)
+
+AzureEntityColoring(TimeSeriesInsightsEventSources)
+!define TimeSeriesInsightsEventSources(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TimeSeriesInsightsEventSources.svg", TimeSeriesInsightsEventSources)
+!define TimeSeriesInsightsEventSources(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TimeSeriesInsightsEventSources.svg", TimeSeriesInsightsEventSources)
+
+AzureEntityColoring(Toolbox)
+!define Toolbox(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Toolbox.svg", Toolbox)
+!define Toolbox(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Toolbox.svg", Toolbox)
+
+AzureEntityColoring(TrafficManagerProfiles)
+!define TrafficManagerProfiles(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TrafficManagerProfiles.svg", TrafficManagerProfiles)
+!define TrafficManagerProfiles(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TrafficManagerProfiles.svg", TrafficManagerProfiles)
+
+AzureEntityColoring(TranslatorText)
+!define TranslatorText(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TranslatorText.svg", TranslatorText)
+!define TranslatorText(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/TranslatorText.svg", TranslatorText)
+
+AzureEntityColoring(UniversalPrint)
+!define UniversalPrint(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/UniversalPrint.svg", UniversalPrint)
+!define UniversalPrint(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/UniversalPrint.svg", UniversalPrint)
+
+AzureEntityColoring(Updates)
+!define Updates(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Updates.svg", Updates)
+!define Updates(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Updates.svg", Updates)
+
+AzureEntityColoring(UserPrivacy)
+!define UserPrivacy(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/UserPrivacy.svg", UserPrivacy)
+!define UserPrivacy(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/UserPrivacy.svg", UserPrivacy)
+
+AzureEntityColoring(Users)
+!define Users(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Users.svg", Users)
+!define Users(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Users.svg", Users)
+
+AzureEntityColoring(UserSubscriptions)
+!define UserSubscriptions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/UserSubscriptions.svg", UserSubscriptions)
+!define UserSubscriptions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/UserSubscriptions.svg", UserSubscriptions)
+
+AzureEntityColoring(Versions)
+!define Versions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Versions.svg", Versions)
+!define Versions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Versions.svg", Versions)
+
+AzureEntityColoring(VirtualClusters)
+!define VirtualClusters(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualClusters.svg", VirtualClusters)
+!define VirtualClusters(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualClusters.svg", VirtualClusters)
+
+AzureEntityColoring(VirtualMachine)
+!define VirtualMachine(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualMachine.svg", VirtualMachine)
+!define VirtualMachine(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualMachine.svg", VirtualMachine)
+
+AzureEntityColoring(VirtualMachinesClassic)
+!define VirtualMachinesClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualMachinesClassic.svg", VirtualMachinesClassic)
+!define VirtualMachinesClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualMachinesClassic.svg", VirtualMachinesClassic)
+
+AzureEntityColoring(VirtualNetworkGateways)
+!define VirtualNetworkGateways(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualNetworkGateways.svg", VirtualNetworkGateways)
+!define VirtualNetworkGateways(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualNetworkGateways.svg", VirtualNetworkGateways)
+
+AzureEntityColoring(VirtualNetworks)
+!define VirtualNetworks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualNetworks.svg", VirtualNetworks)
+!define VirtualNetworks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualNetworks.svg", VirtualNetworks)
+
+AzureEntityColoring(VirtualNetworksClassic)
+!define VirtualNetworksClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualNetworksClassic.svg", VirtualNetworksClassic)
+!define VirtualNetworksClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualNetworksClassic.svg", VirtualNetworksClassic)
+
+AzureEntityColoring(VirtualWANs)
+!define VirtualWANs(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualWANs.svg", VirtualWANs)
+!define VirtualWANs(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VirtualWANs.svg", VirtualWANs)
+
+AzureEntityColoring(VMImagesClassic)
+!define VMImagesClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VMImagesClassic.svg", VMImagesClassic)
+!define VMImagesClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VMImagesClassic.svg", VMImagesClassic)
+
+AzureEntityColoring(VMScaleSets)
+!define VMScaleSets(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VMScaleSets.svg", VMScaleSets)
+!define VMScaleSets(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/VMScaleSets.svg", VMScaleSets)
+
+AzureEntityColoring(WebApplicationFirewallPoliciesWAF)
+!define WebApplicationFirewallPoliciesWAF(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebApplicationFirewallPoliciesWAF.svg", WebApplicationFirewallPoliciesWAF)
+!define WebApplicationFirewallPoliciesWAF(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebApplicationFirewallPoliciesWAF.svg", WebApplicationFirewallPoliciesWAF)
+
+AzureEntityColoring(WebEnvironment)
+!define WebEnvironment(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebEnvironment.svg", WebEnvironment)
+!define WebEnvironment(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebEnvironment.svg", WebEnvironment)
+
+AzureEntityColoring(WebsitePower)
+!define WebsitePower(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebsitePower.svg", WebsitePower)
+!define WebsitePower(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebsitePower.svg", WebsitePower)
+
+AzureEntityColoring(WebsiteStaging)
+!define WebsiteStaging(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebsiteStaging.svg", WebsiteStaging)
+!define WebsiteStaging(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebsiteStaging.svg", WebsiteStaging)
+
+AzureEntityColoring(WebSlots)
+!define WebSlots(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebSlots.svg", WebSlots)
+!define WebSlots(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebSlots.svg", WebSlots)
+
+AzureEntityColoring(WebTest)
+!define WebTest(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebTest.svg", WebTest)
+!define WebTest(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WebTest.svg", WebTest)
+
+AzureEntityColoring(WindowsVirtualDesktop)
+!define WindowsVirtualDesktop(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WindowsVirtualDesktop.svg", WindowsVirtualDesktop)
+!define WindowsVirtualDesktop(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/WindowsVirtualDesktop.svg", WindowsVirtualDesktop)
+
+AzureEntityColoring(Workbooks)
+!define Workbooks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Workbooks.svg", Workbooks)
+!define Workbooks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Workbooks.svg", Workbooks)
+
+AzureEntityColoring(Workflow)
+!define Workflow(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Workflow.svg", Workflow)
+!define Workflow(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Workflow.svg", Workflow)
+
+AzureEntityColoring(Workspaces)
+!define Workspaces(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Workspaces.svg", Workspaces)
+!define Workspaces(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Workspaces.svg", Workspaces)
+

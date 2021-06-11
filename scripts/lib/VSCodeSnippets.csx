@@ -17,18 +17,22 @@ public void GenerateVSCodeSnippets(string distFolder)
             continue;
         }
 
+        Console.WriteLine($"Adding snippet {entityName} from {filePath}");
+
         snippets.Add($"{entityName}", new Snippet{
-            prefix = $"{SplitCamelCase(entityName)}",
-            description = $"Add {SplitCamelCase(entityName)} to diagram",
+            prefix = $"{entityName}",
+            description = $"Add {entityName} to diagram",
             body = new List<string>{
                 $"{entityName}(${{1:alias}}, \"${{2:label}}\", \"${{3:technology}}\")",
                 "$0"
             }
         });
 
+        Console.WriteLine($"Adding snippet {entityName}_Descr");
+
         snippets.Add($"{entityName}_Descr", new Snippet{
-            prefix = $"{SplitCamelCase(entityName)} with Description",
-            description = $"Add {SplitCamelCase(entityName)} with Description to diagram",
+            prefix = $"{entityName} with Description",
+            description = $"Add {entityName} with Description to diagram",
             body = new List<string>{
                 $"{entityName}(${{1:alias}}, \"${{2:label}}\", \"${{3:technology}}\", \"${{4:description}}\")",
                 "$0"

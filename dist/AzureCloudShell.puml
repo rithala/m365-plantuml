@@ -1,0 +1,3 @@
+AzureEntityColoring(AzureCloudShell)
+!define AzureCloudShell(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureCloudShell.svg", AzureCloudShell)
+!define AzureCloudShell(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureCloudShell.svg", AzureCloudShell)
