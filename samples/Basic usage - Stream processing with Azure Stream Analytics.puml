@@ -3,18 +3,18 @@
 
 !define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
 !includeurl MS/Common.puml
-!includeurl MS/AzureEventHub.puml
-!includeurl MS/AzureStreamAnalytics.puml
-!includeurl MS/AzureCosmosDD.puml
+!includeurl MS/EventHub.puml
+!includeurl MS/StreamAnalyticsJob.puml
+!includeurl MS/AzureCosmosDB.puml
 
 left to right direction
 
 agent "Device Simulator" as devices #fff
 
-AzureEventHub(fareDataEventHub, "Fare Data", "PK: Medallion HackLicense VendorId; 3 TUs")
-AzureEventHub(tripDataEventHub, "Trip Data", "PK: Medallion HackLicense VendorId; 3 TUs")
-AzureStreamAnalytics(streamAnalytics, "Stream Processing", "6 SUs")
-AzureCosmosDb(outputCosmosDb, "Output Database", "1,000 RUs")
+EventHub(fareDataEventHub, "Fare Data", "PK: Medallion HackLicense VendorId; 3 TUs")
+EventHub(tripDataEventHub, "Trip Data", "PK: Medallion HackLicense VendorId; 3 TUs")
+StreamAnalyticsJob(streamAnalytics, "Stream Processing", "6 SUs")
+AzureCosmosDB(outputCosmosDb, "Output Database", "1,000 RUs")
 
 devices --> fareDataEventHub
 devices --> tripDataEventHub

@@ -3,36 +3,36 @@
 
 !includeurl https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
-!define AzurePuml https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
-!includeurl AzurePuml/AzureCommon.puml
-!includeurl AzurePuml/AzureC4Integration.puml
-!includeurl AzurePuml/Databases/AzureRedisCache.puml
-!includeurl AzurePuml/Databases/AzureCosmosDb.puml
-!includeurl AzurePuml/Databases/AzureSqlDatabase.puml
-!includeurl AzurePuml/Web/AzureWebApp.puml
-!includeurl AzurePuml/Web/AzureCDN.puml
-!includeurl AzurePuml/Web/AzureSearch.puml
-!includeurl AzurePuml/Storage/AzureBlobStorage.puml
-!includeurl AzurePuml/Storage/AzureQueueStorage.puml
+!define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
+!includeurl MS/Common.puml
+!includeurl MS/C4Integration.puml
+!includeurl MS/AzureCosmosDB.puml
+!includeurl MS/Cache.puml
+!includeurl MS/SQLDatabase.puml
+!includeurl MS/AppService.puml
+!includeurl MS/CDNProfile.puml
+!includeurl MS/Search.puml
+!includeurl MS/BlobBlock.puml
+!includeurl MS/StorageQueue.puml
 
 LAYOUT_WITH_LEGEND()
 
 Person(user, "User")
 
 Container(spa, "Single-Page App", "Angular, JS")
-AzureWebApp(webApp, "Web & API App", "ASP.NET Core MVC 2.1, C#", "Delivers the SPA and provides RESTful web APIs which are consumed from the SPA")
-AzureCDN(cdn, "CDN", "Akamai S2", "caches publicly available content for lower latency and faster delivery of content")
+AppService(webApp, "Web & API App", "ASP.NET Core MVC 2.1, C#", "Delivers the SPA and provides RESTful web APIs which are consumed from the SPA")
+CDNProfile(cdn, "CDN", "Akamai S2", "caches publicly available content for lower latency and faster delivery of content")
 
-AzureBlobStorage(staticBlobStorage, "Static Content", "General Purpose v2, Hot, LRS")
+BlobBlock(staticBlobStorage, "Static Content", "General Purpose v2, Hot, LRS")
 
-AzureQueueStorage(queue, "Queue", "General Purpose v2, LRS")
-AzureSearch(search, "Search Index", "Standard S1", "provides search suggestions, fuzzy search, and language-specific search, consolidates a single search index from multiple data stores")
-AzureRedisCache(redisCache, "Cache", "Standard C2")
+StorageQueue(queue, "Queue", "General Purpose v2, LRS")
+Search(search, "Search Index", "Standard S1", "provides search suggestions, fuzzy search, and language-specific search, consolidates a single search index from multiple data stores")
+Cache(redisCache, "Cache", "Standard C2")
 
-AzureCosmosDb(cosmosDb, "Document DB", "SQL API, 400 RUs")
-AzureSqlDatabase(sqlDb, "SQL DB", "Standard S3")
+AzureCosmosDB(cosmosDb, "Document DB", "SQL API, 400 RUs")
+SQLDatabase(sqlDb, "SQL DB", "Standard S3")
 
-AzureWebApp(webJob, "Web Job", "WebJobs SDK v3, C#", "runs long-running tasks in the background")
+AppService(webJob, "Web Job", "WebJobs SDK v3, C#", "runs long-running tasks in the background")
 
 Rel(user, spa, "Uses", "HTTPS")
 Rel(user, webApp, "Uses", "HTTPS")

@@ -3,7 +3,6 @@
 #r "nuget: System.Drawing.Common, 5.0.2"
 #r "nuget: Pluralize.NET.Core, 1.0.0"
 
-#load "lib/Config.csx"
 #load "lib/HSLColor.csx"
 #load "lib/MarkdownGeneration.csx"
 #load "lib/VSCodeSnippets.csx"

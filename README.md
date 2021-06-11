@@ -13,18 +13,18 @@ A list of all supported Azure services can be found in the [Azure-PlantUML Azure
 
 ### Prerequisites
 
-At the top of your Azure-PlantUML `.puml` file, you need to include the `AzureCommon.puml` file found in the `dist` folder of this repo.
+At the top of your  `.puml` file, you need to include the `Common.puml` file found in the `dist` folder of this repo.
 
-To be independent of any internet connectivity, you can also download `AzureCommon.puml` and reference it locally with
+To be independent of any internet connectivity, you can also download `Common.puml` and reference it locally with
 
 ```c#
-!include path/to/AzureCommon.puml
+!include path/to/Common.puml
 ```
 
 If you want to use the always up-to-date version in this repo, use the following:
 
 ```c#
-!includeurl https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureCommon.puml
+!includeurl https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Common.puml
 ```
 
 The next step is to include specific `.puml` files from Azure-PlantUML.  
@@ -42,9 +42,9 @@ Or the always up-to-date version in this repo:
 
 ```c#
 !define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
-!includeurl MS/AzureCommon.puml
-!includeurl MS/Databases/all.puml
-!includeurl MS/Compute/AzureFunction.puml
+!includeurl MS/Common.puml
+!includeurl MS/all.puml
+!includeurl MS/AzureFunction.puml
 ```
 
 

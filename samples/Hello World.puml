@@ -4,11 +4,11 @@
 !define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
 !includeurl MS/Common.puml
 !includeurl MS/AzureCosmosDB.puml
-!includeurl MS/FunctionApps.puml
+!includeurl MS/FunctionApp.puml
 
 actor "Person" as personAlias
 
-FunctionApps(functionAlias, "Label", "Technology", "Optional Description")
+FunctionApp(functionAlias, "Label", "Technology", "Optional Description")
 AzureCosmosDB(cosmosDbAlias, "Label", "Technology", "Optional Description")
 
 personAlias --> functionAlias
