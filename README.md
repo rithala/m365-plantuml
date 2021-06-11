@@ -9,7 +9,7 @@ Forked from [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML)
 
 To be able to use Azure-PlantUML it is necessary to use specific `!includes`.  
 After that the Azure service macros are available and can be used.  
-A list of all supported Azure services can be found in the [Azure-PlantUML Azure Symbols Documentation](AzureSymbols.md).
+A list of all supported Azure services can be found in the [Symbols Documentation](Elements Table.md).
 
 ### Prerequisites
 

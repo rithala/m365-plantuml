@@ -1,3 +1,3 @@
 AzureEntityColoring(Location)
-!define Location(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Location.svg", Location)
-!define Location(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Location.svg", Location)
+!define Location(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Location.png", Location)
+!define Location(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Location.png", Location)

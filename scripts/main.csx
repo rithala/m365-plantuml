@@ -57,7 +57,8 @@ public void Main()
         Console.WriteLine($"Processing {serviceName}");
 
         RsvgConvert(filePath, Path.Combine(targetFolder, serviceName + ".svg"), targetImageHeight);
-        ConvertToPuml($"{imageBaseUrl}/{serviceName}.svg", targetFolder, serviceName + ".puml");
+        RsvgConvert(filePath, Path.Combine(targetFolder, serviceName + ".png"), targetImageHeight, exportAsPng: true);
+        ConvertToPuml($"{imageBaseUrl}/{serviceName}.png", targetFolder, serviceName + ".puml");
     }
 
     var catAllFilePath = Path.Combine(targetFolder, "all.puml");

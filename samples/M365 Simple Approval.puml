@@ -1,0 +1,29 @@
+@startuml Simple Approval
+!pragma revision 1
+
+!includeurl https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+!define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
+
+!includeurl MS/Common.puml
+!includeurl MS/C4Integration.puml
+!includeurl MS/Common.puml
+!includeurl MS/PowerApp.puml
+!includeurl MS/PowerAutomate.puml
+!includeurl MS/List.puml
+
+LAYOUT_LEFT_RIGHT
+
+Person(user, "User")
+Person(approver, "Approver")
+
+PowerApp(powerApp, "User Requests Form", "PA Form Customization")
+List(list, "User Requests List", "SharePoint List")
+' PowerAutomate(flow, "Approval Flow", "Power Automate M365")
+
+Rel(user, powerApp, "Uses")
+Rel(powerApp, list, "Stores data")
+' Rel(list, flow, "Triggers")
+' Rel_U(flow, approver, "Sends approval")
+
+@enduml

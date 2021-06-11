@@ -1,3 +1,3 @@
 AzureEntityColoring(AzureSpringCloud)
-!define AzureSpringCloud(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSpringCloud.svg", AzureSpringCloud)
-!define AzureSpringCloud(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSpringCloud.svg", AzureSpringCloud)
+!define AzureSpringCloud(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSpringCloud.png", AzureSpringCloud)
+!define AzureSpringCloud(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/AzureSpringCloud.png", AzureSpringCloud)
