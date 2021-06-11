@@ -19,11 +19,11 @@ Person(approver, "Approver")
 
 PowerApp(powerApp, "User Requests Form", "PA Form Customization")
 List(list, "User Requests List", "SharePoint List")
-' PowerAutomate(flow, "Approval Flow", "Power Automate M365")
+PowerAutomate(flow, "Approval Flow", "Power Automate M365")
 
 Rel(user, powerApp, "Uses")
 Rel(powerApp, list, "Stores data")
-' Rel(list, flow, "Triggers")
-' Rel_U(flow, approver, "Sends approval")
+Rel(list, flow, "Triggers")
+Rel_U(flow, approver, "Sends approval")
 
 @enduml
