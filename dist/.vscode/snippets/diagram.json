@@ -2,6 +2,7 @@
   "ABSMember": {
     "prefix": "ABSMember",
     "description": "Add ABSMember to diagram",
+    "scope": "plantuml",
     "body": [
       "ABSMember(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -10,6 +11,7 @@
   "ABSMember_Descr": {
     "prefix": "ABSMember with Description",
     "description": "Add ABSMember with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ABSMember(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -18,6 +20,7 @@
   "ActiveDirectoryConnectHealth": {
     "prefix": "ActiveDirectoryConnectHealth",
     "description": "Add ActiveDirectoryConnectHealth to diagram",
+    "scope": "plantuml",
     "body": [
       "ActiveDirectoryConnectHealth(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -26,6 +29,7 @@
   "ActiveDirectoryConnectHealth_Descr": {
     "prefix": "ActiveDirectoryConnectHealth with Description",
     "description": "Add ActiveDirectoryConnectHealth with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ActiveDirectoryConnectHealth(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -34,6 +38,7 @@
   "ActivityLog": {
     "prefix": "ActivityLog",
     "description": "Add ActivityLog to diagram",
+    "scope": "plantuml",
     "body": [
       "ActivityLog(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -42,6 +47,7 @@
   "ActivityLog_Descr": {
     "prefix": "ActivityLog with Description",
     "description": "Add ActivityLog with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ActivityLog(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -50,6 +56,7 @@
   "Advisor": {
     "prefix": "Advisor",
     "description": "Add Advisor to diagram",
+    "scope": "plantuml",
     "body": [
       "Advisor(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -58,6 +65,7 @@
   "Advisor_Descr": {
     "prefix": "Advisor with Description",
     "description": "Add Advisor with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Advisor(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -66,6 +74,7 @@
   "Alerts": {
     "prefix": "Alerts",
     "description": "Add Alerts to diagram",
+    "scope": "plantuml",
     "body": [
       "Alerts(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -74,6 +83,7 @@
   "Alerts_Descr": {
     "prefix": "Alerts with Description",
     "description": "Add Alerts with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Alerts(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -82,6 +92,7 @@
   "AllResources": {
     "prefix": "AllResources",
     "description": "Add AllResources to diagram",
+    "scope": "plantuml",
     "body": [
       "AllResources(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -90,6 +101,7 @@
   "AllResources_Descr": {
     "prefix": "AllResources with Description",
     "description": "Add AllResources with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AllResources(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -98,6 +110,7 @@
   "AnalysisServices": {
     "prefix": "AnalysisServices",
     "description": "Add AnalysisServices to diagram",
+    "scope": "plantuml",
     "body": [
       "AnalysisServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -106,6 +119,7 @@
   "AnalysisServices_Descr": {
     "prefix": "AnalysisServices with Description",
     "description": "Add AnalysisServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AnalysisServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -114,6 +128,7 @@
   "APIManagementServices": {
     "prefix": "APIManagementServices",
     "description": "Add APIManagementServices to diagram",
+    "scope": "plantuml",
     "body": [
       "APIManagementServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -122,6 +137,7 @@
   "APIManagementServices_Descr": {
     "prefix": "APIManagementServices with Description",
     "description": "Add APIManagementServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "APIManagementServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -130,6 +146,7 @@
   "ApplicationGateways": {
     "prefix": "ApplicationGateways",
     "description": "Add ApplicationGateways to diagram",
+    "scope": "plantuml",
     "body": [
       "ApplicationGateways(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -138,6 +155,7 @@
   "ApplicationGateways_Descr": {
     "prefix": "ApplicationGateways with Description",
     "description": "Add ApplicationGateways with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ApplicationGateways(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -146,6 +164,7 @@
   "ApplicationInsights": {
     "prefix": "ApplicationInsights",
     "description": "Add ApplicationInsights to diagram",
+    "scope": "plantuml",
     "body": [
       "ApplicationInsights(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -154,6 +173,7 @@
   "ApplicationInsights_Descr": {
     "prefix": "ApplicationInsights with Description",
     "description": "Add ApplicationInsights with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ApplicationInsights(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -162,6 +182,7 @@
   "ApplicationSecurityGroups": {
     "prefix": "ApplicationSecurityGroups",
     "description": "Add ApplicationSecurityGroups to diagram",
+    "scope": "plantuml",
     "body": [
       "ApplicationSecurityGroups(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -170,6 +191,7 @@
   "ApplicationSecurityGroups_Descr": {
     "prefix": "ApplicationSecurityGroups with Description",
     "description": "Add ApplicationSecurityGroups with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ApplicationSecurityGroups(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -178,6 +200,7 @@
   "AppRegistrations": {
     "prefix": "AppRegistrations",
     "description": "Add AppRegistrations to diagram",
+    "scope": "plantuml",
     "body": [
       "AppRegistrations(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -186,6 +209,7 @@
   "AppRegistrations_Descr": {
     "prefix": "AppRegistrations with Description",
     "description": "Add AppRegistrations with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AppRegistrations(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -194,6 +218,7 @@
   "AppServiceCertificates": {
     "prefix": "AppServiceCertificates",
     "description": "Add AppServiceCertificates to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServiceCertificates(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -202,6 +227,7 @@
   "AppServiceCertificates_Descr": {
     "prefix": "AppServiceCertificates with Description",
     "description": "Add AppServiceCertificates with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServiceCertificates(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -210,6 +236,7 @@
   "AppServiceDomains": {
     "prefix": "AppServiceDomains",
     "description": "Add AppServiceDomains to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServiceDomains(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -218,6 +245,7 @@
   "AppServiceDomains_Descr": {
     "prefix": "AppServiceDomains with Description",
     "description": "Add AppServiceDomains with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServiceDomains(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -226,6 +254,7 @@
   "AppServiceEnvironments": {
     "prefix": "AppServiceEnvironments",
     "description": "Add AppServiceEnvironments to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServiceEnvironments(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -234,6 +263,7 @@
   "AppServiceEnvironments_Descr": {
     "prefix": "AppServiceEnvironments with Description",
     "description": "Add AppServiceEnvironments with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServiceEnvironments(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -242,6 +272,7 @@
   "AppServicePlans": {
     "prefix": "AppServicePlans",
     "description": "Add AppServicePlans to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServicePlans(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -250,6 +281,7 @@
   "AppServicePlans_Descr": {
     "prefix": "AppServicePlans with Description",
     "description": "Add AppServicePlans with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServicePlans(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -258,6 +290,7 @@
   "AppServices": {
     "prefix": "AppServices",
     "description": "Add AppServices to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -266,6 +299,7 @@
   "AppServices_Descr": {
     "prefix": "AppServices with Description",
     "description": "Add AppServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AppServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -274,6 +308,7 @@
   "AutomanagedVM": {
     "prefix": "AutomanagedVM",
     "description": "Add AutomanagedVM to diagram",
+    "scope": "plantuml",
     "body": [
       "AutomanagedVM(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -282,6 +317,7 @@
   "AutomanagedVM_Descr": {
     "prefix": "AutomanagedVM with Description",
     "description": "Add AutomanagedVM with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AutomanagedVM(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -290,6 +326,7 @@
   "AutomationAccounts": {
     "prefix": "AutomationAccounts",
     "description": "Add AutomationAccounts to diagram",
+    "scope": "plantuml",
     "body": [
       "AutomationAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -298,6 +335,7 @@
   "AutomationAccounts_Descr": {
     "prefix": "AutomationAccounts with Description",
     "description": "Add AutomationAccounts with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AutomationAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -306,6 +344,7 @@
   "AvailabilitySets": {
     "prefix": "AvailabilitySets",
     "description": "Add AvailabilitySets to diagram",
+    "scope": "plantuml",
     "body": [
       "AvailabilitySets(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -314,6 +353,7 @@
   "AvailabilitySets_Descr": {
     "prefix": "AvailabilitySets with Description",
     "description": "Add AvailabilitySets with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AvailabilitySets(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -322,6 +362,7 @@
   "AVS": {
     "prefix": "AVS",
     "description": "Add AVS to diagram",
+    "scope": "plantuml",
     "body": [
       "AVS(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -330,6 +371,7 @@
   "AVS_Descr": {
     "prefix": "AVS with Description",
     "description": "Add AVS with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AVS(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -338,6 +380,7 @@
   "AzureActiveDirectory": {
     "prefix": "AzureActiveDirectory",
     "description": "Add AzureActiveDirectory to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureActiveDirectory(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -346,6 +389,7 @@
   "AzureActiveDirectory_Descr": {
     "prefix": "AzureActiveDirectory with Description",
     "description": "Add AzureActiveDirectory with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureActiveDirectory(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -354,6 +398,7 @@
   "AzureADB2C": {
     "prefix": "AzureADB2C",
     "description": "Add AzureADB2C to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureADB2C(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -362,6 +407,7 @@
   "AzureADB2C_Descr": {
     "prefix": "AzureADB2C with Description",
     "description": "Add AzureADB2C with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureADB2C(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -370,6 +416,7 @@
   "AzureADDomainServices": {
     "prefix": "AzureADDomainServices",
     "description": "Add AzureADDomainServices to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureADDomainServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -378,6 +425,7 @@
   "AzureADDomainServices_Descr": {
     "prefix": "AzureADDomainServices with Description",
     "description": "Add AzureADDomainServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureADDomainServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -386,6 +434,7 @@
   "AzureADIdentityProtection": {
     "prefix": "AzureADIdentityProtection",
     "description": "Add AzureADIdentityProtection to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureADIdentityProtection(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -394,6 +443,7 @@
   "AzureADIdentityProtection_Descr": {
     "prefix": "AzureADIdentityProtection with Description",
     "description": "Add AzureADIdentityProtection with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureADIdentityProtection(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -402,6 +452,7 @@
   "AzureADRolesandAdministrators": {
     "prefix": "AzureADRolesandAdministrators",
     "description": "Add AzureADRolesandAdministrators to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureADRolesandAdministrators(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -410,6 +461,7 @@
   "AzureADRolesandAdministrators_Descr": {
     "prefix": "AzureADRolesandAdministrators with Description",
     "description": "Add AzureADRolesandAdministrators with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureADRolesandAdministrators(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -418,6 +470,7 @@
   "AzureAPIforFHIR": {
     "prefix": "AzureAPIforFHIR",
     "description": "Add AzureAPIforFHIR to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureAPIforFHIR(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -426,6 +479,7 @@
   "AzureAPIforFHIR_Descr": {
     "prefix": "AzureAPIforFHIR with Description",
     "description": "Add AzureAPIforFHIR with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureAPIforFHIR(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -434,6 +488,7 @@
   "AzureArc": {
     "prefix": "AzureArc",
     "description": "Add AzureArc to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureArc(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -442,6 +497,7 @@
   "AzureArc_Descr": {
     "prefix": "AzureArc with Description",
     "description": "Add AzureArc with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureArc(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -450,6 +506,7 @@
   "AzureBackupCenter": {
     "prefix": "AzureBackupCenter",
     "description": "Add AzureBackupCenter to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureBackupCenter(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -458,6 +515,7 @@
   "AzureBackupCenter_Descr": {
     "prefix": "AzureBackupCenter with Description",
     "description": "Add AzureBackupCenter with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureBackupCenter(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -466,6 +524,7 @@
   "AzureBlockchainService": {
     "prefix": "AzureBlockchainService",
     "description": "Add AzureBlockchainService to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureBlockchainService(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -474,6 +533,7 @@
   "AzureBlockchainService_Descr": {
     "prefix": "AzureBlockchainService with Description",
     "description": "Add AzureBlockchainService with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureBlockchainService(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -482,6 +542,7 @@
   "AzureCloudShell": {
     "prefix": "AzureCloudShell",
     "description": "Add AzureCloudShell to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureCloudShell(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -490,6 +551,7 @@
   "AzureCloudShell_Descr": {
     "prefix": "AzureCloudShell with Description",
     "description": "Add AzureCloudShell with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureCloudShell(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -498,6 +560,7 @@
   "AzureCosmosDB": {
     "prefix": "AzureCosmosDB",
     "description": "Add AzureCosmosDB to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureCosmosDB(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -506,6 +569,7 @@
   "AzureCosmosDB_Descr": {
     "prefix": "AzureCosmosDB with Description",
     "description": "Add AzureCosmosDB with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureCosmosDB(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -514,6 +578,7 @@
   "AzureDatabaseMariaDBServer": {
     "prefix": "AzureDatabaseMariaDBServer",
     "description": "Add AzureDatabaseMariaDBServer to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabaseMariaDBServer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -522,6 +587,7 @@
   "AzureDatabaseMariaDBServer_Descr": {
     "prefix": "AzureDatabaseMariaDBServer with Description",
     "description": "Add AzureDatabaseMariaDBServer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabaseMariaDBServer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -530,6 +596,7 @@
   "AzureDatabaseMigrationServices": {
     "prefix": "AzureDatabaseMigrationServices",
     "description": "Add AzureDatabaseMigrationServices to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabaseMigrationServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -538,6 +605,7 @@
   "AzureDatabaseMigrationServices_Descr": {
     "prefix": "AzureDatabaseMigrationServices with Description",
     "description": "Add AzureDatabaseMigrationServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabaseMigrationServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -546,6 +614,7 @@
   "AzureDatabaseMySQLServer": {
     "prefix": "AzureDatabaseMySQLServer",
     "description": "Add AzureDatabaseMySQLServer to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabaseMySQLServer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -554,6 +623,7 @@
   "AzureDatabaseMySQLServer_Descr": {
     "prefix": "AzureDatabaseMySQLServer with Description",
     "description": "Add AzureDatabaseMySQLServer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabaseMySQLServer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -562,6 +632,7 @@
   "AzureDatabasePostgreSQLServer": {
     "prefix": "AzureDatabasePostgreSQLServer",
     "description": "Add AzureDatabasePostgreSQLServer to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabasePostgreSQLServer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -570,6 +641,7 @@
   "AzureDatabasePostgreSQLServer_Descr": {
     "prefix": "AzureDatabasePostgreSQLServer with Description",
     "description": "Add AzureDatabasePostgreSQLServer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabasePostgreSQLServer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -578,6 +650,7 @@
   "AzureDatabricks": {
     "prefix": "AzureDatabricks",
     "description": "Add AzureDatabricks to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabricks(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -586,6 +659,7 @@
   "AzureDatabricks_Descr": {
     "prefix": "AzureDatabricks with Description",
     "description": "Add AzureDatabricks with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDatabricks(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -594,6 +668,7 @@
   "AzureDataCatalog": {
     "prefix": "AzureDataCatalog",
     "description": "Add AzureDataCatalog to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDataCatalog(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -602,6 +677,7 @@
   "AzureDataCatalog_Descr": {
     "prefix": "AzureDataCatalog with Description",
     "description": "Add AzureDataCatalog with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDataCatalog(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -610,6 +686,7 @@
   "AzureDataExplorerClusters": {
     "prefix": "AzureDataExplorerClusters",
     "description": "Add AzureDataExplorerClusters to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDataExplorerClusters(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -618,6 +695,7 @@
   "AzureDataExplorerClusters_Descr": {
     "prefix": "AzureDataExplorerClusters with Description",
     "description": "Add AzureDataExplorerClusters with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDataExplorerClusters(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -626,6 +704,7 @@
   "AzureDefender": {
     "prefix": "AzureDefender",
     "description": "Add AzureDefender to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDefender(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -634,6 +713,7 @@
   "AzureDefender_Descr": {
     "prefix": "AzureDefender with Description",
     "description": "Add AzureDefender with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDefender(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -642,6 +722,7 @@
   "AzureDevOps": {
     "prefix": "AzureDevOps",
     "description": "Add AzureDevOps to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDevOps(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -650,6 +731,7 @@
   "AzureDevOps_Descr": {
     "prefix": "AzureDevOps with Description",
     "description": "Add AzureDevOps with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureDevOps(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -658,6 +740,7 @@
   "AzureFirewallManager": {
     "prefix": "AzureFirewallManager",
     "description": "Add AzureFirewallManager to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureFirewallManager(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -666,6 +749,7 @@
   "AzureFirewallManager_Descr": {
     "prefix": "AzureFirewallManager with Description",
     "description": "Add AzureFirewallManager with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureFirewallManager(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -674,6 +758,7 @@
   "AzureHCPCache": {
     "prefix": "AzureHCPCache",
     "description": "Add AzureHCPCache to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureHCPCache(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -682,6 +767,7 @@
   "AzureHCPCache_Descr": {
     "prefix": "AzureHCPCache with Description",
     "description": "Add AzureHCPCache with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureHCPCache(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -690,6 +776,7 @@
   "AzureLighthouse": {
     "prefix": "AzureLighthouse",
     "description": "Add AzureLighthouse to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureLighthouse(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -698,6 +785,7 @@
   "AzureLighthouse_Descr": {
     "prefix": "AzureLighthouse with Description",
     "description": "Add AzureLighthouse with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureLighthouse(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -706,6 +794,7 @@
   "AzureMapsAccounts": {
     "prefix": "AzureMapsAccounts",
     "description": "Add AzureMapsAccounts to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureMapsAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -714,6 +803,7 @@
   "AzureMapsAccounts_Descr": {
     "prefix": "AzureMapsAccounts with Description",
     "description": "Add AzureMapsAccounts with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureMapsAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -722,6 +812,7 @@
   "AzureMediaService": {
     "prefix": "AzureMediaService",
     "description": "Add AzureMediaService to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureMediaService(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -730,6 +821,7 @@
   "AzureMediaService_Descr": {
     "prefix": "AzureMediaService with Description",
     "description": "Add AzureMediaService with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureMediaService(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -738,6 +830,7 @@
   "AzureMigrate": {
     "prefix": "AzureMigrate",
     "description": "Add AzureMigrate to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureMigrate(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -746,6 +839,7 @@
   "AzureMigrate_Descr": {
     "prefix": "AzureMigrate with Description",
     "description": "Add AzureMigrate with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureMigrate(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -754,6 +848,7 @@
   "AzureNetAppFiles": {
     "prefix": "AzureNetAppFiles",
     "description": "Add AzureNetAppFiles to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureNetAppFiles(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -762,6 +857,7 @@
   "AzureNetAppFiles_Descr": {
     "prefix": "AzureNetAppFiles with Description",
     "description": "Add AzureNetAppFiles with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureNetAppFiles(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -770,6 +866,7 @@
   "AzureSentinel": {
     "prefix": "AzureSentinel",
     "description": "Add AzureSentinel to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSentinel(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -778,6 +875,7 @@
   "AzureSentinel_Descr": {
     "prefix": "AzureSentinel with Description",
     "description": "Add AzureSentinel with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSentinel(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -786,6 +884,7 @@
   "AzureSphere": {
     "prefix": "AzureSphere",
     "description": "Add AzureSphere to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSphere(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -794,6 +893,7 @@
   "AzureSphere_Descr": {
     "prefix": "AzureSphere with Description",
     "description": "Add AzureSphere with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSphere(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -802,6 +902,7 @@
   "AzureSpringCloud": {
     "prefix": "AzureSpringCloud",
     "description": "Add AzureSpringCloud to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSpringCloud(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -810,6 +911,7 @@
   "AzureSpringCloud_Descr": {
     "prefix": "AzureSpringCloud with Description",
     "description": "Add AzureSpringCloud with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSpringCloud(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -818,6 +920,7 @@
   "AzureSQL": {
     "prefix": "AzureSQL",
     "description": "Add AzureSQL to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSQL(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -826,6 +929,7 @@
   "AzureSQL_Descr": {
     "prefix": "AzureSQL with Description",
     "description": "Add AzureSQL with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSQL(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -834,6 +938,7 @@
   "AzureSQLServerStretchDatabases": {
     "prefix": "AzureSQLServerStretchDatabases",
     "description": "Add AzureSQLServerStretchDatabases to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSQLServerStretchDatabases(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -842,6 +947,7 @@
   "AzureSQLServerStretchDatabases_Descr": {
     "prefix": "AzureSQLServerStretchDatabases with Description",
     "description": "Add AzureSQLServerStretchDatabases with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSQLServerStretchDatabases(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -850,6 +956,7 @@
   "AzureSQLVM": {
     "prefix": "AzureSQLVM",
     "description": "Add AzureSQLVM to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSQLVM(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -858,6 +965,7 @@
   "AzureSQLVM_Descr": {
     "prefix": "AzureSQLVM with Description",
     "description": "Add AzureSQLVM with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSQLVM(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -866,6 +974,7 @@
   "AzureStack": {
     "prefix": "AzureStack",
     "description": "Add AzureStack to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureStack(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -874,6 +983,7 @@
   "AzureStack_Descr": {
     "prefix": "AzureStack with Description",
     "description": "Add AzureStack with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureStack(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -882,6 +992,7 @@
   "AzureStackEdge": {
     "prefix": "AzureStackEdge",
     "description": "Add AzureStackEdge to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureStackEdge(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -890,6 +1001,7 @@
   "AzureStackEdge_Descr": {
     "prefix": "AzureStackEdge with Description",
     "description": "Add AzureStackEdge with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureStackEdge(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -898,6 +1010,7 @@
   "AzureSynapseAnalytics": {
     "prefix": "AzureSynapseAnalytics",
     "description": "Add AzureSynapseAnalytics to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSynapseAnalytics(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -906,6 +1019,7 @@
   "AzureSynapseAnalytics_Descr": {
     "prefix": "AzureSynapseAnalytics with Description",
     "description": "Add AzureSynapseAnalytics with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureSynapseAnalytics(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -914,6 +1028,7 @@
   "AzureTokenService": {
     "prefix": "AzureTokenService",
     "description": "Add AzureTokenService to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureTokenService(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -922,6 +1037,7 @@
   "AzureTokenService_Descr": {
     "prefix": "AzureTokenService with Description",
     "description": "Add AzureTokenService with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureTokenService(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -930,6 +1046,7 @@
   "AzureWorkbooks": {
     "prefix": "AzureWorkbooks",
     "description": "Add AzureWorkbooks to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureWorkbooks(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -938,6 +1055,7 @@
   "AzureWorkbooks_Descr": {
     "prefix": "AzureWorkbooks with Description",
     "description": "Add AzureWorkbooks with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "AzureWorkbooks(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -946,6 +1064,7 @@
   "Backlog": {
     "prefix": "Backlog",
     "description": "Add Backlog to diagram",
+    "scope": "plantuml",
     "body": [
       "Backlog(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -954,6 +1073,7 @@
   "Backlog_Descr": {
     "prefix": "Backlog with Description",
     "description": "Add Backlog with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Backlog(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -962,6 +1082,7 @@
   "BatchAccounts": {
     "prefix": "BatchAccounts",
     "description": "Add BatchAccounts to diagram",
+    "scope": "plantuml",
     "body": [
       "BatchAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -970,6 +1091,7 @@
   "BatchAccounts_Descr": {
     "prefix": "BatchAccounts with Description",
     "description": "Add BatchAccounts with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "BatchAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -978,6 +1100,7 @@
   "BizTalk": {
     "prefix": "BizTalk",
     "description": "Add BizTalk to diagram",
+    "scope": "plantuml",
     "body": [
       "BizTalk(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -986,6 +1109,7 @@
   "BizTalk_Descr": {
     "prefix": "BizTalk with Description",
     "description": "Add BizTalk with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "BizTalk(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -994,6 +1118,7 @@
   "BlobBlock": {
     "prefix": "BlobBlock",
     "description": "Add BlobBlock to diagram",
+    "scope": "plantuml",
     "body": [
       "BlobBlock(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1002,6 +1127,7 @@
   "BlobBlock_Descr": {
     "prefix": "BlobBlock with Description",
     "description": "Add BlobBlock with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "BlobBlock(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1010,6 +1136,7 @@
   "BlobPage": {
     "prefix": "BlobPage",
     "description": "Add BlobPage to diagram",
+    "scope": "plantuml",
     "body": [
       "BlobPage(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1018,6 +1145,7 @@
   "BlobPage_Descr": {
     "prefix": "BlobPage with Description",
     "description": "Add BlobPage with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "BlobPage(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1026,6 +1154,7 @@
   "Blueprints": {
     "prefix": "Blueprints",
     "description": "Add Blueprints to diagram",
+    "scope": "plantuml",
     "body": [
       "Blueprints(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1034,6 +1163,7 @@
   "Blueprints_Descr": {
     "prefix": "Blueprints with Description",
     "description": "Add Blueprints with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Blueprints(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1042,6 +1172,7 @@
   "BotServices": {
     "prefix": "BotServices",
     "description": "Add BotServices to diagram",
+    "scope": "plantuml",
     "body": [
       "BotServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1050,6 +1181,7 @@
   "BotServices_Descr": {
     "prefix": "BotServices with Description",
     "description": "Add BotServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "BotServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1058,6 +1190,7 @@
   "Branch": {
     "prefix": "Branch",
     "description": "Add Branch to diagram",
+    "scope": "plantuml",
     "body": [
       "Branch(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1066,6 +1199,7 @@
   "Branch_Descr": {
     "prefix": "Branch with Description",
     "description": "Add Branch with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Branch(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1074,6 +1208,7 @@
   "Browser": {
     "prefix": "Browser",
     "description": "Add Browser to diagram",
+    "scope": "plantuml",
     "body": [
       "Browser(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1082,6 +1217,7 @@
   "Browser_Descr": {
     "prefix": "Browser with Description",
     "description": "Add Browser with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Browser(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1090,6 +1226,7 @@
   "Bug": {
     "prefix": "Bug",
     "description": "Add Bug to diagram",
+    "scope": "plantuml",
     "body": [
       "Bug(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1098,6 +1235,7 @@
   "Bug_Descr": {
     "prefix": "Bug with Description",
     "description": "Add Bug with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Bug(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1106,6 +1244,7 @@
   "Builds": {
     "prefix": "Builds",
     "description": "Add Builds to diagram",
+    "scope": "plantuml",
     "body": [
       "Builds(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1114,6 +1253,7 @@
   "Builds_Descr": {
     "prefix": "Builds with Description",
     "description": "Add Builds with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Builds(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1122,6 +1262,7 @@
   "C4Integration": {
     "prefix": "C4Integration",
     "description": "Add C4Integration to diagram",
+    "scope": "plantuml",
     "body": [
       "C4Integration(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1130,6 +1271,7 @@
   "C4Integration_Descr": {
     "prefix": "C4Integration with Description",
     "description": "Add C4Integration with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "C4Integration(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1138,6 +1280,7 @@
   "Cache": {
     "prefix": "Cache",
     "description": "Add Cache to diagram",
+    "scope": "plantuml",
     "body": [
       "Cache(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1146,6 +1289,7 @@
   "Cache_Descr": {
     "prefix": "Cache with Description",
     "description": "Add Cache with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Cache(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1154,6 +1298,7 @@
   "CacheRedis": {
     "prefix": "CacheRedis",
     "description": "Add CacheRedis to diagram",
+    "scope": "plantuml",
     "body": [
       "CacheRedis(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1162,6 +1307,7 @@
   "CacheRedis_Descr": {
     "prefix": "CacheRedis with Description",
     "description": "Add CacheRedis with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CacheRedis(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1170,6 +1316,7 @@
   "Capacity": {
     "prefix": "Capacity",
     "description": "Add Capacity to diagram",
+    "scope": "plantuml",
     "body": [
       "Capacity(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1178,6 +1325,7 @@
   "Capacity_Descr": {
     "prefix": "Capacity with Description",
     "description": "Add Capacity with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Capacity(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1186,6 +1334,7 @@
   "CDNProfiles": {
     "prefix": "CDNProfiles",
     "description": "Add CDNProfiles to diagram",
+    "scope": "plantuml",
     "body": [
       "CDNProfiles(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1194,6 +1343,7 @@
   "CDNProfiles_Descr": {
     "prefix": "CDNProfiles with Description",
     "description": "Add CDNProfiles with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CDNProfiles(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1202,6 +1352,7 @@
   "CloudServicesClassic": {
     "prefix": "CloudServicesClassic",
     "description": "Add CloudServicesClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "CloudServicesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1210,6 +1361,7 @@
   "CloudServicesClassic_Descr": {
     "prefix": "CloudServicesClassic with Description",
     "description": "Add CloudServicesClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CloudServicesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1218,6 +1370,7 @@
   "Code": {
     "prefix": "Code",
     "description": "Add Code to diagram",
+    "scope": "plantuml",
     "body": [
       "Code(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1226,6 +1379,7 @@
   "Code_Descr": {
     "prefix": "Code with Description",
     "description": "Add Code with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Code(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1234,6 +1388,7 @@
   "CognitiveServices": {
     "prefix": "CognitiveServices",
     "description": "Add CognitiveServices to diagram",
+    "scope": "plantuml",
     "body": [
       "CognitiveServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1242,6 +1397,7 @@
   "CognitiveServices_Descr": {
     "prefix": "CognitiveServices with Description",
     "description": "Add CognitiveServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CognitiveServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1250,6 +1406,7 @@
   "Commit": {
     "prefix": "Commit",
     "description": "Add Commit to diagram",
+    "scope": "plantuml",
     "body": [
       "Commit(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1258,6 +1415,7 @@
   "Commit_Descr": {
     "prefix": "Commit with Description",
     "description": "Add Commit with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Commit(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1266,6 +1424,7 @@
   "Common": {
     "prefix": "Common",
     "description": "Add Common to diagram",
+    "scope": "plantuml",
     "body": [
       "Common(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1274,6 +1433,7 @@
   "Common_Descr": {
     "prefix": "Common with Description",
     "description": "Add Common with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Common(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1282,6 +1442,7 @@
   "Compliance": {
     "prefix": "Compliance",
     "description": "Add Compliance to diagram",
+    "scope": "plantuml",
     "body": [
       "Compliance(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1290,6 +1451,7 @@
   "Compliance_Descr": {
     "prefix": "Compliance with Description",
     "description": "Add Compliance with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Compliance(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1298,6 +1460,7 @@
   "ConditionalAccess": {
     "prefix": "ConditionalAccess",
     "description": "Add ConditionalAccess to diagram",
+    "scope": "plantuml",
     "body": [
       "ConditionalAccess(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1306,6 +1469,7 @@
   "ConditionalAccess_Descr": {
     "prefix": "ConditionalAccess with Description",
     "description": "Add ConditionalAccess with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ConditionalAccess(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1314,6 +1478,7 @@
   "Connections": {
     "prefix": "Connections",
     "description": "Add Connections to diagram",
+    "scope": "plantuml",
     "body": [
       "Connections(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1322,6 +1487,7 @@
   "Connections_Descr": {
     "prefix": "Connections with Description",
     "description": "Add Connections with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Connections(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1330,6 +1496,7 @@
   "Consortium": {
     "prefix": "Consortium",
     "description": "Add Consortium to diagram",
+    "scope": "plantuml",
     "body": [
       "Consortium(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1338,6 +1505,7 @@
   "Consortium_Descr": {
     "prefix": "Consortium with Description",
     "description": "Add Consortium with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Consortium(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1346,6 +1514,7 @@
   "ContainerInstances": {
     "prefix": "ContainerInstances",
     "description": "Add ContainerInstances to diagram",
+    "scope": "plantuml",
     "body": [
       "ContainerInstances(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1354,6 +1523,7 @@
   "ContainerInstances_Descr": {
     "prefix": "ContainerInstances with Description",
     "description": "Add ContainerInstances with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ContainerInstances(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1362,6 +1532,7 @@
   "ContainerRegistries": {
     "prefix": "ContainerRegistries",
     "description": "Add ContainerRegistries to diagram",
+    "scope": "plantuml",
     "body": [
       "ContainerRegistries(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1370,6 +1541,7 @@
   "ContainerRegistries_Descr": {
     "prefix": "ContainerRegistries with Description",
     "description": "Add ContainerRegistries with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ContainerRegistries(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1378,6 +1550,7 @@
   "ContainerServicesDeprecated": {
     "prefix": "ContainerServicesDeprecated",
     "description": "Add ContainerServicesDeprecated to diagram",
+    "scope": "plantuml",
     "body": [
       "ContainerServicesDeprecated(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1386,6 +1559,7 @@
   "ContainerServicesDeprecated_Descr": {
     "prefix": "ContainerServicesDeprecated with Description",
     "description": "Add ContainerServicesDeprecated with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ContainerServicesDeprecated(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1394,6 +1568,7 @@
   "Controls": {
     "prefix": "Controls",
     "description": "Add Controls to diagram",
+    "scope": "plantuml",
     "body": [
       "Controls(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1402,6 +1577,7 @@
   "Controls_Descr": {
     "prefix": "Controls with Description",
     "description": "Add Controls with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Controls(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1410,6 +1586,7 @@
   "ControlsHorizontal": {
     "prefix": "ControlsHorizontal",
     "description": "Add ControlsHorizontal to diagram",
+    "scope": "plantuml",
     "body": [
       "ControlsHorizontal(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1418,6 +1595,7 @@
   "ControlsHorizontal_Descr": {
     "prefix": "ControlsHorizontal with Description",
     "description": "Add ControlsHorizontal with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ControlsHorizontal(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1426,6 +1604,7 @@
   "CostAlerts": {
     "prefix": "CostAlerts",
     "description": "Add CostAlerts to diagram",
+    "scope": "plantuml",
     "body": [
       "CostAlerts(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1434,6 +1613,7 @@
   "CostAlerts_Descr": {
     "prefix": "CostAlerts with Description",
     "description": "Add CostAlerts with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CostAlerts(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1442,6 +1622,7 @@
   "CostAnalysis": {
     "prefix": "CostAnalysis",
     "description": "Add CostAnalysis to diagram",
+    "scope": "plantuml",
     "body": [
       "CostAnalysis(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1450,6 +1631,7 @@
   "CostAnalysis_Descr": {
     "prefix": "CostAnalysis with Description",
     "description": "Add CostAnalysis with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CostAnalysis(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1458,6 +1640,7 @@
   "CostBudgets": {
     "prefix": "CostBudgets",
     "description": "Add CostBudgets to diagram",
+    "scope": "plantuml",
     "body": [
       "CostBudgets(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1466,6 +1649,7 @@
   "CostBudgets_Descr": {
     "prefix": "CostBudgets with Description",
     "description": "Add CostBudgets with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CostBudgets(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1474,6 +1658,7 @@
   "CostManagement": {
     "prefix": "CostManagement",
     "description": "Add CostManagement to diagram",
+    "scope": "plantuml",
     "body": [
       "CostManagement(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1482,6 +1667,7 @@
   "CostManagement_Descr": {
     "prefix": "CostManagement with Description",
     "description": "Add CostManagement with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CostManagement(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1490,6 +1676,7 @@
   "CostManagementandBilling": {
     "prefix": "CostManagementandBilling",
     "description": "Add CostManagementandBilling to diagram",
+    "scope": "plantuml",
     "body": [
       "CostManagementandBilling(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1498,6 +1685,7 @@
   "CostManagementandBilling_Descr": {
     "prefix": "CostManagementandBilling with Description",
     "description": "Add CostManagementandBilling with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "CostManagementandBilling(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1506,6 +1694,7 @@
   "Counter": {
     "prefix": "Counter",
     "description": "Add Counter to diagram",
+    "scope": "plantuml",
     "body": [
       "Counter(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1514,6 +1703,7 @@
   "Counter_Descr": {
     "prefix": "Counter with Description",
     "description": "Add Counter with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Counter(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1522,6 +1712,7 @@
   "Cubes": {
     "prefix": "Cubes",
     "description": "Add Cubes to diagram",
+    "scope": "plantuml",
     "body": [
       "Cubes(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1530,6 +1721,7 @@
   "Cubes_Descr": {
     "prefix": "Cubes with Description",
     "description": "Add Cubes with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Cubes(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1538,6 +1730,7 @@
   "Dashboard": {
     "prefix": "Dashboard",
     "description": "Add Dashboard to diagram",
+    "scope": "plantuml",
     "body": [
       "Dashboard(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1546,6 +1739,7 @@
   "Dashboard_Descr": {
     "prefix": "Dashboard with Description",
     "description": "Add Dashboard with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Dashboard(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1554,6 +1748,7 @@
   "DataBox": {
     "prefix": "DataBox",
     "description": "Add DataBox to diagram",
+    "scope": "plantuml",
     "body": [
       "DataBox(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1562,6 +1757,7 @@
   "DataBox_Descr": {
     "prefix": "DataBox with Description",
     "description": "Add DataBox with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DataBox(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1570,6 +1766,7 @@
   "DataBoxEdge": {
     "prefix": "DataBoxEdge",
     "description": "Add DataBoxEdge to diagram",
+    "scope": "plantuml",
     "body": [
       "DataBoxEdge(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1578,6 +1775,7 @@
   "DataBoxEdge_Descr": {
     "prefix": "DataBoxEdge with Description",
     "description": "Add DataBoxEdge with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DataBoxEdge(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1586,6 +1784,7 @@
   "DataFactory": {
     "prefix": "DataFactory",
     "description": "Add DataFactory to diagram",
+    "scope": "plantuml",
     "body": [
       "DataFactory(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1594,6 +1793,7 @@
   "DataFactory_Descr": {
     "prefix": "DataFactory with Description",
     "description": "Add DataFactory with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DataFactory(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1602,6 +1802,7 @@
   "DataLakeStorageGen1": {
     "prefix": "DataLakeStorageGen1",
     "description": "Add DataLakeStorageGen1 to diagram",
+    "scope": "plantuml",
     "body": [
       "DataLakeStorageGen1(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1610,6 +1811,7 @@
   "DataLakeStorageGen1_Descr": {
     "prefix": "DataLakeStorageGen1 with Description",
     "description": "Add DataLakeStorageGen1 with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DataLakeStorageGen1(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1618,6 +1820,7 @@
   "DataLakeStoreGen1": {
     "prefix": "DataLakeStoreGen1",
     "description": "Add DataLakeStoreGen1 to diagram",
+    "scope": "plantuml",
     "body": [
       "DataLakeStoreGen1(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1626,6 +1829,7 @@
   "DataLakeStoreGen1_Descr": {
     "prefix": "DataLakeStoreGen1 with Description",
     "description": "Add DataLakeStoreGen1 with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DataLakeStoreGen1(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1634,6 +1838,7 @@
   "DataShareInvitations": {
     "prefix": "DataShareInvitations",
     "description": "Add DataShareInvitations to diagram",
+    "scope": "plantuml",
     "body": [
       "DataShareInvitations(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1642,6 +1847,7 @@
   "DataShareInvitations_Descr": {
     "prefix": "DataShareInvitations with Description",
     "description": "Add DataShareInvitations with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DataShareInvitations(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1650,6 +1856,7 @@
   "DataShares": {
     "prefix": "DataShares",
     "description": "Add DataShares to diagram",
+    "scope": "plantuml",
     "body": [
       "DataShares(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1658,6 +1865,7 @@
   "DataShares_Descr": {
     "prefix": "DataShares with Description",
     "description": "Add DataShares with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DataShares(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1666,6 +1874,7 @@
   "Dataverse": {
     "prefix": "Dataverse",
     "description": "Add Dataverse to diagram",
+    "scope": "plantuml",
     "body": [
       "Dataverse(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1674,6 +1883,7 @@
   "Dataverse_Descr": {
     "prefix": "Dataverse with Description",
     "description": "Add Dataverse with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Dataverse(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1682,6 +1892,7 @@
   "DDoSProtectionPlans": {
     "prefix": "DDoSProtectionPlans",
     "description": "Add DDoSProtectionPlans to diagram",
+    "scope": "plantuml",
     "body": [
       "DDoSProtectionPlans(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1690,6 +1901,7 @@
   "DDoSProtectionPlans_Descr": {
     "prefix": "DDoSProtectionPlans with Description",
     "description": "Add DDoSProtectionPlans with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DDoSProtectionPlans(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1698,6 +1910,7 @@
   "Detonation": {
     "prefix": "Detonation",
     "description": "Add Detonation to diagram",
+    "scope": "plantuml",
     "body": [
       "Detonation(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1706,6 +1919,7 @@
   "Detonation_Descr": {
     "prefix": "Detonation with Description",
     "description": "Add Detonation with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Detonation(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1714,6 +1928,7 @@
   "DevConsole": {
     "prefix": "DevConsole",
     "description": "Add DevConsole to diagram",
+    "scope": "plantuml",
     "body": [
       "DevConsole(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1722,6 +1937,7 @@
   "DevConsole_Descr": {
     "prefix": "DevConsole with Description",
     "description": "Add DevConsole with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DevConsole(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1730,6 +1946,7 @@
   "DeviceProvisioningServices": {
     "prefix": "DeviceProvisioningServices",
     "description": "Add DeviceProvisioningServices to diagram",
+    "scope": "plantuml",
     "body": [
       "DeviceProvisioningServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1738,6 +1955,7 @@
   "DeviceProvisioningServices_Descr": {
     "prefix": "DeviceProvisioningServices with Description",
     "description": "Add DeviceProvisioningServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DeviceProvisioningServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1746,6 +1964,7 @@
   "DeviceSecurityApple": {
     "prefix": "DeviceSecurityApple",
     "description": "Add DeviceSecurityApple to diagram",
+    "scope": "plantuml",
     "body": [
       "DeviceSecurityApple(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1754,6 +1973,7 @@
   "DeviceSecurityApple_Descr": {
     "prefix": "DeviceSecurityApple with Description",
     "description": "Add DeviceSecurityApple with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DeviceSecurityApple(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1762,6 +1982,7 @@
   "DeviceSecurityGoogle": {
     "prefix": "DeviceSecurityGoogle",
     "description": "Add DeviceSecurityGoogle to diagram",
+    "scope": "plantuml",
     "body": [
       "DeviceSecurityGoogle(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1770,6 +1991,7 @@
   "DeviceSecurityGoogle_Descr": {
     "prefix": "DeviceSecurityGoogle with Description",
     "description": "Add DeviceSecurityGoogle with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DeviceSecurityGoogle(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1778,6 +2000,7 @@
   "DeviceSecurityWindows": {
     "prefix": "DeviceSecurityWindows",
     "description": "Add DeviceSecurityWindows to diagram",
+    "scope": "plantuml",
     "body": [
       "DeviceSecurityWindows(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1786,6 +2009,7 @@
   "DeviceSecurityWindows_Descr": {
     "prefix": "DeviceSecurityWindows with Description",
     "description": "Add DeviceSecurityWindows with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DeviceSecurityWindows(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1794,6 +2018,7 @@
   "DevTestLabs": {
     "prefix": "DevTestLabs",
     "description": "Add DevTestLabs to diagram",
+    "scope": "plantuml",
     "body": [
       "DevTestLabs(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1802,6 +2027,7 @@
   "DevTestLabs_Descr": {
     "prefix": "DevTestLabs with Description",
     "description": "Add DevTestLabs with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DevTestLabs(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1810,6 +2036,7 @@
   "DiagnosticsSettings": {
     "prefix": "DiagnosticsSettings",
     "description": "Add DiagnosticsSettings to diagram",
+    "scope": "plantuml",
     "body": [
       "DiagnosticsSettings(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1818,6 +2045,7 @@
   "DiagnosticsSettings_Descr": {
     "prefix": "DiagnosticsSettings with Description",
     "description": "Add DiagnosticsSettings with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DiagnosticsSettings(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1826,6 +2054,7 @@
   "DigitalTwins": {
     "prefix": "DigitalTwins",
     "description": "Add DigitalTwins to diagram",
+    "scope": "plantuml",
     "body": [
       "DigitalTwins(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1834,6 +2063,7 @@
   "DigitalTwins_Descr": {
     "prefix": "DigitalTwins with Description",
     "description": "Add DigitalTwins with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DigitalTwins(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1842,6 +2072,7 @@
   "DiskEncryptionSets": {
     "prefix": "DiskEncryptionSets",
     "description": "Add DiskEncryptionSets to diagram",
+    "scope": "plantuml",
     "body": [
       "DiskEncryptionSets(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1850,6 +2081,7 @@
   "DiskEncryptionSets_Descr": {
     "prefix": "DiskEncryptionSets with Description",
     "description": "Add DiskEncryptionSets with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DiskEncryptionSets(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1858,6 +2090,7 @@
   "Disks": {
     "prefix": "Disks",
     "description": "Add Disks to diagram",
+    "scope": "plantuml",
     "body": [
       "Disks(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1866,6 +2099,7 @@
   "Disks_Descr": {
     "prefix": "Disks with Description",
     "description": "Add Disks with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Disks(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1874,6 +2108,7 @@
   "DisksClassic": {
     "prefix": "DisksClassic",
     "description": "Add DisksClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "DisksClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1882,6 +2117,7 @@
   "DisksClassic_Descr": {
     "prefix": "DisksClassic with Description",
     "description": "Add DisksClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DisksClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1890,6 +2126,7 @@
   "DisksSnapshots": {
     "prefix": "DisksSnapshots",
     "description": "Add DisksSnapshots to diagram",
+    "scope": "plantuml",
     "body": [
       "DisksSnapshots(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1898,6 +2135,7 @@
   "DisksSnapshots_Descr": {
     "prefix": "DisksSnapshots with Description",
     "description": "Add DisksSnapshots with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DisksSnapshots(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1906,6 +2144,7 @@
   "DNSZones": {
     "prefix": "DNSZones",
     "description": "Add DNSZones to diagram",
+    "scope": "plantuml",
     "body": [
       "DNSZones(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1914,6 +2153,7 @@
   "DNSZones_Descr": {
     "prefix": "DNSZones with Description",
     "description": "Add DNSZones with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "DNSZones(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1922,6 +2162,7 @@
   "Download": {
     "prefix": "Download",
     "description": "Add Download to diagram",
+    "scope": "plantuml",
     "body": [
       "Download(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1930,6 +2171,7 @@
   "Download_Descr": {
     "prefix": "Download with Description",
     "description": "Add Download with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Download(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1938,6 +2180,7 @@
   "Education": {
     "prefix": "Education",
     "description": "Add Education to diagram",
+    "scope": "plantuml",
     "body": [
       "Education(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1946,6 +2189,7 @@
   "Education_Descr": {
     "prefix": "Education with Description",
     "description": "Add Education with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Education(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1954,6 +2198,7 @@
   "ElasticJobAgents": {
     "prefix": "ElasticJobAgents",
     "description": "Add ElasticJobAgents to diagram",
+    "scope": "plantuml",
     "body": [
       "ElasticJobAgents(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1962,6 +2207,7 @@
   "ElasticJobAgents_Descr": {
     "prefix": "ElasticJobAgents with Description",
     "description": "Add ElasticJobAgents with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ElasticJobAgents(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1970,6 +2216,7 @@
   "EnterpriseApplications": {
     "prefix": "EnterpriseApplications",
     "description": "Add EnterpriseApplications to diagram",
+    "scope": "plantuml",
     "body": [
       "EnterpriseApplications(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1978,6 +2225,7 @@
   "EnterpriseApplications_Descr": {
     "prefix": "EnterpriseApplications with Description",
     "description": "Add EnterpriseApplications with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "EnterpriseApplications(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -1986,6 +2234,7 @@
   "Error": {
     "prefix": "Error",
     "description": "Add Error to diagram",
+    "scope": "plantuml",
     "body": [
       "Error(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -1994,6 +2243,7 @@
   "Error_Descr": {
     "prefix": "Error with Description",
     "description": "Add Error with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Error(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2002,6 +2252,7 @@
   "EventGridDomains": {
     "prefix": "EventGridDomains",
     "description": "Add EventGridDomains to diagram",
+    "scope": "plantuml",
     "body": [
       "EventGridDomains(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2010,6 +2261,7 @@
   "EventGridDomains_Descr": {
     "prefix": "EventGridDomains with Description",
     "description": "Add EventGridDomains with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "EventGridDomains(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2018,6 +2270,7 @@
   "EventGridSubscriptions": {
     "prefix": "EventGridSubscriptions",
     "description": "Add EventGridSubscriptions to diagram",
+    "scope": "plantuml",
     "body": [
       "EventGridSubscriptions(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2026,6 +2279,7 @@
   "EventGridSubscriptions_Descr": {
     "prefix": "EventGridSubscriptions with Description",
     "description": "Add EventGridSubscriptions with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "EventGridSubscriptions(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2034,6 +2288,7 @@
   "EventGridTopics": {
     "prefix": "EventGridTopics",
     "description": "Add EventGridTopics to diagram",
+    "scope": "plantuml",
     "body": [
       "EventGridTopics(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2042,6 +2297,7 @@
   "EventGridTopics_Descr": {
     "prefix": "EventGridTopics with Description",
     "description": "Add EventGridTopics with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "EventGridTopics(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2050,6 +2306,7 @@
   "EventHubClusters": {
     "prefix": "EventHubClusters",
     "description": "Add EventHubClusters to diagram",
+    "scope": "plantuml",
     "body": [
       "EventHubClusters(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2058,6 +2315,7 @@
   "EventHubClusters_Descr": {
     "prefix": "EventHubClusters with Description",
     "description": "Add EventHubClusters with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "EventHubClusters(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2066,6 +2324,7 @@
   "EventHubs": {
     "prefix": "EventHubs",
     "description": "Add EventHubs to diagram",
+    "scope": "plantuml",
     "body": [
       "EventHubs(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2074,6 +2333,7 @@
   "EventHubs_Descr": {
     "prefix": "EventHubs with Description",
     "description": "Add EventHubs with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "EventHubs(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2082,6 +2342,7 @@
   "Excel": {
     "prefix": "Excel",
     "description": "Add Excel to diagram",
+    "scope": "plantuml",
     "body": [
       "Excel(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2090,6 +2351,7 @@
   "Excel_Descr": {
     "prefix": "Excel with Description",
     "description": "Add Excel with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Excel(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2098,6 +2360,7 @@
   "ExpressRouteCircuits": {
     "prefix": "ExpressRouteCircuits",
     "description": "Add ExpressRouteCircuits to diagram",
+    "scope": "plantuml",
     "body": [
       "ExpressRouteCircuits(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2106,6 +2369,7 @@
   "ExpressRouteCircuits_Descr": {
     "prefix": "ExpressRouteCircuits with Description",
     "description": "Add ExpressRouteCircuits with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ExpressRouteCircuits(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2114,6 +2378,7 @@
   "ExpressRouteDirect": {
     "prefix": "ExpressRouteDirect",
     "description": "Add ExpressRouteDirect to diagram",
+    "scope": "plantuml",
     "body": [
       "ExpressRouteDirect(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2122,6 +2387,7 @@
   "ExpressRouteDirect_Descr": {
     "prefix": "ExpressRouteDirect with Description",
     "description": "Add ExpressRouteDirect with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ExpressRouteDirect(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2130,6 +2396,7 @@
   "ExtendedSecurityUpdates": {
     "prefix": "ExtendedSecurityUpdates",
     "description": "Add ExtendedSecurityUpdates to diagram",
+    "scope": "plantuml",
     "body": [
       "ExtendedSecurityUpdates(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2138,6 +2405,7 @@
   "ExtendedSecurityUpdates_Descr": {
     "prefix": "ExtendedSecurityUpdates with Description",
     "description": "Add ExtendedSecurityUpdates with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ExtendedSecurityUpdates(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2146,6 +2414,7 @@
   "Extensions": {
     "prefix": "Extensions",
     "description": "Add Extensions to diagram",
+    "scope": "plantuml",
     "body": [
       "Extensions(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2154,6 +2423,7 @@
   "Extensions_Descr": {
     "prefix": "Extensions with Description",
     "description": "Add Extensions with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Extensions(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2162,6 +2432,7 @@
   "File": {
     "prefix": "File",
     "description": "Add File to diagram",
+    "scope": "plantuml",
     "body": [
       "File(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2170,6 +2441,7 @@
   "File_Descr": {
     "prefix": "File with Description",
     "description": "Add File with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "File(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2178,6 +2450,7 @@
   "Files": {
     "prefix": "Files",
     "description": "Add Files to diagram",
+    "scope": "plantuml",
     "body": [
       "Files(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2186,6 +2459,7 @@
   "Files_Descr": {
     "prefix": "Files with Description",
     "description": "Add Files with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Files(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2194,6 +2468,7 @@
   "Firewalls": {
     "prefix": "Firewalls",
     "description": "Add Firewalls to diagram",
+    "scope": "plantuml",
     "body": [
       "Firewalls(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2202,6 +2477,7 @@
   "Firewalls_Descr": {
     "prefix": "Firewalls with Description",
     "description": "Add Firewalls with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Firewalls(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2210,6 +2486,7 @@
   "FolderBlank": {
     "prefix": "FolderBlank",
     "description": "Add FolderBlank to diagram",
+    "scope": "plantuml",
     "body": [
       "FolderBlank(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2218,6 +2495,7 @@
   "FolderBlank_Descr": {
     "prefix": "FolderBlank with Description",
     "description": "Add FolderBlank with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "FolderBlank(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2226,6 +2504,7 @@
   "FolderWebsite": {
     "prefix": "FolderWebsite",
     "description": "Add FolderWebsite to diagram",
+    "scope": "plantuml",
     "body": [
       "FolderWebsite(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2234,6 +2513,7 @@
   "FolderWebsite_Descr": {
     "prefix": "FolderWebsite with Description",
     "description": "Add FolderWebsite with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "FolderWebsite(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2242,6 +2522,7 @@
   "FreeServices": {
     "prefix": "FreeServices",
     "description": "Add FreeServices to diagram",
+    "scope": "plantuml",
     "body": [
       "FreeServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2250,6 +2531,7 @@
   "FreeServices_Descr": {
     "prefix": "FreeServices with Description",
     "description": "Add FreeServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "FreeServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2258,6 +2540,7 @@
   "FrontDoors": {
     "prefix": "FrontDoors",
     "description": "Add FrontDoors to diagram",
+    "scope": "plantuml",
     "body": [
       "FrontDoors(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2266,6 +2549,7 @@
   "FrontDoors_Descr": {
     "prefix": "FrontDoors with Description",
     "description": "Add FrontDoors with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "FrontDoors(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2274,6 +2558,7 @@
   "FTP": {
     "prefix": "FTP",
     "description": "Add FTP to diagram",
+    "scope": "plantuml",
     "body": [
       "FTP(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2282,6 +2567,7 @@
   "FTP_Descr": {
     "prefix": "FTP with Description",
     "description": "Add FTP with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "FTP(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2290,6 +2576,7 @@
   "FunctionApps": {
     "prefix": "FunctionApps",
     "description": "Add FunctionApps to diagram",
+    "scope": "plantuml",
     "body": [
       "FunctionApps(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2298,6 +2585,7 @@
   "FunctionApps_Descr": {
     "prefix": "FunctionApps with Description",
     "description": "Add FunctionApps with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "FunctionApps(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2306,6 +2594,7 @@
   "Gear": {
     "prefix": "Gear",
     "description": "Add Gear to diagram",
+    "scope": "plantuml",
     "body": [
       "Gear(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2314,6 +2603,7 @@
   "Gear_Descr": {
     "prefix": "Gear with Description",
     "description": "Add Gear with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Gear(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2322,6 +2612,7 @@
   "Globe": {
     "prefix": "Globe",
     "description": "Add Globe to diagram",
+    "scope": "plantuml",
     "body": [
       "Globe(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2330,6 +2621,7 @@
   "Globe_Descr": {
     "prefix": "Globe with Description",
     "description": "Add Globe with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Globe(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2338,6 +2630,7 @@
   "GlobeError": {
     "prefix": "GlobeError",
     "description": "Add GlobeError to diagram",
+    "scope": "plantuml",
     "body": [
       "GlobeError(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2346,6 +2639,7 @@
   "GlobeError_Descr": {
     "prefix": "GlobeError with Description",
     "description": "Add GlobeError with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "GlobeError(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2354,6 +2648,7 @@
   "GlobeSuccess": {
     "prefix": "GlobeSuccess",
     "description": "Add GlobeSuccess to diagram",
+    "scope": "plantuml",
     "body": [
       "GlobeSuccess(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2362,6 +2657,7 @@
   "GlobeSuccess_Descr": {
     "prefix": "GlobeSuccess with Description",
     "description": "Add GlobeSuccess with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "GlobeSuccess(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2370,6 +2666,7 @@
   "GlobeWarning": {
     "prefix": "GlobeWarning",
     "description": "Add GlobeWarning to diagram",
+    "scope": "plantuml",
     "body": [
       "GlobeWarning(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2378,6 +2675,7 @@
   "GlobeWarning_Descr": {
     "prefix": "GlobeWarning with Description",
     "description": "Add GlobeWarning with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "GlobeWarning(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2386,6 +2684,7 @@
   "Groups": {
     "prefix": "Groups",
     "description": "Add Groups to diagram",
+    "scope": "plantuml",
     "body": [
       "Groups(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2394,6 +2693,7 @@
   "Groups_Descr": {
     "prefix": "Groups with Description",
     "description": "Add Groups with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Groups(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2402,6 +2702,7 @@
   "Guide": {
     "prefix": "Guide",
     "description": "Add Guide to diagram",
+    "scope": "plantuml",
     "body": [
       "Guide(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2410,6 +2711,7 @@
   "Guide_Descr": {
     "prefix": "Guide with Description",
     "description": "Add Guide with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Guide(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2418,6 +2720,7 @@
   "HDInsightClusters": {
     "prefix": "HDInsightClusters",
     "description": "Add HDInsightClusters to diagram",
+    "scope": "plantuml",
     "body": [
       "HDInsightClusters(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2426,6 +2729,7 @@
   "HDInsightClusters_Descr": {
     "prefix": "HDInsightClusters with Description",
     "description": "Add HDInsightClusters with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "HDInsightClusters(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2434,6 +2738,7 @@
   "Heart": {
     "prefix": "Heart",
     "description": "Add Heart to diagram",
+    "scope": "plantuml",
     "body": [
       "Heart(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2442,6 +2747,7 @@
   "Heart_Descr": {
     "prefix": "Heart with Description",
     "description": "Add Heart with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Heart(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2450,6 +2756,7 @@
   "HelpandSupport": {
     "prefix": "HelpandSupport",
     "description": "Add HelpandSupport to diagram",
+    "scope": "plantuml",
     "body": [
       "HelpandSupport(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2458,6 +2765,7 @@
   "HelpandSupport_Descr": {
     "prefix": "HelpandSupport with Description",
     "description": "Add HelpandSupport with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "HelpandSupport(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2466,6 +2774,7 @@
   "IdentityGovernance": {
     "prefix": "IdentityGovernance",
     "description": "Add IdentityGovernance to diagram",
+    "scope": "plantuml",
     "body": [
       "IdentityGovernance(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2474,6 +2783,7 @@
   "IdentityGovernance_Descr": {
     "prefix": "IdentityGovernance with Description",
     "description": "Add IdentityGovernance with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "IdentityGovernance(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2482,6 +2792,7 @@
   "Image": {
     "prefix": "Image",
     "description": "Add Image to diagram",
+    "scope": "plantuml",
     "body": [
       "Image(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2490,6 +2801,7 @@
   "Image_Descr": {
     "prefix": "Image with Description",
     "description": "Add Image with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Image(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2498,6 +2810,7 @@
   "ImageDefinitions": {
     "prefix": "ImageDefinitions",
     "description": "Add ImageDefinitions to diagram",
+    "scope": "plantuml",
     "body": [
       "ImageDefinitions(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2506,6 +2819,7 @@
   "ImageDefinitions_Descr": {
     "prefix": "ImageDefinitions with Description",
     "description": "Add ImageDefinitions with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ImageDefinitions(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2514,6 +2828,7 @@
   "Images": {
     "prefix": "Images",
     "description": "Add Images to diagram",
+    "scope": "plantuml",
     "body": [
       "Images(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2522,6 +2837,7 @@
   "Images_Descr": {
     "prefix": "Images with Description",
     "description": "Add Images with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Images(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2530,6 +2846,7 @@
   "ImageVersions": {
     "prefix": "ImageVersions",
     "description": "Add ImageVersions to diagram",
+    "scope": "plantuml",
     "body": [
       "ImageVersions(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2538,6 +2855,7 @@
   "ImageVersions_Descr": {
     "prefix": "ImageVersions with Description",
     "description": "Add ImageVersions with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ImageVersions(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2546,6 +2864,7 @@
   "ImportExportJobs": {
     "prefix": "ImportExportJobs",
     "description": "Add ImportExportJobs to diagram",
+    "scope": "plantuml",
     "body": [
       "ImportExportJobs(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2554,6 +2873,7 @@
   "ImportExportJobs_Descr": {
     "prefix": "ImportExportJobs with Description",
     "description": "Add ImportExportJobs with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ImportExportJobs(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2562,6 +2882,7 @@
   "Information": {
     "prefix": "Information",
     "description": "Add Information to diagram",
+    "scope": "plantuml",
     "body": [
       "Information(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2570,6 +2891,7 @@
   "Information_Descr": {
     "prefix": "Information with Description",
     "description": "Add Information with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Information(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2578,6 +2900,7 @@
   "InfrastructureBackup": {
     "prefix": "InfrastructureBackup",
     "description": "Add InfrastructureBackup to diagram",
+    "scope": "plantuml",
     "body": [
       "InfrastructureBackup(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2586,6 +2909,7 @@
   "InfrastructureBackup_Descr": {
     "prefix": "InfrastructureBackup with Description",
     "description": "Add InfrastructureBackup with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "InfrastructureBackup(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2594,6 +2918,7 @@
   "InputOutput": {
     "prefix": "InputOutput",
     "description": "Add InputOutput to diagram",
+    "scope": "plantuml",
     "body": [
       "InputOutput(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2602,6 +2927,7 @@
   "InputOutput_Descr": {
     "prefix": "InputOutput with Description",
     "description": "Add InputOutput with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "InputOutput(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2610,6 +2936,7 @@
   "InstancePools": {
     "prefix": "InstancePools",
     "description": "Add InstancePools to diagram",
+    "scope": "plantuml",
     "body": [
       "InstancePools(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2618,6 +2945,7 @@
   "InstancePools_Descr": {
     "prefix": "InstancePools with Description",
     "description": "Add InstancePools with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "InstancePools(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2626,6 +2954,7 @@
   "IntegrationAccounts": {
     "prefix": "IntegrationAccounts",
     "description": "Add IntegrationAccounts to diagram",
+    "scope": "plantuml",
     "body": [
       "IntegrationAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2634,6 +2963,7 @@
   "IntegrationAccounts_Descr": {
     "prefix": "IntegrationAccounts with Description",
     "description": "Add IntegrationAccounts with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "IntegrationAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2642,6 +2972,7 @@
   "InternetAnalyzerProfiles": {
     "prefix": "InternetAnalyzerProfiles",
     "description": "Add InternetAnalyzerProfiles to diagram",
+    "scope": "plantuml",
     "body": [
       "InternetAnalyzerProfiles(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2650,6 +2981,7 @@
   "InternetAnalyzerProfiles_Descr": {
     "prefix": "InternetAnalyzerProfiles with Description",
     "description": "Add InternetAnalyzerProfiles with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "InternetAnalyzerProfiles(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2658,6 +2990,7 @@
   "Intune": {
     "prefix": "Intune",
     "description": "Add Intune to diagram",
+    "scope": "plantuml",
     "body": [
       "Intune(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2666,6 +2999,7 @@
   "Intune_Descr": {
     "prefix": "Intune with Description",
     "description": "Add Intune with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Intune(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2674,6 +3008,7 @@
   "IntuneForEducation": {
     "prefix": "IntuneForEducation",
     "description": "Add IntuneForEducation to diagram",
+    "scope": "plantuml",
     "body": [
       "IntuneForEducation(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2682,6 +3017,7 @@
   "IntuneForEducation_Descr": {
     "prefix": "IntuneForEducation with Description",
     "description": "Add IntuneForEducation with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "IntuneForEducation(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2690,6 +3026,7 @@
   "IoTCentralApplications": {
     "prefix": "IoTCentralApplications",
     "description": "Add IoTCentralApplications to diagram",
+    "scope": "plantuml",
     "body": [
       "IoTCentralApplications(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2698,6 +3035,7 @@
   "IoTCentralApplications_Descr": {
     "prefix": "IoTCentralApplications with Description",
     "description": "Add IoTCentralApplications with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "IoTCentralApplications(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2706,6 +3044,7 @@
   "IoTEdge": {
     "prefix": "IoTEdge",
     "description": "Add IoTEdge to diagram",
+    "scope": "plantuml",
     "body": [
       "IoTEdge(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2714,6 +3053,7 @@
   "IoTEdge_Descr": {
     "prefix": "IoTEdge with Description",
     "description": "Add IoTEdge with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "IoTEdge(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2722,6 +3062,7 @@
   "IoTHub": {
     "prefix": "IoTHub",
     "description": "Add IoTHub to diagram",
+    "scope": "plantuml",
     "body": [
       "IoTHub(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2730,6 +3071,7 @@
   "IoTHub_Descr": {
     "prefix": "IoTHub with Description",
     "description": "Add IoTHub with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "IoTHub(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2738,6 +3080,7 @@
   "IPGroups": {
     "prefix": "IPGroups",
     "description": "Add IPGroups to diagram",
+    "scope": "plantuml",
     "body": [
       "IPGroups(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2746,6 +3089,7 @@
   "IPGroups_Descr": {
     "prefix": "IPGroups with Description",
     "description": "Add IPGroups with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "IPGroups(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2754,6 +3098,7 @@
   "JourneyHub": {
     "prefix": "JourneyHub",
     "description": "Add JourneyHub to diagram",
+    "scope": "plantuml",
     "body": [
       "JourneyHub(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2762,6 +3107,7 @@
   "JourneyHub_Descr": {
     "prefix": "JourneyHub with Description",
     "description": "Add JourneyHub with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "JourneyHub(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2770,6 +3116,7 @@
   "KeyVaults": {
     "prefix": "KeyVaults",
     "description": "Add KeyVaults to diagram",
+    "scope": "plantuml",
     "body": [
       "KeyVaults(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2778,6 +3125,7 @@
   "KeyVaults_Descr": {
     "prefix": "KeyVaults with Description",
     "description": "Add KeyVaults with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "KeyVaults(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2786,6 +3134,7 @@
   "KubernetesServices": {
     "prefix": "KubernetesServices",
     "description": "Add KubernetesServices to diagram",
+    "scope": "plantuml",
     "body": [
       "KubernetesServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2794,6 +3143,7 @@
   "KubernetesServices_Descr": {
     "prefix": "KubernetesServices with Description",
     "description": "Add KubernetesServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "KubernetesServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2802,6 +3152,7 @@
   "LabServices": {
     "prefix": "LabServices",
     "description": "Add LabServices to diagram",
+    "scope": "plantuml",
     "body": [
       "LabServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2810,6 +3161,7 @@
   "LabServices_Descr": {
     "prefix": "LabServices with Description",
     "description": "Add LabServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "LabServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2818,6 +3170,7 @@
   "LaunchPortal": {
     "prefix": "LaunchPortal",
     "description": "Add LaunchPortal to diagram",
+    "scope": "plantuml",
     "body": [
       "LaunchPortal(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2826,6 +3179,7 @@
   "LaunchPortal_Descr": {
     "prefix": "LaunchPortal with Description",
     "description": "Add LaunchPortal with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "LaunchPortal(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2834,6 +3188,7 @@
   "Learn": {
     "prefix": "Learn",
     "description": "Add Learn to diagram",
+    "scope": "plantuml",
     "body": [
       "Learn(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2842,6 +3197,7 @@
   "Learn_Descr": {
     "prefix": "Learn with Description",
     "description": "Add Learn with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Learn(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2850,6 +3206,7 @@
   "Lists": {
     "prefix": "Lists",
     "description": "Add Lists to diagram",
+    "scope": "plantuml",
     "body": [
       "Lists(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2858,6 +3215,7 @@
   "Lists_Descr": {
     "prefix": "Lists with Description",
     "description": "Add Lists with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Lists(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2866,6 +3224,7 @@
   "LoadBalancers": {
     "prefix": "LoadBalancers",
     "description": "Add LoadBalancers to diagram",
+    "scope": "plantuml",
     "body": [
       "LoadBalancers(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2874,6 +3233,7 @@
   "LoadBalancers_Descr": {
     "prefix": "LoadBalancers with Description",
     "description": "Add LoadBalancers with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "LoadBalancers(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2882,6 +3242,7 @@
   "LoadTest": {
     "prefix": "LoadTest",
     "description": "Add LoadTest to diagram",
+    "scope": "plantuml",
     "body": [
       "LoadTest(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2890,6 +3251,7 @@
   "LoadTest_Descr": {
     "prefix": "LoadTest with Description",
     "description": "Add LoadTest with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "LoadTest(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2898,6 +3260,7 @@
   "LocalNetworkGateways": {
     "prefix": "LocalNetworkGateways",
     "description": "Add LocalNetworkGateways to diagram",
+    "scope": "plantuml",
     "body": [
       "LocalNetworkGateways(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2906,6 +3269,7 @@
   "LocalNetworkGateways_Descr": {
     "prefix": "LocalNetworkGateways with Description",
     "description": "Add LocalNetworkGateways with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "LocalNetworkGateways(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2914,6 +3278,7 @@
   "Location": {
     "prefix": "Location",
     "description": "Add Location to diagram",
+    "scope": "plantuml",
     "body": [
       "Location(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2922,6 +3287,7 @@
   "Location_Descr": {
     "prefix": "Location with Description",
     "description": "Add Location with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Location(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2930,6 +3296,7 @@
   "LogAnalyticsWorkspaces": {
     "prefix": "LogAnalyticsWorkspaces",
     "description": "Add LogAnalyticsWorkspaces to diagram",
+    "scope": "plantuml",
     "body": [
       "LogAnalyticsWorkspaces(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2938,6 +3305,7 @@
   "LogAnalyticsWorkspaces_Descr": {
     "prefix": "LogAnalyticsWorkspaces with Description",
     "description": "Add LogAnalyticsWorkspaces with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "LogAnalyticsWorkspaces(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2946,6 +3314,7 @@
   "LogicApps": {
     "prefix": "LogicApps",
     "description": "Add LogicApps to diagram",
+    "scope": "plantuml",
     "body": [
       "LogicApps(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2954,6 +3323,7 @@
   "LogicApps_Descr": {
     "prefix": "LogicApps with Description",
     "description": "Add LogicApps with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "LogicApps(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2962,6 +3332,7 @@
   "LogStreaming": {
     "prefix": "LogStreaming",
     "description": "Add LogStreaming to diagram",
+    "scope": "plantuml",
     "body": [
       "LogStreaming(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2970,6 +3341,7 @@
   "LogStreaming_Descr": {
     "prefix": "LogStreaming with Description",
     "description": "Add LogStreaming with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "LogStreaming(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2978,6 +3350,7 @@
   "MachineLearningStudioClassicWebServices": {
     "prefix": "MachineLearningStudioClassicWebServices",
     "description": "Add MachineLearningStudioClassicWebServices to diagram",
+    "scope": "plantuml",
     "body": [
       "MachineLearningStudioClassicWebServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -2986,6 +3359,7 @@
   "MachineLearningStudioClassicWebServices_Descr": {
     "prefix": "MachineLearningStudioClassicWebServices with Description",
     "description": "Add MachineLearningStudioClassicWebServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MachineLearningStudioClassicWebServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -2994,6 +3368,7 @@
   "MachineLearningStudioWebServicePlans": {
     "prefix": "MachineLearningStudioWebServicePlans",
     "description": "Add MachineLearningStudioWebServicePlans to diagram",
+    "scope": "plantuml",
     "body": [
       "MachineLearningStudioWebServicePlans(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3002,6 +3377,7 @@
   "MachineLearningStudioWebServicePlans_Descr": {
     "prefix": "MachineLearningStudioWebServicePlans with Description",
     "description": "Add MachineLearningStudioWebServicePlans with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MachineLearningStudioWebServicePlans(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3010,6 +3386,7 @@
   "MachineLearningStudioWorkspaces": {
     "prefix": "MachineLearningStudioWorkspaces",
     "description": "Add MachineLearningStudioWorkspaces to diagram",
+    "scope": "plantuml",
     "body": [
       "MachineLearningStudioWorkspaces(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3018,6 +3395,7 @@
   "MachineLearningStudioWorkspaces_Descr": {
     "prefix": "MachineLearningStudioWorkspaces with Description",
     "description": "Add MachineLearningStudioWorkspaces with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MachineLearningStudioWorkspaces(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3026,6 +3404,7 @@
   "MachinesAzureArc": {
     "prefix": "MachinesAzureArc",
     "description": "Add MachinesAzureArc to diagram",
+    "scope": "plantuml",
     "body": [
       "MachinesAzureArc(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3034,6 +3413,7 @@
   "MachinesAzureArc_Descr": {
     "prefix": "MachinesAzureArc with Description",
     "description": "Add MachinesAzureArc with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MachinesAzureArc(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3042,6 +3422,7 @@
   "ManagedApplicationsCenter": {
     "prefix": "ManagedApplicationsCenter",
     "description": "Add ManagedApplicationsCenter to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagedApplicationsCenter(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3050,6 +3431,7 @@
   "ManagedApplicationsCenter_Descr": {
     "prefix": "ManagedApplicationsCenter with Description",
     "description": "Add ManagedApplicationsCenter with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagedApplicationsCenter(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3058,6 +3440,7 @@
   "ManagedDatabase": {
     "prefix": "ManagedDatabase",
     "description": "Add ManagedDatabase to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagedDatabase(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3066,6 +3449,7 @@
   "ManagedDatabase_Descr": {
     "prefix": "ManagedDatabase with Description",
     "description": "Add ManagedDatabase with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagedDatabase(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3074,6 +3458,7 @@
   "ManagedIdentities": {
     "prefix": "ManagedIdentities",
     "description": "Add ManagedIdentities to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagedIdentities(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3082,6 +3467,7 @@
   "ManagedIdentities_Descr": {
     "prefix": "ManagedIdentities with Description",
     "description": "Add ManagedIdentities with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagedIdentities(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3090,6 +3476,7 @@
   "ManagementGroups": {
     "prefix": "ManagementGroups",
     "description": "Add ManagementGroups to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagementGroups(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3098,6 +3485,7 @@
   "ManagementGroups_Descr": {
     "prefix": "ManagementGroups with Description",
     "description": "Add ManagementGroups with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagementGroups(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3106,6 +3494,7 @@
   "ManagementPortal": {
     "prefix": "ManagementPortal",
     "description": "Add ManagementPortal to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagementPortal(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3114,6 +3503,7 @@
   "ManagementPortal_Descr": {
     "prefix": "ManagementPortal with Description",
     "description": "Add ManagementPortal with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ManagementPortal(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3122,6 +3512,7 @@
   "Marketplace": {
     "prefix": "Marketplace",
     "description": "Add Marketplace to diagram",
+    "scope": "plantuml",
     "body": [
       "Marketplace(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3130,6 +3521,7 @@
   "Marketplace_Descr": {
     "prefix": "Marketplace with Description",
     "description": "Add Marketplace with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Marketplace(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3138,6 +3530,7 @@
   "Media": {
     "prefix": "Media",
     "description": "Add Media to diagram",
+    "scope": "plantuml",
     "body": [
       "Media(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3146,6 +3539,7 @@
   "Media_Descr": {
     "prefix": "Media with Description",
     "description": "Add Media with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Media(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3154,6 +3548,7 @@
   "MediaFile": {
     "prefix": "MediaFile",
     "description": "Add MediaFile to diagram",
+    "scope": "plantuml",
     "body": [
       "MediaFile(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3162,6 +3557,7 @@
   "MediaFile_Descr": {
     "prefix": "MediaFile with Description",
     "description": "Add MediaFile with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MediaFile(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3170,6 +3566,7 @@
   "MeshApplications": {
     "prefix": "MeshApplications",
     "description": "Add MeshApplications to diagram",
+    "scope": "plantuml",
     "body": [
       "MeshApplications(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3178,6 +3575,7 @@
   "MeshApplications_Descr": {
     "prefix": "MeshApplications with Description",
     "description": "Add MeshApplications with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MeshApplications(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3186,6 +3584,7 @@
   "Metrics": {
     "prefix": "Metrics",
     "description": "Add Metrics to diagram",
+    "scope": "plantuml",
     "body": [
       "Metrics(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3194,6 +3593,7 @@
   "Metrics_Descr": {
     "prefix": "Metrics with Description",
     "description": "Add Metrics with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Metrics(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3202,6 +3602,7 @@
   "Mobile": {
     "prefix": "Mobile",
     "description": "Add Mobile to diagram",
+    "scope": "plantuml",
     "body": [
       "Mobile(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3210,6 +3611,7 @@
   "Mobile_Descr": {
     "prefix": "Mobile with Description",
     "description": "Add Mobile with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Mobile(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3218,6 +3620,7 @@
   "MobileEngagement": {
     "prefix": "MobileEngagement",
     "description": "Add MobileEngagement to diagram",
+    "scope": "plantuml",
     "body": [
       "MobileEngagement(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3226,6 +3629,7 @@
   "MobileEngagement_Descr": {
     "prefix": "MobileEngagement with Description",
     "description": "Add MobileEngagement with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MobileEngagement(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3234,6 +3638,7 @@
   "Module": {
     "prefix": "Module",
     "description": "Add Module to diagram",
+    "scope": "plantuml",
     "body": [
       "Module(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3242,6 +3647,7 @@
   "Module_Descr": {
     "prefix": "Module with Description",
     "description": "Add Module with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Module(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3250,6 +3656,7 @@
   "Monitor": {
     "prefix": "Monitor",
     "description": "Add Monitor to diagram",
+    "scope": "plantuml",
     "body": [
       "Monitor(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3258,6 +3665,7 @@
   "Monitor_Descr": {
     "prefix": "Monitor with Description",
     "description": "Add Monitor with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Monitor(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3266,6 +3674,7 @@
   "MultiTenancy": {
     "prefix": "MultiTenancy",
     "description": "Add MultiTenancy to diagram",
+    "scope": "plantuml",
     "body": [
       "MultiTenancy(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3274,6 +3683,7 @@
   "MultiTenancy_Descr": {
     "prefix": "MultiTenancy with Description",
     "description": "Add MultiTenancy with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MultiTenancy(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3282,6 +3692,7 @@
   "MyCustomers": {
     "prefix": "MyCustomers",
     "description": "Add MyCustomers to diagram",
+    "scope": "plantuml",
     "body": [
       "MyCustomers(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3290,6 +3701,7 @@
   "MyCustomers_Descr": {
     "prefix": "MyCustomers with Description",
     "description": "Add MyCustomers with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "MyCustomers(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3298,6 +3710,7 @@
   "NAT": {
     "prefix": "NAT",
     "description": "Add NAT to diagram",
+    "scope": "plantuml",
     "body": [
       "NAT(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3306,6 +3719,7 @@
   "NAT_Descr": {
     "prefix": "NAT with Description",
     "description": "Add NAT with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "NAT(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3314,6 +3728,7 @@
   "NetworkInterfaces": {
     "prefix": "NetworkInterfaces",
     "description": "Add NetworkInterfaces to diagram",
+    "scope": "plantuml",
     "body": [
       "NetworkInterfaces(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3322,6 +3737,7 @@
   "NetworkInterfaces_Descr": {
     "prefix": "NetworkInterfaces with Description",
     "description": "Add NetworkInterfaces with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "NetworkInterfaces(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3330,6 +3746,7 @@
   "NetworkSecurityGroups": {
     "prefix": "NetworkSecurityGroups",
     "description": "Add NetworkSecurityGroups to diagram",
+    "scope": "plantuml",
     "body": [
       "NetworkSecurityGroups(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3338,6 +3755,7 @@
   "NetworkSecurityGroups_Descr": {
     "prefix": "NetworkSecurityGroups with Description",
     "description": "Add NetworkSecurityGroups with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "NetworkSecurityGroups(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3346,6 +3764,7 @@
   "NetworkWatcher": {
     "prefix": "NetworkWatcher",
     "description": "Add NetworkWatcher to diagram",
+    "scope": "plantuml",
     "body": [
       "NetworkWatcher(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3354,6 +3773,7 @@
   "NetworkWatcher_Descr": {
     "prefix": "NetworkWatcher with Description",
     "description": "Add NetworkWatcher with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "NetworkWatcher(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3362,6 +3782,7 @@
   "NotificationHubNamespaces": {
     "prefix": "NotificationHubNamespaces",
     "description": "Add NotificationHubNamespaces to diagram",
+    "scope": "plantuml",
     "body": [
       "NotificationHubNamespaces(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3370,6 +3791,7 @@
   "NotificationHubNamespaces_Descr": {
     "prefix": "NotificationHubNamespaces with Description",
     "description": "Add NotificationHubNamespaces with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "NotificationHubNamespaces(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3378,6 +3800,7 @@
   "NotificationHubs": {
     "prefix": "NotificationHubs",
     "description": "Add NotificationHubs to diagram",
+    "scope": "plantuml",
     "body": [
       "NotificationHubs(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3386,6 +3809,7 @@
   "NotificationHubs_Descr": {
     "prefix": "NotificationHubs with Description",
     "description": "Add NotificationHubs with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "NotificationHubs(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3394,6 +3818,7 @@
   "Offers": {
     "prefix": "Offers",
     "description": "Add Offers to diagram",
+    "scope": "plantuml",
     "body": [
       "Offers(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3402,6 +3827,7 @@
   "Offers_Descr": {
     "prefix": "Offers with Description",
     "description": "Add Offers with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Offers(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3410,6 +3836,7 @@
   "OneDrive": {
     "prefix": "OneDrive",
     "description": "Add OneDrive to diagram",
+    "scope": "plantuml",
     "body": [
       "OneDrive(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3418,6 +3845,7 @@
   "OneDrive_Descr": {
     "prefix": "OneDrive with Description",
     "description": "Add OneDrive with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "OneDrive(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3426,6 +3854,7 @@
   "OperationLogClassic": {
     "prefix": "OperationLogClassic",
     "description": "Add OperationLogClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "OperationLogClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3434,6 +3863,7 @@
   "OperationLogClassic_Descr": {
     "prefix": "OperationLogClassic with Description",
     "description": "Add OperationLogClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "OperationLogClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3442,6 +3872,7 @@
   "OSImagesClassic": {
     "prefix": "OSImagesClassic",
     "description": "Add OSImagesClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "OSImagesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3450,6 +3881,7 @@
   "OSImagesClassic_Descr": {
     "prefix": "OSImagesClassic with Description",
     "description": "Add OSImagesClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "OSImagesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3458,6 +3890,7 @@
   "OutboundConnection": {
     "prefix": "OutboundConnection",
     "description": "Add OutboundConnection to diagram",
+    "scope": "plantuml",
     "body": [
       "OutboundConnection(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3466,6 +3899,7 @@
   "OutboundConnection_Descr": {
     "prefix": "OutboundConnection with Description",
     "description": "Add OutboundConnection with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "OutboundConnection(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3474,6 +3908,7 @@
   "PartnerTopic": {
     "prefix": "PartnerTopic",
     "description": "Add PartnerTopic to diagram",
+    "scope": "plantuml",
     "body": [
       "PartnerTopic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3482,6 +3917,7 @@
   "PartnerTopic_Descr": {
     "prefix": "PartnerTopic with Description",
     "description": "Add PartnerTopic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PartnerTopic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3490,6 +3926,7 @@
   "PeeringService": {
     "prefix": "PeeringService",
     "description": "Add PeeringService to diagram",
+    "scope": "plantuml",
     "body": [
       "PeeringService(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3498,6 +3935,7 @@
   "PeeringService_Descr": {
     "prefix": "PeeringService with Description",
     "description": "Add PeeringService with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PeeringService(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3506,6 +3944,7 @@
   "Plannersvg": {
     "prefix": "Plannersvg",
     "description": "Add Plannersvg to diagram",
+    "scope": "plantuml",
     "body": [
       "Plannersvg(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3514,6 +3953,7 @@
   "Plannersvg_Descr": {
     "prefix": "Plannersvg with Description",
     "description": "Add Plannersvg with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Plannersvg(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3522,6 +3962,7 @@
   "Plans": {
     "prefix": "Plans",
     "description": "Add Plans to diagram",
+    "scope": "plantuml",
     "body": [
       "Plans(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3530,6 +3971,7 @@
   "Plans_Descr": {
     "prefix": "Plans with Description",
     "description": "Add Plans with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Plans(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3538,6 +3980,7 @@
   "Policy": {
     "prefix": "Policy",
     "description": "Add Policy to diagram",
+    "scope": "plantuml",
     "body": [
       "Policy(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3546,6 +3989,7 @@
   "Policy_Descr": {
     "prefix": "Policy with Description",
     "description": "Add Policy with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Policy(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3554,6 +3998,7 @@
   "Power": {
     "prefix": "Power",
     "description": "Add Power to diagram",
+    "scope": "plantuml",
     "body": [
       "Power(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3562,6 +4007,7 @@
   "Power_Descr": {
     "prefix": "Power with Description",
     "description": "Add Power with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Power(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3570,6 +4016,7 @@
   "PowerApps": {
     "prefix": "PowerApps",
     "description": "Add PowerApps to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerApps(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3578,6 +4025,7 @@
   "PowerApps_Descr": {
     "prefix": "PowerApps with Description",
     "description": "Add PowerApps with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerApps(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3586,6 +4034,7 @@
   "PowerAutomate": {
     "prefix": "PowerAutomate",
     "description": "Add PowerAutomate to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerAutomate(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3594,6 +4043,7 @@
   "PowerAutomate_Descr": {
     "prefix": "PowerAutomate with Description",
     "description": "Add PowerAutomate with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerAutomate(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3602,6 +4052,7 @@
   "PowerBI": {
     "prefix": "PowerBI",
     "description": "Add PowerBI to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerBI(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3610,6 +4061,7 @@
   "PowerBI_Descr": {
     "prefix": "PowerBI with Description",
     "description": "Add PowerBI with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerBI(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3618,6 +4070,7 @@
   "Powershell": {
     "prefix": "Powershell",
     "description": "Add Powershell to diagram",
+    "scope": "plantuml",
     "body": [
       "Powershell(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3626,6 +4079,7 @@
   "Powershell_Descr": {
     "prefix": "Powershell with Description",
     "description": "Add Powershell with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Powershell(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3634,6 +4088,7 @@
   "PowerUp": {
     "prefix": "PowerUp",
     "description": "Add PowerUp to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerUp(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3642,6 +4097,7 @@
   "PowerUp_Descr": {
     "prefix": "PowerUp with Description",
     "description": "Add PowerUp with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerUp(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3650,6 +4106,7 @@
   "PowerVirtualAgents": {
     "prefix": "PowerVirtualAgents",
     "description": "Add PowerVirtualAgents to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerVirtualAgents(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3658,6 +4115,7 @@
   "PowerVirtualAgents_Descr": {
     "prefix": "PowerVirtualAgents with Description",
     "description": "Add PowerVirtualAgents with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PowerVirtualAgents(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3666,6 +4124,7 @@
   "Preview": {
     "prefix": "Preview",
     "description": "Add Preview to diagram",
+    "scope": "plantuml",
     "body": [
       "Preview(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3674,6 +4133,7 @@
   "Preview_Descr": {
     "prefix": "Preview with Description",
     "description": "Add Preview with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Preview(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3682,6 +4142,7 @@
   "PrivateLink": {
     "prefix": "PrivateLink",
     "description": "Add PrivateLink to diagram",
+    "scope": "plantuml",
     "body": [
       "PrivateLink(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3690,6 +4151,7 @@
   "PrivateLink_Descr": {
     "prefix": "PrivateLink with Description",
     "description": "Add PrivateLink with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PrivateLink(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3698,6 +4160,7 @@
   "PrivateLinkHub": {
     "prefix": "PrivateLinkHub",
     "description": "Add PrivateLinkHub to diagram",
+    "scope": "plantuml",
     "body": [
       "PrivateLinkHub(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3706,6 +4169,7 @@
   "PrivateLinkHub_Descr": {
     "prefix": "PrivateLinkHub with Description",
     "description": "Add PrivateLinkHub with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PrivateLinkHub(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3714,6 +4178,7 @@
   "PrivateLinkService": {
     "prefix": "PrivateLinkService",
     "description": "Add PrivateLinkService to diagram",
+    "scope": "plantuml",
     "body": [
       "PrivateLinkService(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3722,6 +4187,7 @@
   "PrivateLinkService_Descr": {
     "prefix": "PrivateLinkService with Description",
     "description": "Add PrivateLinkService with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PrivateLinkService(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3730,6 +4196,7 @@
   "ProcessExplorer": {
     "prefix": "ProcessExplorer",
     "description": "Add ProcessExplorer to diagram",
+    "scope": "plantuml",
     "body": [
       "ProcessExplorer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3738,6 +4205,7 @@
   "ProcessExplorer_Descr": {
     "prefix": "ProcessExplorer with Description",
     "description": "Add ProcessExplorer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ProcessExplorer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3746,6 +4214,7 @@
   "ProductionReadyDatabase": {
     "prefix": "ProductionReadyDatabase",
     "description": "Add ProductionReadyDatabase to diagram",
+    "scope": "plantuml",
     "body": [
       "ProductionReadyDatabase(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3754,6 +4223,7 @@
   "ProductionReadyDatabase_Descr": {
     "prefix": "ProductionReadyDatabase with Description",
     "description": "Add ProductionReadyDatabase with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ProductionReadyDatabase(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3762,6 +4232,7 @@
   "ProximityPlacementGroups": {
     "prefix": "ProximityPlacementGroups",
     "description": "Add ProximityPlacementGroups to diagram",
+    "scope": "plantuml",
     "body": [
       "ProximityPlacementGroups(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3770,6 +4241,7 @@
   "ProximityPlacementGroups_Descr": {
     "prefix": "ProximityPlacementGroups with Description",
     "description": "Add ProximityPlacementGroups with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ProximityPlacementGroups(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3778,6 +4250,7 @@
   "PublicIPAddresses": {
     "prefix": "PublicIPAddresses",
     "description": "Add PublicIPAddresses to diagram",
+    "scope": "plantuml",
     "body": [
       "PublicIPAddresses(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3786,6 +4259,7 @@
   "PublicIPAddresses_Descr": {
     "prefix": "PublicIPAddresses with Description",
     "description": "Add PublicIPAddresses with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PublicIPAddresses(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3794,6 +4268,7 @@
   "PublicIPAddressesClassic": {
     "prefix": "PublicIPAddressesClassic",
     "description": "Add PublicIPAddressesClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "PublicIPAddressesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3802,6 +4277,7 @@
   "PublicIPAddressesClassic_Descr": {
     "prefix": "PublicIPAddressesClassic with Description",
     "description": "Add PublicIPAddressesClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PublicIPAddressesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3810,6 +4286,7 @@
   "PublicIPPrefixes": {
     "prefix": "PublicIPPrefixes",
     "description": "Add PublicIPPrefixes to diagram",
+    "scope": "plantuml",
     "body": [
       "PublicIPPrefixes(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3818,6 +4295,7 @@
   "PublicIPPrefixes_Descr": {
     "prefix": "PublicIPPrefixes with Description",
     "description": "Add PublicIPPrefixes with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "PublicIPPrefixes(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3826,6 +4304,7 @@
   "QuickstartCenter": {
     "prefix": "QuickstartCenter",
     "description": "Add QuickstartCenter to diagram",
+    "scope": "plantuml",
     "body": [
       "QuickstartCenter(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3834,6 +4313,7 @@
   "QuickstartCenter_Descr": {
     "prefix": "QuickstartCenter with Description",
     "description": "Add QuickstartCenter with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "QuickstartCenter(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3842,6 +4322,7 @@
   "Raw": {
     "prefix": "Raw",
     "description": "Add Raw to diagram",
+    "scope": "plantuml",
     "body": [
       "Raw(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3850,6 +4331,7 @@
   "Raw_Descr": {
     "prefix": "Raw with Description",
     "description": "Add Raw with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Raw(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3858,6 +4340,7 @@
   "Recent": {
     "prefix": "Recent",
     "description": "Add Recent to diagram",
+    "scope": "plantuml",
     "body": [
       "Recent(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3866,6 +4349,7 @@
   "Recent_Descr": {
     "prefix": "Recent with Description",
     "description": "Add Recent with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Recent(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3874,6 +4358,7 @@
   "RecoveryServicesVaults": {
     "prefix": "RecoveryServicesVaults",
     "description": "Add RecoveryServicesVaults to diagram",
+    "scope": "plantuml",
     "body": [
       "RecoveryServicesVaults(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3882,6 +4367,7 @@
   "RecoveryServicesVaults_Descr": {
     "prefix": "RecoveryServicesVaults with Description",
     "description": "Add RecoveryServicesVaults with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "RecoveryServicesVaults(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3890,6 +4376,7 @@
   "Relays": {
     "prefix": "Relays",
     "description": "Add Relays to diagram",
+    "scope": "plantuml",
     "body": [
       "Relays(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3898,6 +4385,7 @@
   "Relays_Descr": {
     "prefix": "Relays with Description",
     "description": "Add Relays with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Relays(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3906,6 +4394,7 @@
   "RemoteRendering": {
     "prefix": "RemoteRendering",
     "description": "Add RemoteRendering to diagram",
+    "scope": "plantuml",
     "body": [
       "RemoteRendering(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3914,6 +4403,7 @@
   "RemoteRendering_Descr": {
     "prefix": "RemoteRendering with Description",
     "description": "Add RemoteRendering with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "RemoteRendering(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3922,6 +4412,7 @@
   "Reservations": {
     "prefix": "Reservations",
     "description": "Add Reservations to diagram",
+    "scope": "plantuml",
     "body": [
       "Reservations(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3930,6 +4421,7 @@
   "Reservations_Descr": {
     "prefix": "Reservations with Description",
     "description": "Add Reservations with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Reservations(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3938,6 +4430,7 @@
   "ReservedIPAddressesClassic": {
     "prefix": "ReservedIPAddressesClassic",
     "description": "Add ReservedIPAddressesClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "ReservedIPAddressesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3946,6 +4439,7 @@
   "ReservedIPAddressesClassic_Descr": {
     "prefix": "ReservedIPAddressesClassic with Description",
     "description": "Add ReservedIPAddressesClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ReservedIPAddressesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3954,6 +4448,7 @@
   "ResourceExplorer": {
     "prefix": "ResourceExplorer",
     "description": "Add ResourceExplorer to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceExplorer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3962,6 +4457,7 @@
   "ResourceExplorer_Descr": {
     "prefix": "ResourceExplorer with Description",
     "description": "Add ResourceExplorer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceExplorer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3970,6 +4466,7 @@
   "ResourceGraphExplorer": {
     "prefix": "ResourceGraphExplorer",
     "description": "Add ResourceGraphExplorer to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceGraphExplorer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3978,6 +4475,7 @@
   "ResourceGraphExplorer_Descr": {
     "prefix": "ResourceGraphExplorer with Description",
     "description": "Add ResourceGraphExplorer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceGraphExplorer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -3986,6 +4484,7 @@
   "ResourceGroupList": {
     "prefix": "ResourceGroupList",
     "description": "Add ResourceGroupList to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceGroupList(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -3994,6 +4493,7 @@
   "ResourceGroupList_Descr": {
     "prefix": "ResourceGroupList with Description",
     "description": "Add ResourceGroupList with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceGroupList(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4002,6 +4502,7 @@
   "ResourceGroups": {
     "prefix": "ResourceGroups",
     "description": "Add ResourceGroups to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceGroups(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4010,6 +4511,7 @@
   "ResourceGroups_Descr": {
     "prefix": "ResourceGroups with Description",
     "description": "Add ResourceGroups with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceGroups(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4018,6 +4520,7 @@
   "ResourceLinked": {
     "prefix": "ResourceLinked",
     "description": "Add ResourceLinked to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceLinked(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4026,6 +4529,7 @@
   "ResourceLinked_Descr": {
     "prefix": "ResourceLinked with Description",
     "description": "Add ResourceLinked with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceLinked(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4034,6 +4538,7 @@
   "ResourceMover": {
     "prefix": "ResourceMover",
     "description": "Add ResourceMover to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceMover(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4042,6 +4547,7 @@
   "ResourceMover_Descr": {
     "prefix": "ResourceMover with Description",
     "description": "Add ResourceMover with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ResourceMover(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4050,6 +4556,7 @@
   "RouteFilters": {
     "prefix": "RouteFilters",
     "description": "Add RouteFilters to diagram",
+    "scope": "plantuml",
     "body": [
       "RouteFilters(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4058,6 +4565,7 @@
   "RouteFilters_Descr": {
     "prefix": "RouteFilters with Description",
     "description": "Add RouteFilters with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "RouteFilters(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4066,6 +4574,7 @@
   "RouteTables": {
     "prefix": "RouteTables",
     "description": "Add RouteTables to diagram",
+    "scope": "plantuml",
     "body": [
       "RouteTables(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4074,6 +4583,7 @@
   "RouteTables_Descr": {
     "prefix": "RouteTables with Description",
     "description": "Add RouteTables with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "RouteTables(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4082,6 +4592,7 @@
   "RTOS": {
     "prefix": "RTOS",
     "description": "Add RTOS to diagram",
+    "scope": "plantuml",
     "body": [
       "RTOS(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4090,6 +4601,7 @@
   "RTOS_Descr": {
     "prefix": "RTOS with Description",
     "description": "Add RTOS with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "RTOS(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4098,6 +4610,7 @@
   "SAPAzureMonitor": {
     "prefix": "SAPAzureMonitor",
     "description": "Add SAPAzureMonitor to diagram",
+    "scope": "plantuml",
     "body": [
       "SAPAzureMonitor(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4106,6 +4619,7 @@
   "SAPAzureMonitor_Descr": {
     "prefix": "SAPAzureMonitor with Description",
     "description": "Add SAPAzureMonitor with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SAPAzureMonitor(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4114,6 +4628,7 @@
   "Scale": {
     "prefix": "Scale",
     "description": "Add Scale to diagram",
+    "scope": "plantuml",
     "body": [
       "Scale(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4122,6 +4637,7 @@
   "Scale_Descr": {
     "prefix": "Scale with Description",
     "description": "Add Scale with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Scale(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4130,6 +4646,7 @@
   "Scheduler": {
     "prefix": "Scheduler",
     "description": "Add Scheduler to diagram",
+    "scope": "plantuml",
     "body": [
       "Scheduler(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4138,6 +4655,7 @@
   "Scheduler_Descr": {
     "prefix": "Scheduler with Description",
     "description": "Add Scheduler with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Scheduler(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4146,6 +4664,7 @@
   "Search": {
     "prefix": "Search",
     "description": "Add Search to diagram",
+    "scope": "plantuml",
     "body": [
       "Search(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4154,6 +4673,7 @@
   "Search_Descr": {
     "prefix": "Search with Description",
     "description": "Add Search with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Search(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4162,6 +4682,7 @@
   "SearchGrid": {
     "prefix": "SearchGrid",
     "description": "Add SearchGrid to diagram",
+    "scope": "plantuml",
     "body": [
       "SearchGrid(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4170,6 +4691,7 @@
   "SearchGrid_Descr": {
     "prefix": "SearchGrid with Description",
     "description": "Add SearchGrid with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SearchGrid(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4178,6 +4700,7 @@
   "SearchServices": {
     "prefix": "SearchServices",
     "description": "Add SearchServices to diagram",
+    "scope": "plantuml",
     "body": [
       "SearchServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4186,6 +4709,7 @@
   "SearchServices_Descr": {
     "prefix": "SearchServices with Description",
     "description": "Add SearchServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SearchServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4194,6 +4718,7 @@
   "SecurityCenter": {
     "prefix": "SecurityCenter",
     "description": "Add SecurityCenter to diagram",
+    "scope": "plantuml",
     "body": [
       "SecurityCenter(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4202,6 +4727,7 @@
   "SecurityCenter_Descr": {
     "prefix": "SecurityCenter with Description",
     "description": "Add SecurityCenter with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SecurityCenter(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4210,6 +4736,7 @@
   "ServerFarm": {
     "prefix": "ServerFarm",
     "description": "Add ServerFarm to diagram",
+    "scope": "plantuml",
     "body": [
       "ServerFarm(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4218,6 +4745,7 @@
   "ServerFarm_Descr": {
     "prefix": "ServerFarm with Description",
     "description": "Add ServerFarm with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ServerFarm(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4226,6 +4754,7 @@
   "ServiceBus": {
     "prefix": "ServiceBus",
     "description": "Add ServiceBus to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceBus(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4234,6 +4763,7 @@
   "ServiceBus_Descr": {
     "prefix": "ServiceBus with Description",
     "description": "Add ServiceBus with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceBus(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4242,6 +4772,7 @@
   "ServiceEndpointPolicies": {
     "prefix": "ServiceEndpointPolicies",
     "description": "Add ServiceEndpointPolicies to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceEndpointPolicies(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4250,6 +4781,7 @@
   "ServiceEndpointPolicies_Descr": {
     "prefix": "ServiceEndpointPolicies with Description",
     "description": "Add ServiceEndpointPolicies with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceEndpointPolicies(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4258,6 +4790,7 @@
   "ServiceFabricClusters": {
     "prefix": "ServiceFabricClusters",
     "description": "Add ServiceFabricClusters to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceFabricClusters(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4266,6 +4799,7 @@
   "ServiceFabricClusters_Descr": {
     "prefix": "ServiceFabricClusters with Description",
     "description": "Add ServiceFabricClusters with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceFabricClusters(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4274,6 +4808,7 @@
   "ServiceHealth": {
     "prefix": "ServiceHealth",
     "description": "Add ServiceHealth to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceHealth(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4282,6 +4817,7 @@
   "ServiceHealth_Descr": {
     "prefix": "ServiceHealth with Description",
     "description": "Add ServiceHealth with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceHealth(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4290,6 +4826,7 @@
   "ServiceProviders": {
     "prefix": "ServiceProviders",
     "description": "Add ServiceProviders to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceProviders(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4298,6 +4835,7 @@
   "ServiceProviders_Descr": {
     "prefix": "ServiceProviders with Description",
     "description": "Add ServiceProviders with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ServiceProviders(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4306,6 +4844,7 @@
   "SharedImageGalleries": {
     "prefix": "SharedImageGalleries",
     "description": "Add SharedImageGalleries to diagram",
+    "scope": "plantuml",
     "body": [
       "SharedImageGalleries(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4314,6 +4853,7 @@
   "SharedImageGalleries_Descr": {
     "prefix": "SharedImageGalleries with Description",
     "description": "Add SharedImageGalleries with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SharedImageGalleries(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4322,6 +4862,7 @@
   "SharePoint": {
     "prefix": "SharePoint",
     "description": "Add SharePoint to diagram",
+    "scope": "plantuml",
     "body": [
       "SharePoint(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4330,6 +4871,7 @@
   "SharePoint_Descr": {
     "prefix": "SharePoint with Description",
     "description": "Add SharePoint with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SharePoint(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4338,6 +4880,7 @@
   "Simplified": {
     "prefix": "Simplified",
     "description": "Add Simplified to diagram",
+    "scope": "plantuml",
     "body": [
       "Simplified(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4346,6 +4889,7 @@
   "Simplified_Descr": {
     "prefix": "Simplified with Description",
     "description": "Add Simplified with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Simplified(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4354,6 +4898,7 @@
   "SoftwareasaService": {
     "prefix": "SoftwareasaService",
     "description": "Add SoftwareasaService to diagram",
+    "scope": "plantuml",
     "body": [
       "SoftwareasaService(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4362,6 +4907,7 @@
   "SoftwareasaService_Descr": {
     "prefix": "SoftwareasaService with Description",
     "description": "Add SoftwareasaService with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SoftwareasaService(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4370,6 +4916,7 @@
   "Solutions": {
     "prefix": "Solutions",
     "description": "Add Solutions to diagram",
+    "scope": "plantuml",
     "body": [
       "Solutions(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4378,6 +4925,7 @@
   "Solutions_Descr": {
     "prefix": "Solutions with Description",
     "description": "Add Solutions with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Solutions(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4386,6 +4934,7 @@
   "SQLDatabase": {
     "prefix": "SQLDatabase",
     "description": "Add SQLDatabase to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLDatabase(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4394,6 +4943,7 @@
   "SQLDatabase_Descr": {
     "prefix": "SQLDatabase with Description",
     "description": "Add SQLDatabase with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLDatabase(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4402,6 +4952,7 @@
   "SQLDataWarehouses": {
     "prefix": "SQLDataWarehouses",
     "description": "Add SQLDataWarehouses to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLDataWarehouses(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4410,6 +4961,7 @@
   "SQLDataWarehouses_Descr": {
     "prefix": "SQLDataWarehouses with Description",
     "description": "Add SQLDataWarehouses with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLDataWarehouses(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4418,6 +4970,7 @@
   "SQLElasticPools": {
     "prefix": "SQLElasticPools",
     "description": "Add SQLElasticPools to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLElasticPools(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4426,6 +4979,7 @@
   "SQLElasticPools_Descr": {
     "prefix": "SQLElasticPools with Description",
     "description": "Add SQLElasticPools with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLElasticPools(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4434,6 +4988,7 @@
   "SQLManagedInstance": {
     "prefix": "SQLManagedInstance",
     "description": "Add SQLManagedInstance to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLManagedInstance(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4442,6 +4997,7 @@
   "SQLManagedInstance_Descr": {
     "prefix": "SQLManagedInstance with Description",
     "description": "Add SQLManagedInstance with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLManagedInstance(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4450,6 +5006,7 @@
   "SQLServer": {
     "prefix": "SQLServer",
     "description": "Add SQLServer to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLServer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4458,6 +5015,7 @@
   "SQLServer_Descr": {
     "prefix": "SQLServer with Description",
     "description": "Add SQLServer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SQLServer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4466,6 +5024,7 @@
   "SSD": {
     "prefix": "SSD",
     "description": "Add SSD to diagram",
+    "scope": "plantuml",
     "body": [
       "SSD(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4474,6 +5033,7 @@
   "SSD_Descr": {
     "prefix": "SSD with Description",
     "description": "Add SSD with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SSD(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4482,6 +5042,7 @@
   "SSHKeys": {
     "prefix": "SSHKeys",
     "description": "Add SSHKeys to diagram",
+    "scope": "plantuml",
     "body": [
       "SSHKeys(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4490,6 +5051,7 @@
   "SSHKeys_Descr": {
     "prefix": "SSHKeys with Description",
     "description": "Add SSHKeys with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SSHKeys(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4498,6 +5060,7 @@
   "SSISLiftAndShiftIR": {
     "prefix": "SSISLiftAndShiftIR",
     "description": "Add SSISLiftAndShiftIR to diagram",
+    "scope": "plantuml",
     "body": [
       "SSISLiftAndShiftIR(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4506,6 +5069,7 @@
   "SSISLiftAndShiftIR_Descr": {
     "prefix": "SSISLiftAndShiftIR with Description",
     "description": "Add SSISLiftAndShiftIR with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SSISLiftAndShiftIR(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4514,6 +5078,7 @@
   "StaticApps": {
     "prefix": "StaticApps",
     "description": "Add StaticApps to diagram",
+    "scope": "plantuml",
     "body": [
       "StaticApps(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4522,6 +5087,7 @@
   "StaticApps_Descr": {
     "prefix": "StaticApps with Description",
     "description": "Add StaticApps with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StaticApps(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4530,6 +5096,7 @@
   "StorageAccounts": {
     "prefix": "StorageAccounts",
     "description": "Add StorageAccounts to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4538,6 +5105,7 @@
   "StorageAccounts_Descr": {
     "prefix": "StorageAccounts with Description",
     "description": "Add StorageAccounts with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageAccounts(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4546,6 +5114,7 @@
   "StorageAccountsClassic": {
     "prefix": "StorageAccountsClassic",
     "description": "Add StorageAccountsClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageAccountsClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4554,6 +5123,7 @@
   "StorageAccountsClassic_Descr": {
     "prefix": "StorageAccountsClassic with Description",
     "description": "Add StorageAccountsClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageAccountsClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4562,6 +5132,7 @@
   "StorageAzureFiles": {
     "prefix": "StorageAzureFiles",
     "description": "Add StorageAzureFiles to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageAzureFiles(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4570,6 +5141,7 @@
   "StorageAzureFiles_Descr": {
     "prefix": "StorageAzureFiles with Description",
     "description": "Add StorageAzureFiles with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageAzureFiles(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4578,6 +5150,7 @@
   "StorageContainer": {
     "prefix": "StorageContainer",
     "description": "Add StorageContainer to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageContainer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4586,6 +5159,7 @@
   "StorageContainer_Descr": {
     "prefix": "StorageContainer with Description",
     "description": "Add StorageContainer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageContainer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4594,6 +5168,7 @@
   "StorageQueue": {
     "prefix": "StorageQueue",
     "description": "Add StorageQueue to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageQueue(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4602,6 +5177,7 @@
   "StorageQueue_Descr": {
     "prefix": "StorageQueue with Description",
     "description": "Add StorageQueue with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageQueue(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4610,6 +5186,7 @@
   "StorageSyncServices": {
     "prefix": "StorageSyncServices",
     "description": "Add StorageSyncServices to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageSyncServices(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4618,6 +5195,7 @@
   "StorageSyncServices_Descr": {
     "prefix": "StorageSyncServices with Description",
     "description": "Add StorageSyncServices with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StorageSyncServices(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4626,6 +5204,7 @@
   "StorSimpleDataManagers": {
     "prefix": "StorSimpleDataManagers",
     "description": "Add StorSimpleDataManagers to diagram",
+    "scope": "plantuml",
     "body": [
       "StorSimpleDataManagers(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4634,6 +5213,7 @@
   "StorSimpleDataManagers_Descr": {
     "prefix": "StorSimpleDataManagers with Description",
     "description": "Add StorSimpleDataManagers with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StorSimpleDataManagers(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4642,6 +5222,7 @@
   "StorSimpleDeviceManagers": {
     "prefix": "StorSimpleDeviceManagers",
     "description": "Add StorSimpleDeviceManagers to diagram",
+    "scope": "plantuml",
     "body": [
       "StorSimpleDeviceManagers(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4650,6 +5231,7 @@
   "StorSimpleDeviceManagers_Descr": {
     "prefix": "StorSimpleDeviceManagers with Description",
     "description": "Add StorSimpleDeviceManagers with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StorSimpleDeviceManagers(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4658,6 +5240,7 @@
   "StreamAnalyticsJobs": {
     "prefix": "StreamAnalyticsJobs",
     "description": "Add StreamAnalyticsJobs to diagram",
+    "scope": "plantuml",
     "body": [
       "StreamAnalyticsJobs(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4666,6 +5249,7 @@
   "StreamAnalyticsJobs_Descr": {
     "prefix": "StreamAnalyticsJobs with Description",
     "description": "Add StreamAnalyticsJobs with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "StreamAnalyticsJobs(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4674,6 +5258,7 @@
   "Subscriptions": {
     "prefix": "Subscriptions",
     "description": "Add Subscriptions to diagram",
+    "scope": "plantuml",
     "body": [
       "Subscriptions(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4682,6 +5267,7 @@
   "Subscriptions_Descr": {
     "prefix": "Subscriptions with Description",
     "description": "Add Subscriptions with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Subscriptions(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4690,6 +5276,7 @@
   "SystemTopic": {
     "prefix": "SystemTopic",
     "description": "Add SystemTopic to diagram",
+    "scope": "plantuml",
     "body": [
       "SystemTopic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4698,6 +5285,7 @@
   "SystemTopic_Descr": {
     "prefix": "SystemTopic with Description",
     "description": "Add SystemTopic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "SystemTopic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4706,6 +5294,7 @@
   "Table": {
     "prefix": "Table",
     "description": "Add Table to diagram",
+    "scope": "plantuml",
     "body": [
       "Table(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4714,6 +5303,7 @@
   "Table_Descr": {
     "prefix": "Table with Description",
     "description": "Add Table with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Table(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4722,6 +5312,7 @@
   "Tag": {
     "prefix": "Tag",
     "description": "Add Tag to diagram",
+    "scope": "plantuml",
     "body": [
       "Tag(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4730,6 +5321,7 @@
   "Tag_Descr": {
     "prefix": "Tag with Description",
     "description": "Add Tag with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Tag(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4738,6 +5330,7 @@
   "Tags": {
     "prefix": "Tags",
     "description": "Add Tags to diagram",
+    "scope": "plantuml",
     "body": [
       "Tags(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4746,6 +5339,7 @@
   "Tags_Descr": {
     "prefix": "Tags with Description",
     "description": "Add Tags with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Tags(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4754,6 +5348,7 @@
   "Teams": {
     "prefix": "Teams",
     "description": "Add Teams to diagram",
+    "scope": "plantuml",
     "body": [
       "Teams(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4762,6 +5357,7 @@
   "Teams_Descr": {
     "prefix": "Teams with Description",
     "description": "Add Teams with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Teams(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4770,6 +5366,7 @@
   "TemplateSpecs": {
     "prefix": "TemplateSpecs",
     "description": "Add TemplateSpecs to diagram",
+    "scope": "plantuml",
     "body": [
       "TemplateSpecs(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4778,6 +5375,7 @@
   "TemplateSpecs_Descr": {
     "prefix": "TemplateSpecs with Description",
     "description": "Add TemplateSpecs with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "TemplateSpecs(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4786,6 +5384,7 @@
   "TFSVCRepository": {
     "prefix": "TFSVCRepository",
     "description": "Add TFSVCRepository to diagram",
+    "scope": "plantuml",
     "body": [
       "TFSVCRepository(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4794,6 +5393,7 @@
   "TFSVCRepository_Descr": {
     "prefix": "TFSVCRepository with Description",
     "description": "Add TFSVCRepository with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "TFSVCRepository(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4802,6 +5402,7 @@
   "TimeSeriesDataSets": {
     "prefix": "TimeSeriesDataSets",
     "description": "Add TimeSeriesDataSets to diagram",
+    "scope": "plantuml",
     "body": [
       "TimeSeriesDataSets(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4810,6 +5411,7 @@
   "TimeSeriesDataSets_Descr": {
     "prefix": "TimeSeriesDataSets with Description",
     "description": "Add TimeSeriesDataSets with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "TimeSeriesDataSets(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4818,6 +5420,7 @@
   "TimeSeriesInsightsAccessPolicies": {
     "prefix": "TimeSeriesInsightsAccessPolicies",
     "description": "Add TimeSeriesInsightsAccessPolicies to diagram",
+    "scope": "plantuml",
     "body": [
       "TimeSeriesInsightsAccessPolicies(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4826,6 +5429,7 @@
   "TimeSeriesInsightsAccessPolicies_Descr": {
     "prefix": "TimeSeriesInsightsAccessPolicies with Description",
     "description": "Add TimeSeriesInsightsAccessPolicies with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "TimeSeriesInsightsAccessPolicies(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4834,6 +5438,7 @@
   "TimeSeriesInsightsEnvironments": {
     "prefix": "TimeSeriesInsightsEnvironments",
     "description": "Add TimeSeriesInsightsEnvironments to diagram",
+    "scope": "plantuml",
     "body": [
       "TimeSeriesInsightsEnvironments(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4842,6 +5447,7 @@
   "TimeSeriesInsightsEnvironments_Descr": {
     "prefix": "TimeSeriesInsightsEnvironments with Description",
     "description": "Add TimeSeriesInsightsEnvironments with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "TimeSeriesInsightsEnvironments(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4850,6 +5456,7 @@
   "TimeSeriesInsightsEventSources": {
     "prefix": "TimeSeriesInsightsEventSources",
     "description": "Add TimeSeriesInsightsEventSources to diagram",
+    "scope": "plantuml",
     "body": [
       "TimeSeriesInsightsEventSources(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4858,6 +5465,7 @@
   "TimeSeriesInsightsEventSources_Descr": {
     "prefix": "TimeSeriesInsightsEventSources with Description",
     "description": "Add TimeSeriesInsightsEventSources with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "TimeSeriesInsightsEventSources(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4866,6 +5474,7 @@
   "ToDo": {
     "prefix": "ToDo",
     "description": "Add ToDo to diagram",
+    "scope": "plantuml",
     "body": [
       "ToDo(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4874,6 +5483,7 @@
   "ToDo_Descr": {
     "prefix": "ToDo with Description",
     "description": "Add ToDo with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "ToDo(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4882,6 +5492,7 @@
   "Toolbox": {
     "prefix": "Toolbox",
     "description": "Add Toolbox to diagram",
+    "scope": "plantuml",
     "body": [
       "Toolbox(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4890,6 +5501,7 @@
   "Toolbox_Descr": {
     "prefix": "Toolbox with Description",
     "description": "Add Toolbox with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Toolbox(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4898,6 +5510,7 @@
   "TrafficManagerProfiles": {
     "prefix": "TrafficManagerProfiles",
     "description": "Add TrafficManagerProfiles to diagram",
+    "scope": "plantuml",
     "body": [
       "TrafficManagerProfiles(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4906,6 +5519,7 @@
   "TrafficManagerProfiles_Descr": {
     "prefix": "TrafficManagerProfiles with Description",
     "description": "Add TrafficManagerProfiles with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "TrafficManagerProfiles(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4914,6 +5528,7 @@
   "TranslatorText": {
     "prefix": "TranslatorText",
     "description": "Add TranslatorText to diagram",
+    "scope": "plantuml",
     "body": [
       "TranslatorText(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4922,6 +5537,7 @@
   "TranslatorText_Descr": {
     "prefix": "TranslatorText with Description",
     "description": "Add TranslatorText with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "TranslatorText(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4930,6 +5546,7 @@
   "UniversalPrint": {
     "prefix": "UniversalPrint",
     "description": "Add UniversalPrint to diagram",
+    "scope": "plantuml",
     "body": [
       "UniversalPrint(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4938,6 +5555,7 @@
   "UniversalPrint_Descr": {
     "prefix": "UniversalPrint with Description",
     "description": "Add UniversalPrint with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "UniversalPrint(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4946,6 +5564,7 @@
   "Updates": {
     "prefix": "Updates",
     "description": "Add Updates to diagram",
+    "scope": "plantuml",
     "body": [
       "Updates(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4954,6 +5573,7 @@
   "Updates_Descr": {
     "prefix": "Updates with Description",
     "description": "Add Updates with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Updates(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4962,6 +5582,7 @@
   "UserPrivacy": {
     "prefix": "UserPrivacy",
     "description": "Add UserPrivacy to diagram",
+    "scope": "plantuml",
     "body": [
       "UserPrivacy(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4970,6 +5591,7 @@
   "UserPrivacy_Descr": {
     "prefix": "UserPrivacy with Description",
     "description": "Add UserPrivacy with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "UserPrivacy(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4978,6 +5600,7 @@
   "Users": {
     "prefix": "Users",
     "description": "Add Users to diagram",
+    "scope": "plantuml",
     "body": [
       "Users(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -4986,6 +5609,7 @@
   "Users_Descr": {
     "prefix": "Users with Description",
     "description": "Add Users with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Users(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -4994,6 +5618,7 @@
   "UserSubscriptions": {
     "prefix": "UserSubscriptions",
     "description": "Add UserSubscriptions to diagram",
+    "scope": "plantuml",
     "body": [
       "UserSubscriptions(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5002,6 +5627,7 @@
   "UserSubscriptions_Descr": {
     "prefix": "UserSubscriptions with Description",
     "description": "Add UserSubscriptions with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "UserSubscriptions(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5010,6 +5636,7 @@
   "Versions": {
     "prefix": "Versions",
     "description": "Add Versions to diagram",
+    "scope": "plantuml",
     "body": [
       "Versions(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5018,6 +5645,7 @@
   "Versions_Descr": {
     "prefix": "Versions with Description",
     "description": "Add Versions with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Versions(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5026,6 +5654,7 @@
   "VirtualClusters": {
     "prefix": "VirtualClusters",
     "description": "Add VirtualClusters to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualClusters(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5034,6 +5663,7 @@
   "VirtualClusters_Descr": {
     "prefix": "VirtualClusters with Description",
     "description": "Add VirtualClusters with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualClusters(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5042,6 +5672,7 @@
   "VirtualMachine": {
     "prefix": "VirtualMachine",
     "description": "Add VirtualMachine to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualMachine(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5050,6 +5681,7 @@
   "VirtualMachine_Descr": {
     "prefix": "VirtualMachine with Description",
     "description": "Add VirtualMachine with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualMachine(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5058,6 +5690,7 @@
   "VirtualMachinesClassic": {
     "prefix": "VirtualMachinesClassic",
     "description": "Add VirtualMachinesClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualMachinesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5066,6 +5699,7 @@
   "VirtualMachinesClassic_Descr": {
     "prefix": "VirtualMachinesClassic with Description",
     "description": "Add VirtualMachinesClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualMachinesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5074,6 +5708,7 @@
   "VirtualNetworkGateways": {
     "prefix": "VirtualNetworkGateways",
     "description": "Add VirtualNetworkGateways to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualNetworkGateways(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5082,6 +5717,7 @@
   "VirtualNetworkGateways_Descr": {
     "prefix": "VirtualNetworkGateways with Description",
     "description": "Add VirtualNetworkGateways with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualNetworkGateways(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5090,6 +5726,7 @@
   "VirtualNetworks": {
     "prefix": "VirtualNetworks",
     "description": "Add VirtualNetworks to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualNetworks(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5098,6 +5735,7 @@
   "VirtualNetworks_Descr": {
     "prefix": "VirtualNetworks with Description",
     "description": "Add VirtualNetworks with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualNetworks(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5106,6 +5744,7 @@
   "VirtualNetworksClassic": {
     "prefix": "VirtualNetworksClassic",
     "description": "Add VirtualNetworksClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualNetworksClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5114,6 +5753,7 @@
   "VirtualNetworksClassic_Descr": {
     "prefix": "VirtualNetworksClassic with Description",
     "description": "Add VirtualNetworksClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualNetworksClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5122,6 +5762,7 @@
   "VirtualWANs": {
     "prefix": "VirtualWANs",
     "description": "Add VirtualWANs to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualWANs(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5130,6 +5771,7 @@
   "VirtualWANs_Descr": {
     "prefix": "VirtualWANs with Description",
     "description": "Add VirtualWANs with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VirtualWANs(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5138,6 +5780,7 @@
   "VMImagesClassic": {
     "prefix": "VMImagesClassic",
     "description": "Add VMImagesClassic to diagram",
+    "scope": "plantuml",
     "body": [
       "VMImagesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5146,6 +5789,7 @@
   "VMImagesClassic_Descr": {
     "prefix": "VMImagesClassic with Description",
     "description": "Add VMImagesClassic with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VMImagesClassic(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5154,6 +5798,7 @@
   "VMScaleSets": {
     "prefix": "VMScaleSets",
     "description": "Add VMScaleSets to diagram",
+    "scope": "plantuml",
     "body": [
       "VMScaleSets(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5162,6 +5807,7 @@
   "VMScaleSets_Descr": {
     "prefix": "VMScaleSets with Description",
     "description": "Add VMScaleSets with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "VMScaleSets(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5170,6 +5816,7 @@
   "WebApplicationFirewallPoliciesWAF": {
     "prefix": "WebApplicationFirewallPoliciesWAF",
     "description": "Add WebApplicationFirewallPoliciesWAF to diagram",
+    "scope": "plantuml",
     "body": [
       "WebApplicationFirewallPoliciesWAF(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5178,6 +5825,7 @@
   "WebApplicationFirewallPoliciesWAF_Descr": {
     "prefix": "WebApplicationFirewallPoliciesWAF with Description",
     "description": "Add WebApplicationFirewallPoliciesWAF with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "WebApplicationFirewallPoliciesWAF(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5186,6 +5834,7 @@
   "WebEnvironment": {
     "prefix": "WebEnvironment",
     "description": "Add WebEnvironment to diagram",
+    "scope": "plantuml",
     "body": [
       "WebEnvironment(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5194,6 +5843,7 @@
   "WebEnvironment_Descr": {
     "prefix": "WebEnvironment with Description",
     "description": "Add WebEnvironment with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "WebEnvironment(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5202,6 +5852,7 @@
   "WebsitePower": {
     "prefix": "WebsitePower",
     "description": "Add WebsitePower to diagram",
+    "scope": "plantuml",
     "body": [
       "WebsitePower(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5210,6 +5861,7 @@
   "WebsitePower_Descr": {
     "prefix": "WebsitePower with Description",
     "description": "Add WebsitePower with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "WebsitePower(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5218,6 +5870,7 @@
   "WebsiteStaging": {
     "prefix": "WebsiteStaging",
     "description": "Add WebsiteStaging to diagram",
+    "scope": "plantuml",
     "body": [
       "WebsiteStaging(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5226,6 +5879,7 @@
   "WebsiteStaging_Descr": {
     "prefix": "WebsiteStaging with Description",
     "description": "Add WebsiteStaging with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "WebsiteStaging(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5234,6 +5888,7 @@
   "WebSlots": {
     "prefix": "WebSlots",
     "description": "Add WebSlots to diagram",
+    "scope": "plantuml",
     "body": [
       "WebSlots(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5242,6 +5897,7 @@
   "WebSlots_Descr": {
     "prefix": "WebSlots with Description",
     "description": "Add WebSlots with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "WebSlots(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5250,6 +5906,7 @@
   "WebTest": {
     "prefix": "WebTest",
     "description": "Add WebTest to diagram",
+    "scope": "plantuml",
     "body": [
       "WebTest(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5258,6 +5915,7 @@
   "WebTest_Descr": {
     "prefix": "WebTest with Description",
     "description": "Add WebTest with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "WebTest(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5266,6 +5924,7 @@
   "WindowsVirtualDesktop": {
     "prefix": "WindowsVirtualDesktop",
     "description": "Add WindowsVirtualDesktop to diagram",
+    "scope": "plantuml",
     "body": [
       "WindowsVirtualDesktop(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5274,6 +5933,7 @@
   "WindowsVirtualDesktop_Descr": {
     "prefix": "WindowsVirtualDesktop with Description",
     "description": "Add WindowsVirtualDesktop with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "WindowsVirtualDesktop(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5282,6 +5942,7 @@
   "Workbooks": {
     "prefix": "Workbooks",
     "description": "Add Workbooks to diagram",
+    "scope": "plantuml",
     "body": [
       "Workbooks(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5290,6 +5951,7 @@
   "Workbooks_Descr": {
     "prefix": "Workbooks with Description",
     "description": "Add Workbooks with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Workbooks(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5298,6 +5960,7 @@
   "Workflow": {
     "prefix": "Workflow",
     "description": "Add Workflow to diagram",
+    "scope": "plantuml",
     "body": [
       "Workflow(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5306,6 +5969,7 @@
   "Workflow_Descr": {
     "prefix": "Workflow with Description",
     "description": "Add Workflow with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Workflow(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5314,6 +5978,7 @@
   "Workspaces": {
     "prefix": "Workspaces",
     "description": "Add Workspaces to diagram",
+    "scope": "plantuml",
     "body": [
       "Workspaces(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5322,6 +5987,7 @@
   "Workspaces_Descr": {
     "prefix": "Workspaces with Description",
     "description": "Add Workspaces with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Workspaces(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
@@ -5330,6 +5996,7 @@
   "Yammer": {
     "prefix": "Yammer",
     "description": "Add Yammer to diagram",
+    "scope": "plantuml",
     "body": [
       "Yammer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
@@ -5338,6 +6005,7 @@
   "Yammer_Descr": {
     "prefix": "Yammer with Description",
     "description": "Add Yammer with Description to diagram",
+    "scope": "plantuml",
     "body": [
       "Yammer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"

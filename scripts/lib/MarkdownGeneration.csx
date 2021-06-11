@@ -25,5 +25,5 @@ public static void GenerateMarkdownTable(string distFolder, string imageBaseUrl)
 
         sbTable.AppendLine($"{entityName}.puml");
     }
-    File.WriteAllText(Path.Combine(distFolder, "table.md"), sbTable.ToString());
+    File.WriteAllText(Path.Combine(distFolder, "Elements Table.md"), sbTable.ToString());
 }

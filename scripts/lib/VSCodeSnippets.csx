@@ -59,6 +59,7 @@ private class Snippet {
     public string prefix { get; set; }
 
     public string description { get; set; }
+    public string scope { get; set; } = "plantuml";
 
     public List<string> body { get; set; }
 }
