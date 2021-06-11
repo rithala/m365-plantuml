@@ -26,7 +26,7 @@ var inkScapePath = @"C:\Program Files\Inkscape\bin\inkscape.exe";
 static string rsvgConvertPath = @"C:\ProgramData\chocolatey\bin\rsvg-convert.exe";
 static string imageBaseUrl = "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist";
 
-static string[] commonDefinitions = new[] { "AzureRaw.puml", "AzureCommon.puml", "AzureC4Integration.puml", "AzureSimplified.puml" };
+static string[] commonDefinitions = new[] { "Raw.puml", "Common.puml", "C4Integration.puml", "Simplified.puml" };
 
 
 Main();
@@ -59,7 +59,7 @@ public void Main()
     }
 
     var catAllFilePath = Path.Combine(targetFolder, "all.puml");
-    CombineMultipleFilesIntoSingleFile(targetFolder, "*.puml", catAllFilePath);
+    CombineMultipleFilesIntoSingleFile(targetFolder, "*.puml", catAllFilePath, commonDefinitions);
 
     GenerateMarkdownTable(targetFolder, imageBaseUrl);
     GenerateVSCodeSnippets(targetFolder);

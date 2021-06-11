@@ -479,22 +479,6 @@
       "$0"
     ]
   },
-  "AzureC4Integration": {
-    "prefix": "AzureC4Integration",
-    "description": "Add AzureC4Integration to diagram",
-    "body": [
-      "AzureC4Integration(${1:alias}, \"${2:label}\", \"${3:technology}\")",
-      "$0"
-    ]
-  },
-  "AzureC4Integration_Descr": {
-    "prefix": "AzureC4Integration with Description",
-    "description": "Add AzureC4Integration with Description to diagram",
-    "body": [
-      "AzureC4Integration(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
-      "$0"
-    ]
-  },
   "AzureCloudShell": {
     "prefix": "AzureCloudShell",
     "description": "Add AzureCloudShell to diagram",
@@ -508,22 +492,6 @@
     "description": "Add AzureCloudShell with Description to diagram",
     "body": [
       "AzureCloudShell(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
-      "$0"
-    ]
-  },
-  "AzureCommon": {
-    "prefix": "AzureCommon",
-    "description": "Add AzureCommon to diagram",
-    "body": [
-      "AzureCommon(${1:alias}, \"${2:label}\", \"${3:technology}\")",
-      "$0"
-    ]
-  },
-  "AzureCommon_Descr": {
-    "prefix": "AzureCommon with Description",
-    "description": "Add AzureCommon with Description to diagram",
-    "body": [
-      "AzureCommon(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
@@ -799,22 +767,6 @@
       "$0"
     ]
   },
-  "AzureRaw": {
-    "prefix": "AzureRaw",
-    "description": "Add AzureRaw to diagram",
-    "body": [
-      "AzureRaw(${1:alias}, \"${2:label}\", \"${3:technology}\")",
-      "$0"
-    ]
-  },
-  "AzureRaw_Descr": {
-    "prefix": "AzureRaw with Description",
-    "description": "Add AzureRaw with Description to diagram",
-    "body": [
-      "AzureRaw(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
-      "$0"
-    ]
-  },
   "AzureSentinel": {
     "prefix": "AzureSentinel",
     "description": "Add AzureSentinel to diagram",
@@ -828,22 +780,6 @@
     "description": "Add AzureSentinel with Description to diagram",
     "body": [
       "AzureSentinel(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
-      "$0"
-    ]
-  },
-  "AzureSimplified": {
-    "prefix": "AzureSimplified",
-    "description": "Add AzureSimplified to diagram",
-    "body": [
-      "AzureSimplified(${1:alias}, \"${2:label}\", \"${3:technology}\")",
-      "$0"
-    ]
-  },
-  "AzureSimplified_Descr": {
-    "prefix": "AzureSimplified with Description",
-    "description": "Add AzureSimplified with Description to diagram",
-    "body": [
-      "AzureSimplified(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
@@ -1183,6 +1119,22 @@
       "$0"
     ]
   },
+  "C4Integration": {
+    "prefix": "C4Integration",
+    "description": "Add C4Integration to diagram",
+    "body": [
+      "C4Integration(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "C4Integration_Descr": {
+    "prefix": "C4Integration with Description",
+    "description": "Add C4Integration with Description to diagram",
+    "body": [
+      "C4Integration(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "Cache": {
     "prefix": "Cache",
     "description": "Add Cache to diagram",
@@ -1308,6 +1260,22 @@
     "description": "Add Commit with Description to diagram",
     "body": [
       "Commit(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "Common": {
+    "prefix": "Common",
+    "description": "Add Common to diagram",
+    "body": [
+      "Common(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Common_Descr": {
+    "prefix": "Common with Description",
+    "description": "Add Common with Description to diagram",
+    "body": [
+      "Common(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
@@ -1692,6 +1660,22 @@
     "description": "Add DataShares with Description to diagram",
     "body": [
       "DataShares(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "Dataverse": {
+    "prefix": "Dataverse",
+    "description": "Add Dataverse to diagram",
+    "body": [
+      "Dataverse(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Dataverse_Descr": {
+    "prefix": "Dataverse with Description",
+    "description": "Add Dataverse with Description to diagram",
+    "body": [
+      "Dataverse(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
@@ -2092,6 +2076,22 @@
     "description": "Add EventHubs with Description to diagram",
     "body": [
       "EventHubs(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "Excel": {
+    "prefix": "Excel",
+    "description": "Add Excel to diagram",
+    "body": [
+      "Excel(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Excel_Descr": {
+    "prefix": "Excel with Description",
+    "description": "Add Excel with Description to diagram",
+    "body": [
+      "Excel(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
@@ -2847,6 +2847,22 @@
       "$0"
     ]
   },
+  "Lists": {
+    "prefix": "Lists",
+    "description": "Add Lists to diagram",
+    "body": [
+      "Lists(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Lists_Descr": {
+    "prefix": "Lists with Description",
+    "description": "Add Lists with Description to diagram",
+    "body": [
+      "Lists(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "LoadBalancers": {
     "prefix": "LoadBalancers",
     "description": "Add LoadBalancers to diagram",
@@ -3391,6 +3407,22 @@
       "$0"
     ]
   },
+  "OneDrive": {
+    "prefix": "OneDrive",
+    "description": "Add OneDrive to diagram",
+    "body": [
+      "OneDrive(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "OneDrive_Descr": {
+    "prefix": "OneDrive with Description",
+    "description": "Add OneDrive with Description to diagram",
+    "body": [
+      "OneDrive(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "OperationLogClassic": {
     "prefix": "OperationLogClassic",
     "description": "Add OperationLogClassic to diagram",
@@ -3471,6 +3503,22 @@
       "$0"
     ]
   },
+  "Plannersvg": {
+    "prefix": "Plannersvg",
+    "description": "Add Plannersvg to diagram",
+    "body": [
+      "Plannersvg(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Plannersvg_Descr": {
+    "prefix": "Plannersvg with Description",
+    "description": "Add Plannersvg with Description to diagram",
+    "body": [
+      "Plannersvg(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "Plans": {
     "prefix": "Plans",
     "description": "Add Plans to diagram",
@@ -3519,6 +3567,54 @@
       "$0"
     ]
   },
+  "PowerApps": {
+    "prefix": "PowerApps",
+    "description": "Add PowerApps to diagram",
+    "body": [
+      "PowerApps(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerApps_Descr": {
+    "prefix": "PowerApps with Description",
+    "description": "Add PowerApps with Description to diagram",
+    "body": [
+      "PowerApps(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerAutomate": {
+    "prefix": "PowerAutomate",
+    "description": "Add PowerAutomate to diagram",
+    "body": [
+      "PowerAutomate(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerAutomate_Descr": {
+    "prefix": "PowerAutomate with Description",
+    "description": "Add PowerAutomate with Description to diagram",
+    "body": [
+      "PowerAutomate(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerBI": {
+    "prefix": "PowerBI",
+    "description": "Add PowerBI to diagram",
+    "body": [
+      "PowerBI(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerBI_Descr": {
+    "prefix": "PowerBI with Description",
+    "description": "Add PowerBI with Description to diagram",
+    "body": [
+      "PowerBI(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "Powershell": {
     "prefix": "Powershell",
     "description": "Add Powershell to diagram",
@@ -3548,6 +3644,22 @@
     "description": "Add PowerUp with Description to diagram",
     "body": [
       "PowerUp(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerVirtualAgents": {
+    "prefix": "PowerVirtualAgents",
+    "description": "Add PowerVirtualAgents to diagram",
+    "body": [
+      "PowerVirtualAgents(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerVirtualAgents_Descr": {
+    "prefix": "PowerVirtualAgents with Description",
+    "description": "Add PowerVirtualAgents with Description to diagram",
+    "body": [
+      "PowerVirtualAgents(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
@@ -3724,6 +3836,22 @@
     "description": "Add QuickstartCenter with Description to diagram",
     "body": [
       "QuickstartCenter(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "Raw": {
+    "prefix": "Raw",
+    "description": "Add Raw to diagram",
+    "body": [
+      "Raw(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Raw_Descr": {
+    "prefix": "Raw with Description",
+    "description": "Add Raw with Description to diagram",
+    "body": [
+      "Raw(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
@@ -4191,6 +4319,38 @@
       "$0"
     ]
   },
+  "SharePoint": {
+    "prefix": "SharePoint",
+    "description": "Add SharePoint to diagram",
+    "body": [
+      "SharePoint(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "SharePoint_Descr": {
+    "prefix": "SharePoint with Description",
+    "description": "Add SharePoint with Description to diagram",
+    "body": [
+      "SharePoint(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "Simplified": {
+    "prefix": "Simplified",
+    "description": "Add Simplified to diagram",
+    "body": [
+      "Simplified(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Simplified_Descr": {
+    "prefix": "Simplified with Description",
+    "description": "Add Simplified with Description to diagram",
+    "body": [
+      "Simplified(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "SoftwareasaService": {
     "prefix": "SoftwareasaService",
     "description": "Add SoftwareasaService to diagram",
@@ -4591,6 +4751,22 @@
       "$0"
     ]
   },
+  "Teams": {
+    "prefix": "Teams",
+    "description": "Add Teams to diagram",
+    "body": [
+      "Teams(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Teams_Descr": {
+    "prefix": "Teams with Description",
+    "description": "Add Teams with Description to diagram",
+    "body": [
+      "Teams(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "TemplateSpecs": {
     "prefix": "TemplateSpecs",
     "description": "Add TemplateSpecs to diagram",
@@ -4684,6 +4860,22 @@
     "description": "Add TimeSeriesInsightsEventSources with Description to diagram",
     "body": [
       "TimeSeriesInsightsEventSources(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "ToDo": {
+    "prefix": "ToDo",
+    "description": "Add ToDo to diagram",
+    "body": [
+      "ToDo(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "ToDo_Descr": {
+    "prefix": "ToDo with Description",
+    "description": "Add ToDo with Description to diagram",
+    "body": [
+      "ToDo(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
@@ -5132,6 +5324,22 @@
     "description": "Add Workspaces with Description to diagram",
     "body": [
       "Workspaces(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "Yammer": {
+    "prefix": "Yammer",
+    "description": "Add Yammer to diagram",
+    "body": [
+      "Yammer(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "Yammer_Descr": {
+    "prefix": "Yammer with Description",
+    "description": "Add Yammer with Description to diagram",
+    "body": [
+      "Yammer(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   }
