@@ -26,6 +26,8 @@ var inkScapePath = @"C:\Program Files\Inkscape\bin\inkscape.exe";
 static string rsvgConvertPath = @"C:\ProgramData\chocolatey\bin\rsvg-convert.exe";
 static string imageBaseUrl = "https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist";
 
+static string[] commonDefinitions = new[] { "AzureRaw.puml", "AzureCommon.puml", "AzureC4Integration.puml", "AzureSimplified.puml" };
+
 
 Main();
 
@@ -39,10 +41,10 @@ public void Main()
     }
     Directory.CreateDirectory(targetFolder);
 
-    File.Copy(Path.Combine(sourceFolder, "AzureRaw.puml"), Path.Combine(targetFolder, "AzureRaw.puml"));
-    File.Copy(Path.Combine(sourceFolder, "AzureCommon.puml"), Path.Combine(targetFolder, "AzureCommon.puml"));
-    File.Copy(Path.Combine(sourceFolder, "AzureC4Integration.puml"), Path.Combine(targetFolder, "AzureC4Integration.puml"));
-    File.Copy(Path.Combine(sourceFolder, "AzureSimplified.puml"), Path.Combine(targetFolder, "AzureSimplified.puml"));
+    foreach (var item in commonDefinitions)
+    {
+        File.Copy(Path.Combine(sourceFolder, item), Path.Combine(targetFolder, item));
+    }
 
     foreach (var filePath in Directory.GetFiles(iconsDirectory,
                                             "*.svg",
@@ -117,9 +119,9 @@ public static bool RsvgConvert(string inputPath, string outputPath, int targetIm
     return true;
 }
 
-private static void CombineMultipleFilesIntoSingleFile(string inputDirectoryPath, string inputFileNamePattern, string outputFilePath)
+private static void CombineMultipleFilesIntoSingleFile(string inputDirectoryPath, string inputFileNamePattern, string outputFilePath, string[] omitFiles)
 {
-    string[] inputFilePaths = Directory.GetFiles(inputDirectoryPath, inputFileNamePattern, SearchOption.AllDirectories);
+    var inputFilePaths = Directory.GetFiles(inputDirectoryPath, inputFileNamePattern, SearchOption.AllDirectories).Where(x => !omitFiles.Contains(Path.GetFileName(x)));
     using (var outputStream = File.Create(outputFilePath))
     {
         foreach (var inputFilePath in inputFilePaths)
