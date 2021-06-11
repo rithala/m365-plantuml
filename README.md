@@ -24,7 +24,7 @@ If you want to use the always up-to-date version in this repo, use the following
 !includeurl https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Common.puml
 ```
 
-The next step is to include specific `.puml` files from Azure-PlantUML.  
+The next step is to include specific `.puml` files.  
 For each Azure service a specific `.puml` file exists, which contains sprite and macros definitions.  
 It is also possible to include Azure services category `.puml` files, which contain all Azure services from this category.
 
@@ -87,6 +87,6 @@ Rel_U(flow, approver, "Sends approval")
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
+* [PlantUML](http://www.plantuml.com) - for making an easy way to create diagrams
 * [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML) - for creating a great framework making possible to create this fork
 

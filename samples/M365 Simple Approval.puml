@@ -24,6 +24,6 @@ PowerAutomate(flow, "Approval Flow", "Power Automate M365")
 Rel(user, powerApp, "Uses")
 Rel(powerApp, list, "Stores data")
 Rel(list, flow, "Triggers")
-Rel_U(flow, approver, "Sends approval")
+Rel(flow, approver, "Sends approval")
 
 @enduml
