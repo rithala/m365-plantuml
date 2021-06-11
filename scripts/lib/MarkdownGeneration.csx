@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-public static void GenerateMarkdownTable(string distFolder)
+public static void GenerateMarkdownTable(string distFolder, string imageBaseUrl)
 {
     Console.WriteLine("Generating Markdown table...");
 
@@ -16,7 +16,7 @@ public static void GenerateMarkdownTable(string distFolder)
 
         if (File.Exists(Path.Combine(distFolder, $"{entityName}.svg")))
         {
-            sbTable.Append($"![{entityName}](dist/{entityName}.svg?raw=true) | ");
+            sbTable.Append($"![{entityName}]({imageBaseUrl}/{entityName}.svg?raw=true) | ");
         }
         else
         {
