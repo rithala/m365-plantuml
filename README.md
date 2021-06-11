@@ -44,6 +44,31 @@ Or the always up-to-date version in this repo:
 
 ## Samples
 
+### [Hello World](/samples/Hello%20World.puml)
+
+![Hello World](http://www.plantuml.com/plantuml/proxy?idx=0&src=https%3A%2F%2Fraw.githubusercontent.com%2Frithala%2Fm365-plantuml%2Fmaster%2Fsamples%2FHello%2520World.puml)
+
+PlantUML
+```c#
+@startuml Hello World
+!pragma revision 1
+
+!define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
+!includeurl MS/Common.puml
+!includeurl MS/AzureCosmosDB.puml
+!includeurl MS/FunctionApp.puml
+
+actor "Person" as personAlias
+
+FunctionApp(functionAlias, "Label", "Technology", "Optional Description")
+AzureCosmosDB(cosmosDbAlias, "Label", "Technology", "Optional Description")
+
+personAlias --> functionAlias
+functionAlias --> cosmosDbAlias
+
+@enduml
+```
+
 
 ### [M365 Simple Approval](/samples/M365%20Simple%20Approval.puml)
 
