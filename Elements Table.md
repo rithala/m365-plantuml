@@ -219,7 +219,7 @@ OutboundConnection </br> (OutboundConnection) | ![OutboundConnection](https://ra
 PartnerTopic </br> (PartnerTopic) | ![PartnerTopic](https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PartnerTopic.svg?raw=true) | PartnerTopic.puml
 PeeringService </br> (PeeringService) | ![PeeringService](https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PeeringService.svg?raw=true) | PeeringService.puml
 Plan </br> (Plan) | ![Plan](https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Plan.svg?raw=true) | Plan.puml
-Plannersvg </br> (Plannersvg) | ![Plannersvg](https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Plannersvg.svg?raw=true) | Plannersvg.puml
+Planner </br> (Planner) | ![Planner](https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Planner.svg?raw=true) | Planner.puml
 Policy </br> (Policy) | ![Policy](https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Policy.svg?raw=true) | Policy.puml
 Power </br> (Power) | ![Power](https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/Power.svg?raw=true) | Power.puml
 PowerApp </br> (PowerApp) | ![PowerApp](https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist/PowerApp.svg?raw=true) | PowerApp.puml

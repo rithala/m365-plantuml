@@ -4,9 +4,9 @@ Fork of [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML) allo
 
 ## Getting Started
 
-To be able to use M365-PlantUML it is necessary to use specific `!includes`.  
+To be able to use M365 PlantUML it is necessary to use specific `!includes`.  
 After that the Azure service macros are available and can be used.  
-A list of all supported Azure and Microsoft 365 services can be found in the [Symbols Documentation](Elements Table.md).
+A list of all supported Azure and Microsoft 365 services can be found in the [Symbols Documentation](/Elements%20Table.md).
 
 ### Prerequisites
 
@@ -29,17 +29,17 @@ For each Azure service a specific `.puml` file exists, which contains sprite and
 It is also possible to include Azure services category `.puml` files, which contain all Azure services from this category.
 
 ```c#
-!define MS path/to
-!include MS/Common.puml
-!include MS/FunctionApp.puml
+!define MUml path/to
+!include MUml/Common.puml
+!include MUml/FunctionApp.puml
 ```
 
 Or the always up-to-date version in this repo:
 
 ```c#
-!define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
-!includeurl MS/Common.puml
-!includeurl MS/FunctionApp.puml
+!define MUml https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
+!includeurl MUml/Common.puml
+!includeurl MUml/FunctionApp.puml
 ```
 
 ## Samples
@@ -53,10 +53,10 @@ PlantUML
 @startuml Hello World
 !pragma revision 1
 
-!define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
-!includeurl MS/Common.puml
-!includeurl MS/AzureCosmosDB.puml
-!includeurl MS/FunctionApp.puml
+!define MUml https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
+!includeurl MUml/Common.puml
+!includeurl MUml/AzureCosmosDB.puml
+!includeurl MUml/FunctionApp.puml
 
 actor "Person" as personAlias
 
@@ -81,14 +81,14 @@ PlantUML
 
 !includeurl https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
-!define MS https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
+!define MUml https://raw.githubusercontent.com/rithala/m365-plantuml/master/dist
 
-!includeurl MS/Common.puml
-!includeurl MS/C4Integration.puml
-!includeurl MS/Common.puml
-!includeurl MS/PowerApp.puml
-!includeurl MS/PowerAutomate.puml
-!includeurl MS/List.puml
+!includeurl MUml/Common.puml
+!includeurl MUml/C4Integration.puml
+!includeurl MUml/Common.puml
+!includeurl MUml/PowerApp.puml
+!includeurl MUml/PowerAutomate.puml
+!includeurl MUml/List.puml
 
 LAYOUT_LEFT_RIGHT
 

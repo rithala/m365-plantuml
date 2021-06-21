@@ -3923,21 +3923,21 @@
       "$0"
     ]
   },
-  "Plannersvg": {
-    "prefix": "Plannersvg",
-    "description": "Add Plannersvg to diagram",
+  "Planner": {
+    "prefix": "Planner",
+    "description": "Add Planner to diagram",
     "scope": "plantuml",
     "body": [
-      "Plannersvg(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "Planner(${1:alias}, \"${2:label}\", \"${3:technology}\")",
       "$0"
     ]
   },
-  "Plannersvg_Descr": {
-    "prefix": "Plannersvg with Description",
-    "description": "Add Plannersvg with Description to diagram",
+  "Planner_Descr": {
+    "prefix": "Planner with Description",
+    "description": "Add Planner with Description to diagram",
     "scope": "plantuml",
     "body": [
-      "Plannersvg(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "Planner(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
       "$0"
     ]
   },
